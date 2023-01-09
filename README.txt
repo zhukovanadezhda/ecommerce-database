@@ -20,7 +20,7 @@ Les clients peuvent déposer des avis et des notes (sur les produits), qui sont 
 
 II) Peuplement des tables
 
-Les tables sont alimentées à partir de fichiers csv générés par vous-même à l'aide du site. Tous les fichiers csv utilisés sont placés dans le répertoire CSV.
+Les tables sont alimentées à partir de fichiers csv générés par vous-même à l'aide du site. 
 
 III) Les requêtes
 
