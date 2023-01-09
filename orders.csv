@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,quantity,delivery_address,order_date,status,shipped_date,delivery_date
+1,680,614,6,84 Union Lane,10/06/2022,en livraison,12/06/2022,NULL
+2,984,784,7,61 Hanson Junction,12/10/2022,en attente,NULL,NULL
+3,371,404,2,357 Mariners Cove Road,25/06/2019,en préparation,NULL,NULL
+4,894,487,10,12 Larry Parkway,24/07/2022,en livraison,25/07/2022,NULL
+5,53,612,5,041 Rutledge Crossing,05/02/2021,en attente,NULL,NULL
+6,41,217,7,3962 6th Street,20/11/2020,en livraison,23/11/2020,NULL
+7,259,440,1,96 Carey Alley,31/12/2020,en préparation,NULL,NULL
+8,388,299,5,196 2nd Crossing,15/01/2021,en préparation,NULL,NULL
+9,892,534,10,30396 Veith Crossing,11/05/2022,en préparation,NULL,NULL
+10,951,367,4,37436 Onsgard Avenue,17/04/2019,en préparation,NULL,NULL
+11,969,346,1,23 Continental Plaza,18/06/2019,en attente,NULL,NULL
+12,129,607,9,67 Artisan Pass,23/10/2022,en préparation,NULL,NULL
+13,949,446,7,93 Moose Junction,05/08/2020,en attente,NULL,NULL
+14,420,126,5,24 Sutteridge Junction,06/11/2022,en attente,NULL,NULL
+15,872,892,7,15041 Graedel Pass,14/03/2020,en livraison,17/03/2020,NULL
+16,946,398,4,38843 Kedzie Point,07/01/2020,en livraison,08/01/2020,NULL
+17,320,666,1,1394 Sunbrook Park,03/07/2021,en livraison,04/07/2021,NULL
+18,941,729,9,144 Pawling Park,10/10/2021,livré,12/10/2021,13/10/2021
+19,56,565,6,21392 Magdeline Alley,17/06/2021,en livraison,18/06/2021,NULL
+20,12,141,6,37 Scoville Road,26/03/2019,en livraison,27/03/2019,NULL
+21,117,824,6,3941 Corben Center,13/09/2021,en attente,NULL,NULL
+22,932,121,7,809 Merchant Point,13/06/2021,en préparation,NULL,NULL
+23,409,549,2,544 Browning Point,08/09/2022,livré,11/09/2022,14/09/2022
+24,740,92,10,6737 Knutson Court,20/10/2022,en livraison,22/10/2022,NULL
+25,304,627,6,59 American Ash Center,13/04/2019,en livraison,14/04/2019,NULL
+26,958,145,1,163 Dixon Parkway,08/07/2022,en livraison,10/07/2022,NULL
+27,774,155,2,2272 Anniversary Trail,16/09/2022,en attente,NULL,NULL
+28,987,938,3,3 Erie Court,08/08/2021,en attente,NULL,NULL
+29,843,419,9,3122 Londonderry Lane,26/01/2021,livré,27/01/2021,28/01/2021
+30,236,390,5,9800 Ilene Crossing,01/04/2022,en attente,NULL,NULL
+31,712,883,1,2 Longview Parkway,27/12/2020,en attente,NULL,NULL
+32,519,482,2,82 Mosinee Crossing,06/01/2019,livré,07/01/2019,08/01/2019
+33,180,757,2,983 Debs Road,14/02/2021,livré,15/02/2021,16/02/2021
+34,968,151,6,7695 New Castle Center,20/01/2021,livré,21/01/2021,24/01/2021
+35,336,557,9,164 Warner Plaza,28/05/2019,livré,29/05/2019,31/05/2019
+36,966,405,8,2359 Trailsway Court,08/06/2020,livré,11/06/2020,12/06/2020
+37,403,785,3,56905 New Castle Street,05/06/2020,en livraison,06/06/2020,NULL
+38,843,750,1,4 Hollow Ridge Avenue,31/08/2021,en préparation,NULL,NULL
+39,656,383,6,011 Springview Trail,06/03/2020,en attente,NULL,NULL
+40,609,347,9,21721 Blue Bill Park Place,10/08/2019,livré,11/08/2019,14/08/2019
+41,507,486,8,126 Raven Point,24/06/2022,en livraison,25/06/2022,NULL
+42,134,615,1,04312 Rusk Point,13/09/2021,en livraison,14/09/2021,NULL
+43,658,108,1,41466 Caliangt Junction,13/07/2019,livré,14/07/2019,16/07/2019
+44,477,59,6,9 Magdeline Lane,06/12/2022,en attente,NULL,NULL
+45,954,119,10,98000 Lakewood Place,20/06/2019,en livraison,22/06/2019,NULL
+46,395,200,8,36785 Rutledge Way,26/04/2020,en préparation,NULL,NULL
+47,204,362,3,2263 Sheridan Trail,11/10/2021,en livraison,13/10/2021,NULL
+48,754,932,7,092 5th Hill,29/05/2020,livré,01/06/2020,02/06/2020
+49,998,445,10,80720 Manitowish Park,16/04/2020,livré,17/04/2020,19/04/2020
+50,257,198,2,57725 Tennyson Crossing,30/10/2019,livré,02/11/2019,05/11/2019
+51,486,397,8,970 Hazelcrest Alley,26/08/2020,en préparation,NULL,NULL
+52,659,35,9,3031 Sommers Drive,07/10/2020,en livraison,08/10/2020,NULL
+53,459,472,3,06242 Utah Terrace,28/04/2019,en attente,NULL,NULL
+54,176,309,10,32185 Bunker Hill Drive,24/01/2022,en livraison,25/01/2022,NULL
+55,354,916,1,64 Lillian Point,07/01/2019,en préparation,NULL,NULL
+56,491,116,7,60686 Cascade Drive,16/08/2019,en attente,NULL,NULL
+57,20,835,5,5414 Maryland Junction,23/08/2019,livré,25/08/2019,27/08/2019
+58,434,435,4,373 Gerald Court,27/04/2019,livré,28/04/2019,30/04/2019
+59,914,332,7,631 Anhalt Park,17/03/2020,en préparation,NULL,NULL
+60,560,740,3,910 Myrtle Alley,28/04/2020,en préparation,NULL,NULL
+61,927,381,5,6433 Schlimgen Park,15/11/2019,en livraison,17/11/2019,NULL
+62,36,912,7,98045 Pankratz Parkway,20/09/2022,en attente,NULL,NULL
+63,56,713,6,611 Union Road,15/09/2021,en livraison,18/09/2021,NULL
+64,933,711,8,55024 Union Hill,19/01/2019,en attente,NULL,NULL
+65,789,999,3,54 Manitowish Street,18/07/2020,en livraison,20/07/2020,NULL
+66,409,220,5,341 Crescent Oaks Way,29/11/2020,livré,02/12/2020,04/12/2020
+67,825,211,2,64821 Oak Trail,19/12/2022,livré,21/12/2022,22/12/2022
+68,170,82,4,806 Hanover Court,19/11/2021,en livraison,22/11/2021,NULL
+69,407,304,5,4 Mayer Place,25/10/2020,en préparation,NULL,NULL
+70,53,299,5,60 Heath Lane,08/03/2022,en attente,NULL,NULL
+71,441,872,1,4 Grasskamp Hill,13/12/2019,en préparation,NULL,NULL
+72,740,839,1,3018 1st Crossing,02/05/2022,livré,03/05/2022,06/05/2022
+73,786,223,4,93 Rieder Junction,10/08/2019,en préparation,NULL,NULL
+74,205,383,4,524 Clove Avenue,25/02/2020,livré,26/02/2020,29/02/2020
+75,313,508,10,1 Buhler Point,20/01/2019,en livraison,22/01/2019,NULL
+76,761,43,6,56139 Derek Drive,10/07/2020,en attente,NULL,NULL
+77,211,359,10,72001 Mccormick Court,23/04/2020,livré,26/04/2020,27/04/2020
+78,379,50,8,723 Monterey Plaza,18/02/2020,livré,20/02/2020,23/02/2020
+79,526,514,7,84743 Sage Hill,19/02/2021,en attente,NULL,NULL
+80,884,377,5,859 Glendale Parkway,13/12/2018,en livraison,15/12/2018,NULL
+81,416,142,6,231 North Way,03/07/2020,en livraison,04/07/2020,NULL
+82,668,963,2,34043 Bultman Way,09/08/2020,livré,10/08/2020,12/08/2020
+83,619,350,6,34 5th Avenue,05/05/2020,en préparation,NULL,NULL
+84,680,663,10,36735 Thackeray Parkway,14/01/2022,en livraison,16/01/2022,NULL
+85,141,357,9,57106 Brown Way,29/10/2021,en attente,NULL,NULL
+86,540,894,2,5 Commercial Junction,05/08/2021,livré,08/08/2021,09/08/2021
+87,911,473,3,63 Cardinal Parkway,10/03/2021,livré,12/03/2021,15/03/2021
+88,679,453,4,69724 Texas Road,20/02/2022,en préparation,NULL,NULL
+89,386,801,1,70 Kingsford Trail,09/09/2020,en livraison,12/09/2020,NULL
+90,684,798,10,59268 Blue Bill Park Way,24/01/2021,en préparation,NULL,NULL
+91,337,227,4,8332 Badeau Road,08/07/2019,en attente,NULL,NULL
+92,526,890,7,651 North Junction,24/04/2021,en préparation,NULL,NULL
+93,321,984,1,81452 Dryden Crossing,31/12/2018,en attente,NULL,NULL
+94,249,38,6,623 Drewry Center,26/07/2021,en attente,NULL,NULL
+95,112,504,1,39161 2nd Court,07/08/2021,en préparation,NULL,NULL
+96,592,838,1,470 Green Ridge Parkway,22/01/2019,livré,25/01/2019,26/01/2019
+97,530,582,4,8 Menomonie Pass,18/02/2020,livré,20/02/2020,22/02/2020
+98,105,864,7,22007 Katie Drive,30/06/2020,en préparation,NULL,NULL
+99,439,47,6,9 Luster Plaza,24/02/2019,en livraison,25/02/2019,NULL
+100,964,354,8,71 Carpenter Circle,18/05/2021,en livraison,20/05/2021,NULL
+101,511,371,4,86347 Crownhardt Park,09/03/2022,en livraison,11/03/2022,NULL
+102,834,321,4,095 Brown Place,09/03/2019,en livraison,11/03/2019,NULL
+103,906,799,6,93 Mayfield Hill,30/01/2019,en attente,NULL,NULL
+104,391,383,2,08905 Crowley Plaza,31/05/2022,en attente,NULL,NULL
+105,313,720,9,43511 Amoth Pass,11/10/2020,en livraison,12/10/2020,NULL
+106,191,893,3,0279 Mayer Drive,18/05/2021,livré,21/05/2021,22/05/2021
+107,146,91,5,3815 Delaware Circle,03/03/2021,en attente,NULL,NULL
+108,560,72,2,02867 Glendale Pass,15/05/2019,livré,17/05/2019,19/05/2019
+109,641,664,4,31 Hazelcrest Pass,24/07/2020,livré,26/07/2020,28/07/2020
+110,165,564,6,68 Summit Place,09/11/2022,livré,11/11/2022,12/11/2022
+111,13,218,1,43 La Follette Pass,07/12/2018,en attente,NULL,NULL
+112,440,67,5,67449 Schmedeman Hill,18/06/2022,livré,21/06/2022,23/06/2022
+113,98,421,10,93 Beilfuss Plaza,03/06/2022,en attente,NULL,NULL
+114,524,40,7,07 Red Cloud Pass,23/09/2021,en attente,NULL,NULL
+115,877,83,10,80 Sherman Terrace,03/03/2021,en attente,NULL,NULL
+116,717,425,9,83 Sommers Circle,21/06/2022,livré,24/06/2022,26/06/2022
+117,197,328,6,13932 Old Shore Court,05/01/2019,en attente,NULL,NULL
+118,23,714,10,4 Grim Court,31/08/2020,en attente,NULL,NULL
+119,245,48,6,69 Bunting Center,23/12/2019,livré,25/12/2019,27/12/2019
+120,620,424,2,767 Comanche Center,29/06/2020,en préparation,NULL,NULL
+121,365,940,8,261 Waubesa Court,30/09/2020,en préparation,NULL,NULL
+122,89,400,1,41639 Sunbrook Hill,16/12/2022,en préparation,NULL,NULL
+123,354,510,1,673 Mosinee Center,23/10/2019,en préparation,NULL,NULL
+124,52,909,4,86 Straubel Drive,19/12/2018,livré,20/12/2018,21/12/2018
+125,188,237,7,353 Tennessee Drive,05/03/2022,en livraison,06/03/2022,NULL
+126,692,739,6,8538 Merry Center,03/12/2018,en préparation,NULL,NULL
+127,945,884,3,12238 Shoshone Plaza,14/06/2020,en préparation,NULL,NULL
+128,159,71,1,4 Meadow Valley Road,25/03/2021,en attente,NULL,NULL
+129,56,440,9,284 Merrick Junction,10/12/2019,en livraison,12/12/2019,NULL
+130,854,106,1,31 Vermont Alley,21/12/2022,en préparation,NULL,NULL
+131,976,318,6,4808 Kingsford Lane,18/05/2021,en attente,NULL,NULL
+132,949,274,6,8 Esch Place,25/11/2021,en livraison,27/11/2021,NULL
+133,546,999,3,335 Swallow Center,05/08/2020,en préparation,NULL,NULL
+134,749,872,3,1 Schurz Parkway,26/08/2019,en attente,NULL,NULL
+135,159,63,9,03786 Mcbride Center,28/03/2020,en livraison,29/03/2020,NULL
+136,485,930,1,0 Laurel Parkway,19/02/2022,en attente,NULL,NULL
+137,840,585,10,14 Shopko Street,24/03/2022,en préparation,NULL,NULL
+138,932,322,2,29 Kensington Plaza,24/08/2021,en préparation,NULL,NULL
+139,560,163,8,41 Spohn Avenue,19/07/2022,en attente,NULL,NULL
+140,276,288,3,7 Everett Way,22/05/2019,en attente,NULL,NULL
+141,875,478,6,346 Northland Junction,08/05/2019,en attente,NULL,NULL
+142,530,368,1,49 Luster Court,20/06/2020,livré,21/06/2020,23/06/2020
+143,625,497,10,2971 Division Place,31/08/2021,en livraison,02/09/2021,NULL
+144,430,697,1,83564 Londonderry Parkway,10/08/2019,en préparation,NULL,NULL
+145,623,772,6,411 Clemons Park,07/08/2021,en attente,NULL,NULL
+146,129,311,4,92 Mayfield Place,18/03/2021,livré,20/03/2021,22/03/2021
+147,487,694,1,8 Duke Parkway,30/04/2019,en attente,NULL,NULL
+148,965,415,8,0441 Forster Trail,27/09/2021,en attente,NULL,NULL
+149,791,308,9,3 Ronald Regan Plaza,04/01/2020,livré,05/01/2020,07/01/2020
+150,346,923,7,9188 Grasskamp Center,13/04/2021,livré,16/04/2021,18/04/2021
+151,834,345,7,665 Barnett Street,26/11/2022,en attente,NULL,NULL
+152,615,751,9,624 Sherman Place,13/05/2021,en préparation,NULL,NULL
+153,341,236,2,17634 Kipling Way,05/03/2022,en livraison,07/03/2022,NULL
+154,688,36,8,5702 Banding Circle,14/04/2021,en préparation,NULL,NULL
+155,620,300,7,60 Hagan Junction,15/12/2022,en livraison,16/12/2022,NULL
+156,950,891,5,1655 Northview Junction,14/08/2021,en livraison,17/08/2021,NULL
+157,354,555,6,678 Prairieview Point,27/09/2021,livré,30/09/2021,01/10/2021
+158,664,546,7,40875 Buell Crossing,18/10/2022,en attente,NULL,NULL
+159,543,989,8,7 Carioca Avenue,07/09/2021,en attente,NULL,NULL
+160,74,816,1,76512 Fordem Road,28/02/2020,en livraison,01/03/2020,NULL
+161,787,720,3,241 Norway Maple Trail,30/11/2020,en préparation,NULL,NULL
+162,956,74,4,913 Oak Point,25/03/2022,en attente,NULL,NULL
+163,371,507,10,2 Nancy Terrace,15/04/2020,en livraison,17/04/2020,NULL
+164,400,741,6,7988 Burrows Drive,14/03/2022,livré,15/03/2022,17/03/2022
+165,313,315,2,581 8th Way,23/11/2022,livré,26/11/2022,29/11/2022
+166,693,701,8,3993 Bluestem Point,12/02/2022,livré,14/02/2022,16/02/2022
+167,353,495,5,167 Mariners Cove Plaza,18/08/2020,en livraison,19/08/2020,NULL
+168,156,711,7,7058 Cardinal Avenue,23/05/2020,livré,24/05/2020,26/05/2020
+169,148,293,4,95233 Londonderry Trail,08/03/2020,livré,10/03/2020,13/03/2020
+170,666,359,5,56729 Novick Terrace,31/07/2019,en attente,NULL,NULL
+171,515,907,2,73645 Huxley Street,04/11/2022,en attente,NULL,NULL
+172,142,364,3,9672 2nd Park,24/06/2022,en livraison,27/06/2022,NULL
+173,577,85,10,2 Bartillon Parkway,14/12/2021,en préparation,NULL,NULL
+174,398,688,8,192 Delladonna Plaza,05/02/2019,en attente,NULL,NULL
+175,943,504,6,5364 Forest Run Avenue,27/04/2021,en préparation,NULL,NULL
+176,967,494,1,01 Bowman Alley,19/04/2022,livré,21/04/2022,24/04/2022
+177,469,955,9,66 Grim Alley,27/06/2019,en préparation,NULL,NULL
+178,516,702,2,5403 Green Ridge Place,17/12/2019,en attente,NULL,NULL
+179,846,576,7,438 Emmet Place,18/09/2019,livré,20/09/2019,22/09/2019
+180,1,434,1,6 Elka Pass,01/04/2020,livré,03/04/2020,04/04/2020
+181,522,797,5,2090 Crownhardt Road,22/07/2021,en préparation,NULL,NULL
+182,704,79,10,2 Becker Junction,24/04/2020,en préparation,NULL,NULL
+183,124,838,1,04748 Summer Ridge Plaza,30/01/2019,livré,01/02/2019,03/02/2019
+184,956,494,5,588 Harbort Lane,04/12/2020,livré,06/12/2020,07/12/2020
+185,97,913,3,1 Warbler Street,26/12/2021,en attente,NULL,NULL
+186,354,506,3,5099 Ridgeway Terrace,31/07/2020,en attente,NULL,NULL
+187,103,566,7,3 Darwin Street,30/10/2022,en attente,NULL,NULL
+188,399,106,10,5 Carey Crossing,01/01/2019,livré,03/01/2019,05/01/2019
+189,296,808,8,922 Hooker Street,18/05/2019,en préparation,NULL,NULL
+190,257,344,9,60 1st Trail,26/12/2018,en livraison,27/12/2018,NULL
+191,181,995,9,9 La Follette Plaza,23/12/2021,en préparation,NULL,NULL
+192,672,962,4,2219 Carberry Terrace,16/01/2022,livré,18/01/2022,19/01/2022
+193,358,679,3,0391 Lien Park,08/04/2020,livré,11/04/2020,14/04/2020
+194,122,66,7,3633 Schmedeman Terrace,25/04/2019,en préparation,NULL,NULL
+195,287,94,3,977 Surrey Way,20/03/2021,en préparation,NULL,NULL
+196,612,958,3,3 Annamark Junction,22/01/2020,en livraison,25/01/2020,NULL
+197,345,453,5,3 Lakeland Crossing,15/08/2022,en préparation,NULL,NULL
+198,75,71,9,9 La Follette Crossing,25/12/2022,en préparation,NULL,NULL
+199,591,322,4,99486 Crownhardt Drive,11/02/2022,en préparation,NULL,NULL
+200,863,800,6,70 Vermont Crossing,13/11/2022,en attente,NULL,NULL
+201,200,468,3,3732 Homewood Circle,03/10/2021,livré,04/10/2021,06/10/2021
+202,265,588,8,741 Rutledge Parkway,07/10/2022,en attente,NULL,NULL
+203,442,92,4,33 Fulton Trail,29/06/2020,livré,30/06/2020,02/07/2020
+204,9,82,10,75613 Memorial Junction,09/05/2022,en préparation,NULL,NULL
+205,353,614,6,0543 Mallory Way,15/07/2021,en attente,NULL,NULL
+206,172,288,5,7795 Waubesa Place,26/04/2019,en attente,NULL,NULL
+207,68,79,10,29873 Pierstorff Court,03/10/2020,livré,06/10/2020,07/10/2020
+208,3,550,1,776 Dottie Junction,16/04/2021,en préparation,NULL,NULL
+209,489,421,8,69144 Farwell Street,04/11/2019,en livraison,07/11/2019,NULL
+210,668,852,10,6 Ridge Oak Park,14/11/2020,livré,17/11/2020,20/11/2020
+211,70,419,2,021 Hagan Court,01/12/2020,livré,02/12/2020,03/12/2020
+212,933,854,7,57732 Fair Oaks Plaza,01/02/2019,en attente,NULL,NULL
+213,315,365,4,256 Lakewood Gardens Way,09/11/2022,en préparation,NULL,NULL
+214,75,26,6,01 Reindahl Plaza,17/03/2022,livré,18/03/2022,19/03/2022
+215,258,407,10,94959 Mariners Cove Park,03/01/2019,en attente,NULL,NULL
+216,27,951,4,17355 Monument Road,27/02/2021,en attente,NULL,NULL
+217,462,405,3,476 Golden Leaf Plaza,18/08/2019,en livraison,19/08/2019,NULL
+218,941,700,8,2 Ohio Plaza,04/04/2022,livré,06/04/2022,07/04/2022
+219,423,523,7,2932 Kropf Alley,26/12/2020,en préparation,NULL,NULL
+220,519,381,3,25 Londonderry Drive,12/03/2021,en préparation,NULL,NULL
+221,999,862,7,210 Coleman Avenue,28/02/2021,en préparation,NULL,NULL
+222,338,645,6,70306 Caliangt Place,23/05/2022,livré,24/05/2022,25/05/2022
+223,483,960,2,924 Prairie Rose Way,11/02/2021,en attente,NULL,NULL
+224,126,731,1,231 Mandrake Way,07/08/2019,livré,08/08/2019,10/08/2019
+225,796,315,5,0990 Northfield Road,13/08/2019,en préparation,NULL,NULL
+226,860,693,1,5 Charing Cross Court,03/03/2020,en livraison,05/03/2020,NULL
+227,129,985,5,760 Harbort Plaza,11/10/2022,en préparation,NULL,NULL
+228,158,493,10,83073 Florence Street,23/07/2021,en préparation,NULL,NULL
+229,533,648,6,8 Hoffman Hill,16/07/2019,en préparation,NULL,NULL
+230,67,53,1,5105 Carpenter Drive,14/10/2022,en préparation,NULL,NULL
+231,291,26,9,8 Glacier Hill Circle,20/11/2021,en préparation,NULL,NULL
+232,775,837,4,88044 Claremont Trail,20/05/2021,en attente,NULL,NULL
+233,528,890,5,721 David Parkway,28/06/2020,livré,01/07/2020,04/07/2020
+234,36,705,6,17 Magdeline Lane,18/12/2022,en attente,NULL,NULL
+235,337,687,4,2579 8th Trail,13/12/2021,en préparation,NULL,NULL
+236,312,279,2,91275 Eastlawn Place,17/09/2022,en livraison,19/09/2022,NULL
+237,218,899,10,14071 Talmadge Terrace,10/09/2022,en livraison,11/09/2022,NULL
+238,710,164,1,44734 Sloan Avenue,23/12/2020,en livraison,24/12/2020,NULL
+239,319,957,9,535 Sloan Terrace,21/09/2022,livré,23/09/2022,24/09/2022
+240,853,65,10,02275 Jenifer Pass,21/10/2020,en attente,NULL,NULL
+241,754,112,1,04 Shopko Park,03/03/2019,en attente,NULL,NULL
+242,757,232,2,3 Garrison Avenue,20/06/2020,livré,23/06/2020,24/06/2020
+243,304,682,10,050 Brown Terrace,22/01/2022,en attente,NULL,NULL
+244,918,474,5,64495 Farragut Circle,29/11/2022,en attente,NULL,NULL
+245,596,41,9,80316 Birchwood Point,06/02/2020,en livraison,08/02/2020,NULL
+246,30,814,4,81 Fieldstone Drive,01/07/2022,en livraison,03/07/2022,NULL
+247,519,482,10,54065 Pennsylvania Street,07/02/2020,en livraison,10/02/2020,NULL
+248,785,63,4,17 International Plaza,28/12/2021,livré,31/12/2021,03/01/2022
+249,172,945,8,74 Loeprich Place,22/04/2021,en livraison,23/04/2021,NULL
+250,507,757,7,55 Kipling Plaza,06/12/2018,en attente,NULL,NULL
+251,547,900,5,937 Main Street,19/04/2020,en attente,NULL,NULL
+252,595,421,6,20 Warrior Place,02/02/2019,livré,04/02/2019,06/02/2019
+253,74,480,5,0157 Mandrake Street,29/05/2022,en livraison,01/06/2022,NULL
+254,175,156,3,6919 Del Mar Park,03/09/2019,en livraison,06/09/2019,NULL
+255,255,988,7,3 Grasskamp Park,03/09/2021,en préparation,NULL,NULL
+256,990,291,9,68412 Ridgeway Street,12/03/2021,en préparation,NULL,NULL
+257,296,773,5,9975 Fallview Point,08/05/2022,en livraison,09/05/2022,NULL
+258,862,436,5,653 Forest Run Crossing,26/03/2019,livré,29/03/2019,01/04/2019
+259,584,537,4,1257 Oak Terrace,30/12/2019,en attente,NULL,NULL
+260,606,659,4,0 Dexter Lane,19/11/2020,en préparation,NULL,NULL
+261,339,440,7,2402 Onsgard Parkway,25/12/2020,en livraison,28/12/2020,NULL
+262,190,788,8,11 Goodland Place,26/08/2019,en attente,NULL,NULL
+263,597,542,3,5382 Jackson Road,22/05/2019,livré,25/05/2019,26/05/2019
+264,379,88,6,87 Colorado Alley,06/10/2022,livré,08/10/2022,09/10/2022
+265,883,381,10,31918 Walton Place,25/12/2018,en préparation,NULL,NULL
+266,830,91,6,11 Maryland Center,28/09/2019,livré,30/09/2019,03/10/2019
+267,828,551,4,4868 Maywood Avenue,10/07/2021,en livraison,12/07/2021,NULL
+268,11,434,2,821 Reindahl Drive,03/11/2021,livré,05/11/2021,06/11/2021
+269,389,195,9,3 Helena Park,27/01/2022,livré,28/01/2022,29/01/2022
+270,214,224,1,90635 Hovde Street,26/12/2022,livré,28/12/2022,30/12/2022
+271,550,326,1,61 Hansons Center,31/05/2021,en attente,NULL,NULL
+272,592,199,4,73 Brickson Park Hill,04/07/2020,livré,07/07/2020,09/07/2020
+273,758,376,5,60 Northwestern Trail,28/07/2021,livré,29/07/2021,30/07/2021
+274,625,460,1,7728 Grim Place,08/12/2019,en attente,NULL,NULL
+275,26,872,7,19834 Killdeer Hill,29/05/2022,en attente,NULL,NULL
+276,223,509,4,625 Petterle Drive,21/06/2021,en attente,NULL,NULL
+277,596,535,3,96491 Troy Junction,27/08/2020,en préparation,NULL,NULL
+278,541,205,1,39 Pine View Way,17/03/2022,livré,20/03/2022,22/03/2022
+279,626,975,1,343 Warner Lane,25/03/2022,livré,28/03/2022,29/03/2022
+280,676,360,7,79065 Hanson Park,14/02/2019,en préparation,NULL,NULL
+281,212,320,5,89 Darwin Street,18/04/2022,livré,20/04/2022,22/04/2022
+282,305,494,5,3 Morrow Road,07/06/2022,en livraison,09/06/2022,NULL
+283,88,943,4,4197 Dorton Court,23/11/2022,en attente,NULL,NULL
+284,756,207,3,1 Waxwing Lane,30/08/2021,livré,31/08/2021,02/09/2021
+285,145,171,5,3 Duke Trail,25/08/2022,livré,27/08/2022,28/08/2022
+286,368,92,2,07528 Scott Plaza,05/05/2020,livré,08/05/2020,10/05/2020
+287,634,1,2,827 Armistice Junction,10/06/2020,en livraison,11/06/2020,NULL
+288,44,889,2,0 Monica Pass,15/04/2019,livré,16/04/2019,18/04/2019
+289,918,81,3,104 Lukken Road,29/07/2019,livré,31/07/2019,02/08/2019
+290,392,215,4,8320 Almo Place,28/11/2021,en attente,NULL,NULL
+291,667,610,6,5 Hagan Junction,01/02/2020,livré,04/02/2020,05/02/2020
+292,735,906,1,12 Westend Road,30/10/2019,livré,01/11/2019,03/11/2019
+293,675,419,4,6460 Elgar Lane,15/12/2019,en livraison,16/12/2019,NULL
+294,185,395,6,7 Jenifer Junction,24/04/2020,livré,25/04/2020,28/04/2020
+295,217,552,7,90405 Nova Lane,13/02/2020,en attente,NULL,NULL
+296,466,765,9,6 Arrowood Place,22/03/2020,en préparation,NULL,NULL
+297,786,764,7,768 Pond Junction,30/10/2020,en préparation,NULL,NULL
+298,627,337,10,42 Westerfield Avenue,26/03/2020,en livraison,29/03/2020,NULL
+299,481,623,2,0 Fuller Junction,30/12/2019,en attente,NULL,NULL
+300,839,173,2,39208 Vidon Park,19/07/2021,en livraison,21/07/2021,NULL
+301,495,51,1,1 Evergreen Road,26/05/2022,en préparation,NULL,NULL
+302,181,669,7,03081 Hooker Park,19/08/2019,livré,21/08/2019,24/08/2019
+303,972,649,1,87679 Magdeline Terrace,17/12/2019,en livraison,19/12/2019,NULL
+304,711,482,9,40906 Nelson Parkway,28/12/2021,en attente,NULL,NULL
+305,292,433,1,26695 Roxbury Crossing,14/02/2022,en préparation,NULL,NULL
+306,147,355,6,32 Hazelcrest Way,30/05/2019,en attente,NULL,NULL
+307,506,741,4,7 Corry Road,15/11/2019,en préparation,NULL,NULL
+308,249,341,9,49 Twin Pines Center,03/05/2019,en livraison,04/05/2019,NULL
+309,345,795,9,7317 Susan Crossing,25/05/2019,en livraison,27/05/2019,NULL
+310,304,769,10,9 Lerdahl Avenue,11/03/2022,en livraison,12/03/2022,NULL
+311,561,845,6,38957 Carioca Court,14/10/2021,en préparation,NULL,NULL
+312,404,781,4,8432 Cody Alley,26/08/2022,en préparation,NULL,NULL
+313,697,672,2,9099 Stone Corner Crossing,15/06/2020,en attente,NULL,NULL
+314,640,85,10,3255 Pepper Wood Street,14/11/2019,en livraison,15/11/2019,NULL
+315,915,314,8,8149 Upham Park,10/12/2019,en livraison,11/12/2019,NULL
+316,713,45,7,3711 Pennsylvania Drive,25/02/2022,en livraison,28/02/2022,NULL
+317,266,735,8,81812 John Wall Alley,24/10/2022,en préparation,NULL,NULL
+318,893,356,1,2 Mallory Road,20/09/2019,en attente,NULL,NULL
+319,970,771,7,855 Clemons Crossing,01/10/2020,livré,03/10/2020,04/10/2020
+320,242,559,8,24953 Oriole Drive,21/10/2022,en attente,NULL,NULL
+321,368,917,4,10432 Milwaukee Place,18/05/2020,livré,21/05/2020,22/05/2020
+322,135,957,10,5 Norway Maple Crossing,16/03/2019,en préparation,NULL,NULL
+323,662,378,2,4537 West Road,14/09/2020,en attente,NULL,NULL
+324,246,747,1,2767 Fair Oaks Lane,20/03/2020,en attente,NULL,NULL
+325,897,961,7,9 Huxley Junction,19/11/2020,en livraison,22/11/2020,NULL
+326,287,87,2,2369 Kinsman Lane,25/06/2022,en attente,NULL,NULL
+327,538,359,10,2930 Dwight Street,31/12/2019,en préparation,NULL,NULL
+328,71,737,9,427 Bellgrove Place,22/07/2022,en livraison,23/07/2022,NULL
+329,321,693,9,2 Randy Way,19/01/2021,en attente,NULL,NULL
+330,192,59,3,36096 Hollow Ridge Drive,30/12/2020,en attente,NULL,NULL
+331,208,496,5,91995 Northridge Pass,17/12/2022,en livraison,20/12/2022,NULL
+332,969,888,5,7 West Way,10/01/2021,en livraison,13/01/2021,NULL
+333,484,358,2,0 Packers Road,21/02/2020,en attente,NULL,NULL
+334,730,887,6,6 Scofield Avenue,17/02/2019,livré,18/02/2019,21/02/2019
+335,565,817,7,87666 Mallory Hill,20/12/2020,en préparation,NULL,NULL
+336,970,170,4,07778 Butternut Crossing,11/09/2021,en livraison,12/09/2021,NULL
+337,609,581,10,51 Di Loreto Park,30/11/2020,en préparation,NULL,NULL
+338,219,559,10,1101 Briar Crest Road,02/07/2021,en attente,NULL,NULL
+339,153,647,10,8402 4th Trail,22/02/2021,livré,23/02/2021,24/02/2021
+340,467,496,8,65110 Hanson Terrace,25/10/2019,en attente,NULL,NULL
+341,31,974,6,83615 Gina Street,08/03/2022,livré,09/03/2022,10/03/2022
+342,853,549,3,64 Debs Parkway,01/05/2022,en préparation,NULL,NULL
+343,440,955,10,9 Shoshone Avenue,04/08/2020,en livraison,05/08/2020,NULL
+344,385,840,3,342 Meadow Ridge Trail,19/04/2022,en préparation,NULL,NULL
+345,166,805,10,9 Village Green Parkway,19/02/2020,livré,22/02/2020,24/02/2020
+346,636,850,10,1 Melrose Park,21/07/2021,en attente,NULL,NULL
+347,641,777,10,014 Kim Alley,14/06/2022,en attente,NULL,NULL
+348,152,402,4,78 Atwood Way,17/08/2020,en attente,NULL,NULL
+349,155,718,10,6874 Forest Dale Plaza,13/08/2022,en préparation,NULL,NULL
+350,792,55,10,79368 Blaine Crossing,23/12/2019,en préparation,NULL,NULL
+351,599,108,8,25 Troy Hill,25/09/2021,en attente,NULL,NULL
+352,791,498,1,7162 Granby Park,18/11/2022,en attente,NULL,NULL
+353,330,856,5,80451 Randy Hill,24/05/2021,en livraison,26/05/2021,NULL
+354,55,331,8,4 Cordelia Place,31/01/2022,en attente,NULL,NULL
+355,613,860,9,520 Westend Trail,09/07/2021,en attente,NULL,NULL
+356,615,865,5,51 Canary Way,29/08/2021,livré,30/08/2021,02/09/2021
+357,77,779,6,90 Hallows Point,29/10/2020,livré,31/10/2020,02/11/2020
+358,98,583,2,6844 Cottonwood Point,03/08/2019,en attente,NULL,NULL
+359,294,284,7,0667 Almo Crossing,08/02/2019,livré,11/02/2019,13/02/2019
+360,90,457,6,21234 Manley Hill,22/07/2020,en attente,NULL,NULL
+361,800,546,4,2485 Corscot Circle,25/05/2019,livré,26/05/2019,28/05/2019
+362,288,294,6,9 Dottie Alley,22/08/2022,en préparation,NULL,NULL
+363,220,631,2,34411 Reinke Plaza,28/12/2018,livré,29/12/2018,01/01/2019
+364,727,909,6,095 Saint Paul Way,08/02/2019,en livraison,10/02/2019,NULL
+365,259,534,2,1813 Sunnyside Plaza,05/10/2021,en livraison,07/10/2021,NULL
+366,214,328,6,0 Independence Trail,19/12/2020,en attente,NULL,NULL
+367,545,252,1,19 Delladonna Terrace,16/02/2022,livré,19/02/2022,22/02/2022
+368,923,360,8,71 Del Mar Trail,25/12/2022,en préparation,NULL,NULL
+369,67,656,4,80929 Cardinal Center,23/10/2022,livré,25/10/2022,27/10/2022
+370,69,284,7,87331 Fremont Road,01/11/2020,livré,04/11/2020,05/11/2020
+371,935,231,3,93966 Melody Alley,13/06/2020,en livraison,14/06/2020,NULL
+372,634,845,6,99 Ilene Lane,14/02/2020,en livraison,15/02/2020,NULL
+373,150,394,2,793 Dovetail Point,27/12/2019,en livraison,28/12/2019,NULL
+374,379,760,6,0972 Merry Place,24/02/2022,livré,27/02/2022,28/02/2022
+375,365,200,8,469 Dawn Court,07/03/2019,en attente,NULL,NULL
+376,932,199,10,53672 Walton Court,30/03/2020,livré,31/03/2020,02/04/2020
+377,795,818,5,55 Green Ridge Pass,12/04/2021,en préparation,NULL,NULL
+378,312,83,9,061 Dixon Avenue,03/11/2022,en préparation,NULL,NULL
+379,446,334,4,5 Express Pass,20/04/2020,en préparation,NULL,NULL
+380,792,412,2,341 Macpherson Hill,03/04/2021,en livraison,06/04/2021,NULL
+381,364,898,1,923 Raven Hill,14/04/2020,en attente,NULL,NULL
+382,215,410,7,29417 Pankratz Trail,05/02/2019,en attente,NULL,NULL
+383,167,932,6,9273 Pankratz Road,01/06/2019,en livraison,04/06/2019,NULL
+384,759,502,1,696 Division Way,02/10/2021,livré,05/10/2021,08/10/2021
+385,545,63,1,7 Mesta Point,30/08/2020,livré,31/08/2020,03/09/2020
+386,873,847,4,599 Eliot Street,30/12/2018,en livraison,02/01/2019,NULL
+387,675,554,9,1044 Tennessee Circle,01/10/2019,en attente,NULL,NULL
+388,181,165,10,96 Doe Crossing Drive,28/05/2022,livré,31/05/2022,03/06/2022
+389,754,948,6,617 Doe Crossing Junction,06/03/2021,en préparation,NULL,NULL
+390,854,946,5,36101 Oriole Lane,18/11/2019,en préparation,NULL,NULL
+391,270,963,2,1909 Schlimgen Road,11/03/2022,livré,13/03/2022,15/03/2022
+392,245,275,4,23 Armistice Way,16/06/2022,en livraison,17/06/2022,NULL
+393,490,919,2,3 Dryden Avenue,12/12/2018,en livraison,13/12/2018,NULL
+394,962,444,6,95 Russell Trail,19/08/2021,en préparation,NULL,NULL
+395,60,698,9,8607 Melrose Road,18/01/2019,livré,21/01/2019,23/01/2019
+396,702,216,1,44 Bellgrove Alley,18/05/2020,livré,19/05/2020,21/05/2020
+397,213,346,10,8193 Alpine Center,21/06/2022,livré,22/06/2022,25/06/2022
+398,640,773,2,78 David Center,03/08/2022,en attente,NULL,NULL
+399,409,759,5,4508 Magdeline Park,06/08/2021,en attente,NULL,NULL
+400,595,276,3,0 Leroy Terrace,04/12/2021,livré,06/12/2021,07/12/2021
+401,477,708,7,0 Brown Circle,02/06/2019,en attente,NULL,NULL
+402,745,811,1,6 Fulton Plaza,24/06/2021,en livraison,25/06/2021,NULL
+403,834,437,3,2 Ridge Oak Plaza,26/08/2019,en préparation,NULL,NULL
+404,62,857,4,26503 Tennessee Hill,14/12/2018,livré,15/12/2018,18/12/2018
+405,785,701,7,0488 Westerfield Avenue,07/12/2020,en attente,NULL,NULL
+406,308,863,8,706 Almo Way,26/01/2022,en préparation,NULL,NULL
+407,501,780,3,0978 Manley Plaza,20/03/2019,en préparation,NULL,NULL
+408,726,809,2,271 Sutherland Pass,05/08/2021,en livraison,08/08/2021,NULL
+409,336,122,6,12532 Badeau Lane,02/07/2022,livré,03/07/2022,04/07/2022
+410,884,802,8,23 Mesta Circle,19/11/2020,livré,21/11/2020,23/11/2020
+411,160,353,9,544 Lakewood Pass,14/05/2021,en préparation,NULL,NULL
+412,77,208,2,13 4th Park,18/05/2022,en attente,NULL,NULL
+413,302,354,3,14 Scoville Park,27/11/2020,livré,30/11/2020,03/12/2020
+414,781,68,8,8246 Beilfuss Crossing,02/09/2022,en préparation,NULL,NULL
+415,339,520,6,226 Northridge Point,18/12/2021,en attente,NULL,NULL
+416,880,226,9,13 Fordem Street,07/11/2021,en préparation,NULL,NULL
+417,568,624,6,681 Norway Maple Crossing,14/05/2021,en attente,NULL,NULL
+418,228,237,6,632 Kedzie Place,06/09/2022,en livraison,07/09/2022,NULL
+419,998,855,4,854 Basil Road,20/12/2020,livré,22/12/2020,24/12/2020
+420,983,722,8,292 Larry Avenue,29/08/2020,en préparation,NULL,NULL
+421,488,744,2,7814 High Crossing Circle,01/06/2020,en préparation,NULL,NULL
+422,766,178,10,225 Homewood Point,27/09/2020,livré,30/09/2020,02/10/2020
+423,172,149,10,49 Hoepker Plaza,24/04/2022,en attente,NULL,NULL
+424,340,458,8,710 Loeprich Crossing,19/08/2021,livré,20/08/2021,21/08/2021
+425,413,474,5,17932 Logan Street,05/03/2022,en préparation,NULL,NULL
+426,598,637,8,80651 Waubesa Circle,16/08/2021,en livraison,17/08/2021,NULL
+427,101,578,4,94148 Grover Avenue,08/12/2019,en préparation,NULL,NULL
+428,450,911,1,06370 Dahle Center,07/04/2021,en livraison,08/04/2021,NULL
+429,127,488,7,359 Meadow Ridge Junction,22/05/2020,en préparation,NULL,NULL
+430,540,441,7,082 Esker Place,07/02/2020,livré,10/02/2020,12/02/2020
+431,831,497,10,0 Knutson Park,05/11/2019,livré,08/11/2019,11/11/2019
+432,936,70,3,3 Beilfuss Road,28/07/2022,en préparation,NULL,NULL
+433,911,628,3,2 Hayes Trail,17/05/2020,livré,18/05/2020,20/05/2020
+434,737,552,2,107 West Road,07/10/2020,en préparation,NULL,NULL
+435,83,818,1,226 Anhalt Place,12/11/2022,en attente,NULL,NULL
+436,890,950,3,970 Carberry Parkway,23/06/2022,en livraison,24/06/2022,NULL
+437,667,163,1,3 Park Meadow Plaza,17/12/2022,en livraison,19/12/2022,NULL
+438,991,551,9,30912 Thompson Way,05/01/2020,livré,06/01/2020,07/01/2020
+439,389,68,4,06 Hollow Ridge Road,26/11/2019,livré,29/11/2019,01/12/2019
+440,505,918,9,80 Moose Plaza,16/10/2020,livré,19/10/2020,22/10/2020
+441,839,1000,5,4226 6th Trail,09/01/2020,en livraison,12/01/2020,NULL
+442,726,407,2,79 Brown Lane,16/06/2022,en attente,NULL,NULL
+443,66,316,5,16 Sachs Pass,04/03/2019,livré,05/03/2019,08/03/2019
+444,54,274,2,557 Towne Circle,14/03/2020,en préparation,NULL,NULL
+445,422,118,1,6 Weeping Birch Street,11/02/2021,en attente,NULL,NULL
+446,436,204,6,5776 Warbler Avenue,15/06/2022,en attente,NULL,NULL
+447,347,368,3,0337 Twin Pines Court,23/02/2021,livré,25/02/2021,27/02/2021
+448,446,262,8,48 Sutteridge Center,10/02/2020,en attente,NULL,NULL
+449,186,897,2,03839 Becker Lane,22/02/2022,en attente,NULL,NULL
+450,140,752,2,014 Lakewood Gardens Avenue,02/02/2019,en préparation,NULL,NULL
+451,873,17,8,144 Golf Course Drive,22/11/2021,en attente,NULL,NULL
+452,8,28,5,06689 Vernon Circle,25/12/2021,en attente,NULL,NULL
+453,889,972,1,882 Continental Alley,08/02/2022,en attente,NULL,NULL
+454,920,304,6,59417 Johnson Center,01/02/2020,en livraison,03/02/2020,NULL
+455,34,506,6,2 Scofield Road,28/05/2019,en préparation,NULL,NULL
+456,965,734,2,8722 Del Mar Lane,23/11/2019,en livraison,25/11/2019,NULL
+457,527,381,6,33 Pawling Point,13/07/2022,en livraison,14/07/2022,NULL
+458,978,460,7,709 Vahlen Hill,29/05/2022,en préparation,NULL,NULL
+459,91,948,7,27409 Charing Cross Crossing,15/05/2019,livré,16/05/2019,17/05/2019
+460,423,989,4,738 Dorton Trail,25/04/2022,en préparation,NULL,NULL
+461,844,13,8,95373 Almo Park,30/11/2022,en préparation,NULL,NULL
+462,519,376,8,166 Riverside Alley,07/04/2019,en livraison,08/04/2019,NULL
+463,807,925,1,9 Hanson Road,29/12/2021,en livraison,01/01/2022,NULL
+464,876,975,2,26 Green Place,17/10/2019,en préparation,NULL,NULL
+465,300,874,8,9205 Butterfield Park,14/02/2019,en attente,NULL,NULL
+466,314,108,4,40 Mccormick Avenue,02/10/2019,en attente,NULL,NULL
+467,777,457,10,98 Ryan Parkway,04/03/2021,livré,05/03/2021,06/03/2021
+468,641,231,2,6 Onsgard Street,10/10/2019,en livraison,13/10/2019,NULL
+469,954,943,9,3 Duke Circle,01/09/2022,livré,03/09/2022,04/09/2022
+470,720,161,2,65841 Rowland Center,10/06/2021,en préparation,NULL,NULL
+471,912,374,8,6707 Memorial Place,05/08/2020,en attente,NULL,NULL
+472,300,2,4,29 Rusk Alley,10/02/2021,livré,11/02/2021,13/02/2021
+473,564,235,4,41 Cambridge Hill,20/04/2020,en livraison,21/04/2020,NULL
+474,159,300,7,7040 Quincy Way,10/02/2020,en livraison,13/02/2020,NULL
+475,432,982,9,12323 Saint Paul Junction,02/12/2020,en livraison,05/12/2020,NULL
+476,514,599,10,010 Corscot Junction,31/10/2022,en attente,NULL,NULL
+477,922,917,10,1367 Petterle Court,26/08/2022,en préparation,NULL,NULL
+478,760,642,2,3 Springview Circle,25/03/2022,en livraison,26/03/2022,NULL
+479,108,658,7,73798 Mayer Parkway,25/09/2020,livré,28/09/2020,30/09/2020
+480,630,792,6,878 Express Park,22/04/2019,en livraison,23/04/2019,NULL
+481,31,463,5,586 Fairview Parkway,30/07/2022,livré,02/08/2022,03/08/2022
+482,783,777,7,8 Ludington Trail,25/04/2019,livré,27/04/2019,28/04/2019
+483,834,7,7,72 Red Cloud Alley,19/12/2022,livré,22/12/2022,25/12/2022
+484,587,968,3,236 Bultman Circle,18/10/2019,en préparation,NULL,NULL
+485,760,670,7,27265 Ilene Drive,22/02/2020,livré,23/02/2020,25/02/2020
+486,740,25,8,20988 Arrowood Street,20/11/2022,en livraison,22/11/2022,NULL
+487,494,858,6,5690 Ronald Regan Terrace,20/08/2020,en préparation,NULL,NULL
+488,349,843,8,94 Elka Place,01/03/2021,en préparation,NULL,NULL
+489,314,394,5,05 Mallard Alley,05/12/2018,en préparation,NULL,NULL
+490,994,14,6,2877 Bartillon Street,31/08/2021,en livraison,01/09/2021,NULL
+491,665,341,9,49234 Dorton Court,26/04/2020,en attente,NULL,NULL
+492,325,101,4,21 South Terrace,11/11/2021,en attente,NULL,NULL
+493,574,870,6,446 Huxley Parkway,31/08/2019,en livraison,03/09/2019,NULL
+494,428,257,1,98521 Judy Alley,29/12/2019,en préparation,NULL,NULL
+495,957,861,9,5 Hansons Park,12/06/2022,en préparation,NULL,NULL
+496,174,696,8,8644 Vernon Street,22/07/2019,en livraison,25/07/2019,NULL
+497,507,267,7,01 Pearson Parkway,02/02/2020,en préparation,NULL,NULL
+498,649,395,5,6531 Victoria Park,04/10/2021,en attente,NULL,NULL
+499,535,659,1,78 Blackbird Avenue,10/10/2021,en livraison,12/10/2021,NULL
+500,751,914,7,7 Calypso Place,30/07/2019,en livraison,02/08/2019,NULL
+501,208,306,10,90553 Sachtjen Street,28/11/2020,en attente,NULL,NULL
+502,537,875,4,181 7th Crossing,14/03/2022,en livraison,15/03/2022,NULL
+503,737,958,9,29518 Golf Street,15/07/2021,livré,16/07/2021,19/07/2021
+504,72,526,4,5 West Parkway,19/10/2019,en préparation,NULL,NULL
+505,309,550,5,92129 Hoepker Trail,01/08/2020,livré,04/08/2020,06/08/2020
+506,825,698,1,85 Jana Center,14/08/2019,en livraison,16/08/2019,NULL
+507,427,402,2,9978 Sunnyside Terrace,26/07/2019,en préparation,NULL,NULL
+508,281,919,3,44308 Pepper Wood Trail,23/06/2022,en attente,NULL,NULL
+509,685,966,4,826 7th Circle,27/06/2021,en préparation,NULL,NULL
+510,581,955,8,00232 Transport Alley,22/08/2019,en préparation,NULL,NULL
+511,683,344,8,311 Hallows Center,20/10/2020,livré,23/10/2020,25/10/2020
+512,185,192,1,97161 Roxbury Point,27/08/2020,en attente,NULL,NULL
+513,158,433,4,3 Hoard Street,22/09/2020,en préparation,NULL,NULL
+514,360,253,4,18 Ridgeway Point,25/03/2020,en livraison,26/03/2020,NULL
+515,859,609,8,40342 Troy Road,27/12/2022,en attente,NULL,NULL
+516,54,21,10,612 Westend Pass,08/08/2022,en préparation,NULL,NULL
+517,452,236,8,40482 Sutherland Drive,01/08/2021,en préparation,NULL,NULL
+518,741,374,3,80 Roth Pass,16/11/2020,en préparation,NULL,NULL
+519,779,400,3,8 Chive Hill,23/10/2019,en livraison,24/10/2019,NULL
+520,217,107,9,48040 Coolidge Terrace,01/12/2021,livré,02/12/2021,03/12/2021
+521,593,922,8,026 Morningstar Street,14/05/2019,livré,16/05/2019,18/05/2019
+522,179,140,1,0181 Sunnyside Center,03/05/2022,livré,04/05/2022,07/05/2022
+523,39,94,8,979 Saint Paul Junction,15/02/2019,en livraison,18/02/2019,NULL
+524,818,248,1,539 Lakewood Gardens Avenue,02/03/2021,en livraison,04/03/2021,NULL
+525,634,916,4,1356 Bay Parkway,25/09/2022,en attente,NULL,NULL
+526,323,208,10,805 Nancy Street,21/04/2021,en livraison,23/04/2021,NULL
+527,504,297,5,95842 Pearson Pass,29/06/2019,en attente,NULL,NULL
+528,858,687,8,7571 David Parkway,02/06/2022,livré,05/06/2022,06/06/2022
+529,650,641,3,879 North Pass,07/08/2020,livré,09/08/2020,10/08/2020
+530,313,618,6,90393 Mockingbird Trail,02/01/2019,livré,04/01/2019,07/01/2019
+531,668,897,3,8587 Thackeray Drive,07/11/2019,en préparation,NULL,NULL
+532,87,420,6,1 Lakeland Avenue,07/05/2022,en préparation,NULL,NULL
+533,585,428,5,7 Katie Way,27/10/2019,en livraison,29/10/2019,NULL
+534,567,394,5,34121 Fallview Pass,16/09/2021,livré,18/09/2021,21/09/2021
+535,737,83,6,61 Kipling Road,07/06/2020,en livraison,08/06/2020,NULL
+536,987,485,4,693 Sunfield Junction,02/06/2019,en préparation,NULL,NULL
+537,912,758,9,140 Crest Line Alley,02/12/2022,en livraison,05/12/2022,NULL
+538,378,653,2,809 Prairieview Place,20/04/2022,livré,21/04/2022,24/04/2022
+539,40,846,8,80819 Erie Crossing,07/05/2021,en attente,NULL,NULL
+540,977,291,2,51264 Bartelt Hill,06/11/2019,en attente,NULL,NULL
+541,72,270,5,8 High Crossing Court,28/08/2022,en livraison,29/08/2022,NULL
+542,957,740,4,68 Corry Trail,12/09/2019,en livraison,14/09/2019,NULL
+543,661,105,4,647 Fairfield Pass,30/07/2022,livré,02/08/2022,04/08/2022
+544,269,347,3,603 Del Sol Drive,20/08/2021,en livraison,23/08/2021,NULL
+545,919,778,3,987 Corben Street,04/09/2021,en préparation,NULL,NULL
+546,902,594,7,69978 Dottie Court,26/12/2020,en attente,NULL,NULL
+547,76,589,4,49113 Trailsway Street,24/02/2020,en préparation,NULL,NULL
+548,494,44,1,6 Merry Terrace,12/11/2019,en attente,NULL,NULL
+549,357,241,6,08814 Vernon Alley,08/01/2022,en livraison,10/01/2022,NULL
+550,849,970,5,556 Sutteridge Trail,17/10/2021,en livraison,18/10/2021,NULL
+551,769,170,8,98 Carioca Alley,04/11/2020,en livraison,06/11/2020,NULL
+552,827,716,3,3 Washington Street,08/12/2021,en attente,NULL,NULL
+553,201,495,1,2 Manley Point,30/12/2020,en attente,NULL,NULL
+554,4,422,2,87129 Parkside Park,16/11/2022,livré,18/11/2022,21/11/2022
+555,687,631,9,26151 Morningstar Alley,27/11/2019,en attente,NULL,NULL
+556,328,659,10,6 Center Pass,18/10/2020,en attente,NULL,NULL
+557,211,909,9,33710 Schlimgen Court,28/12/2018,en préparation,NULL,NULL
+558,161,697,10,82251 Di Loreto Court,03/10/2022,livré,06/10/2022,08/10/2022
+559,653,845,1,068 Darwin Street,01/02/2022,en livraison,02/02/2022,NULL
+560,76,442,6,7402 Westport Parkway,31/03/2019,en livraison,03/04/2019,NULL
+561,463,602,3,3851 Declaration Court,09/02/2021,en préparation,NULL,NULL
+562,983,318,9,923 Bowman Drive,24/06/2021,en livraison,25/06/2021,NULL
+563,488,633,3,8338 Nobel Point,31/01/2021,livré,02/02/2021,03/02/2021
+564,962,805,1,15 Forest Run Street,08/07/2020,en préparation,NULL,NULL
+565,580,119,3,1 Hallows Lane,17/06/2019,en livraison,20/06/2019,NULL
+566,553,849,7,16249 Express Hill,07/08/2019,en attente,NULL,NULL
+567,497,568,8,05 Hudson Terrace,10/04/2021,en préparation,NULL,NULL
+568,782,620,4,1 Monterey Junction,20/07/2019,en attente,NULL,NULL
+569,239,940,4,704 Granby Drive,03/05/2020,en livraison,06/05/2020,NULL
+570,161,569,1,43 Blackbird Parkway,31/10/2020,en livraison,02/11/2020,NULL
+571,234,787,1,9116 Merrick Center,06/09/2022,en livraison,08/09/2022,NULL
+572,262,283,9,2555 Waxwing Road,03/08/2020,en livraison,06/08/2020,NULL
+573,347,490,9,43828 Lighthouse Bay Parkway,05/06/2021,en préparation,NULL,NULL
+574,732,828,2,599 Steensland Crossing,05/05/2022,en livraison,07/05/2022,NULL
+575,787,698,1,1739 Judy Circle,13/07/2021,en préparation,NULL,NULL
+576,750,245,4,6 Meadow Valley Way,02/02/2019,en préparation,NULL,NULL
+577,169,559,10,26283 Evergreen Lane,09/12/2019,en préparation,NULL,NULL
+578,544,909,4,14860 Arrowood Point,12/03/2022,en attente,NULL,NULL
+579,258,331,7,814 Artisan Avenue,03/03/2021,en attente,NULL,NULL
+580,467,252,6,21 Lakeland Way,24/03/2019,livré,26/03/2019,29/03/2019
+581,779,884,1,706 2nd Crossing,12/06/2019,livré,15/06/2019,18/06/2019
+582,888,577,1,27 Reindahl Lane,28/06/2019,en préparation,NULL,NULL
+583,806,807,4,4131 Scoville Alley,08/09/2021,en livraison,10/09/2021,NULL
+584,401,570,7,0 Lyons Plaza,12/10/2021,en préparation,NULL,NULL
+585,917,877,8,5 Shoshone Junction,20/01/2021,en préparation,NULL,NULL
+586,239,153,8,32943 Dorton Court,17/10/2019,en livraison,18/10/2019,NULL
+587,136,215,4,249 Eagan Alley,13/04/2022,en attente,NULL,NULL
+588,361,712,4,6598 Carberry Parkway,09/09/2021,en attente,NULL,NULL
+589,922,925,3,9761 Arapahoe Crossing,03/06/2020,en livraison,05/06/2020,NULL
+590,701,207,2,1 Katie Pass,15/07/2019,en attente,NULL,NULL
+591,974,926,6,984 Summerview Circle,30/11/2021,livré,02/12/2021,04/12/2021
+592,392,714,4,8 Norway Maple Street,20/11/2019,livré,23/11/2019,26/11/2019
+593,393,573,7,24 Sunnyside Circle,21/05/2021,livré,23/05/2021,25/05/2021
+594,763,894,7,21928 Judy Circle,03/01/2019,en attente,NULL,NULL
+595,843,55,9,62623 Raven Alley,03/09/2022,livré,04/09/2022,06/09/2022
+596,658,143,10,38912 Maple Wood Alley,09/09/2020,livré,10/09/2020,11/09/2020
+597,305,235,1,9 Moose Way,02/12/2022,en attente,NULL,NULL
+598,348,977,6,379 Killdeer Trail,27/07/2021,en préparation,NULL,NULL
+599,69,6,8,2345 Iowa Alley,12/12/2021,en préparation,NULL,NULL
+600,217,140,7,049 Westport Center,18/11/2021,en préparation,NULL,NULL
+601,153,862,10,6 Rusk Street,13/12/2020,livré,15/12/2020,18/12/2020
+602,829,163,10,0 Manitowish Plaza,06/04/2019,en préparation,NULL,NULL
+603,930,811,1,452 Jackson Avenue,06/03/2022,en préparation,NULL,NULL
+604,680,396,2,081 Lillian Terrace,17/08/2019,en livraison,19/08/2019,NULL
+605,631,120,9,487 Warbler Trail,29/06/2022,en livraison,01/07/2022,NULL
+606,661,861,3,8392 Montana Terrace,05/08/2021,en livraison,07/08/2021,NULL
+607,158,132,10,960 Stephen Hill,10/02/2019,livré,13/02/2019,16/02/2019
+608,760,321,5,73 Declaration Parkway,25/07/2021,livré,27/07/2021,29/07/2021
+609,367,311,1,3 Center Avenue,16/12/2020,en attente,NULL,NULL
+610,986,62,6,90 Waxwing Park,13/10/2020,livré,15/10/2020,16/10/2020
+611,836,20,7,284 Muir Drive,24/12/2019,livré,27/12/2019,30/12/2019
+612,729,869,8,526 Farwell Court,25/07/2022,en livraison,26/07/2022,NULL
+613,602,126,4,407 Vernon Crossing,25/08/2019,livré,27/08/2019,28/08/2019
+614,571,574,8,088 Glacier Hill Court,30/12/2018,en préparation,NULL,NULL
+615,780,499,3,8 Village Green Terrace,29/02/2020,en attente,NULL,NULL
+616,211,756,6,0223 Karstens Drive,25/02/2019,en livraison,26/02/2019,NULL
+617,49,187,8,4 Drewry Avenue,13/08/2019,en attente,NULL,NULL
+618,176,629,1,77 Russell Point,03/06/2021,en livraison,04/06/2021,NULL
+619,652,17,1,250 Lindbergh Terrace,02/09/2019,en préparation,NULL,NULL
+620,651,7,6,431 Lillian Court,02/09/2019,en préparation,NULL,NULL
+621,928,132,7,330 Forest Dale Point,18/07/2021,en préparation,NULL,NULL
+622,785,230,3,4 Arkansas Street,20/11/2022,en attente,NULL,NULL
+623,823,346,2,3 Toban Crossing,06/08/2020,en attente,NULL,NULL
+624,591,329,4,76871 Nancy Plaza,20/10/2022,livré,22/10/2022,24/10/2022
+625,540,40,10,098 Helena Crossing,03/02/2021,livré,06/02/2021,09/02/2021
+626,749,116,1,1708 Michigan Terrace,03/07/2019,livré,04/07/2019,06/07/2019
+627,687,724,10,02 American Ash Lane,25/04/2021,en préparation,NULL,NULL
+628,461,6,2,757 Basil Center,06/10/2020,en attente,NULL,NULL
+629,957,885,6,4 Johnson Lane,14/07/2021,en attente,NULL,NULL
+630,225,19,9,12 Graceland Point,13/09/2021,en préparation,NULL,NULL
+631,328,909,1,5 Delaware Junction,08/10/2021,en attente,NULL,NULL
+632,94,106,10,34 Bay Way,12/01/2020,en préparation,NULL,NULL
+633,769,538,6,99 Green Junction,22/06/2019,en livraison,24/06/2019,NULL
+634,880,204,1,60 Roxbury Street,19/10/2019,en préparation,NULL,NULL
+635,466,138,8,992 6th Way,21/05/2021,en préparation,NULL,NULL
+636,862,906,6,52116 Mendota Park,04/07/2022,livré,06/07/2022,07/07/2022
+637,778,936,8,5977 Arapahoe Plaza,21/07/2021,livré,23/07/2021,24/07/2021
+638,816,293,9,822 Anhalt Way,28/03/2019,en livraison,30/03/2019,NULL
+639,233,576,5,5 Stoughton Drive,08/08/2019,en livraison,10/08/2019,NULL
+640,897,129,10,6 Dunning Center,10/03/2021,en livraison,12/03/2021,NULL
+641,822,566,7,19841 Anniversary Junction,10/04/2022,livré,11/04/2022,14/04/2022
+642,132,32,8,816 Spaight Point,22/05/2021,en attente,NULL,NULL
+643,433,135,10,2 Kim Place,20/02/2020,en attente,NULL,NULL
+644,740,251,4,630 Lindbergh Crossing,14/03/2020,en attente,NULL,NULL
+645,137,699,4,236 Grayhawk Park,05/02/2021,en livraison,08/02/2021,NULL
+646,798,414,5,110 Haas Center,04/05/2021,livré,06/05/2021,09/05/2021
+647,916,451,4,419 Cody Street,18/05/2021,en préparation,NULL,NULL
+648,314,567,2,7 Green Park,13/12/2021,en attente,NULL,NULL
+649,415,997,9,76731 South Parkway,13/06/2022,en préparation,NULL,NULL
+650,414,270,1,74 Buena Vista Pass,10/06/2020,livré,11/06/2020,12/06/2020
+651,75,62,3,11 Bobwhite Lane,22/11/2021,livré,25/11/2021,28/11/2021
+652,822,8,2,6511 Rowland Street,10/01/2020,en préparation,NULL,NULL
+653,191,325,10,13299 Carey Street,16/09/2022,en attente,NULL,NULL
+654,132,45,7,37090 Quincy Trail,08/11/2020,en préparation,NULL,NULL
+655,174,667,10,287 Maryland Crossing,20/05/2019,en attente,NULL,NULL
+656,849,691,10,46 Village Avenue,06/11/2022,en attente,NULL,NULL
+657,293,849,4,2823 Glacier Hill Drive,19/10/2022,livré,20/10/2022,22/10/2022
+658,414,479,2,2901 Transport Place,03/01/2020,en livraison,04/01/2020,NULL
+659,262,120,4,891 Barnett Park,18/11/2022,en livraison,19/11/2022,NULL
+660,267,231,8,45 Norway Maple Terrace,06/04/2022,en attente,NULL,NULL
+661,220,287,3,98 Erie Place,30/07/2019,en attente,NULL,NULL
+662,166,262,5,2750 Golf View Place,18/09/2022,en livraison,20/09/2022,NULL
+663,771,958,9,8 Golf Course Avenue,03/09/2021,en livraison,04/09/2021,NULL
+664,702,547,7,6 Waxwing Junction,21/10/2019,livré,22/10/2019,23/10/2019
+665,636,201,4,0 Fisk Avenue,30/09/2021,livré,03/10/2021,04/10/2021
+666,948,487,9,2092 Lukken Point,15/03/2021,en livraison,16/03/2021,NULL
+667,687,541,7,0 Shopko Drive,22/03/2022,livré,23/03/2022,25/03/2022
+668,479,238,5,916 Oneill Crossing,17/07/2022,en livraison,18/07/2022,NULL
+669,843,814,10,8875 Swallow Way,27/04/2022,livré,30/04/2022,02/05/2022
+670,423,639,8,858 Hovde Alley,29/11/2020,livré,01/12/2020,03/12/2020
+671,774,824,5,9736 Glacier Hill Plaza,12/09/2020,en préparation,NULL,NULL
+672,787,1000,3,9014 Pennsylvania Drive,21/11/2021,livré,23/11/2021,26/11/2021
+673,209,687,4,65572 Butternut Plaza,16/01/2022,livré,18/01/2022,20/01/2022
+674,258,562,2,2 Carberry Junction,06/12/2020,en préparation,NULL,NULL
+675,645,330,2,12 Becker Street,28/12/2022,livré,31/12/2022,02/01/2023
+676,727,987,2,0813 Milwaukee Hill,31/03/2019,en préparation,NULL,NULL
+677,646,933,6,2 Arizona Center,07/08/2019,en préparation,NULL,NULL
+678,791,92,4,775 Gerald Crossing,12/03/2021,en livraison,14/03/2021,NULL
+679,690,561,8,8515 Mayer Hill,02/02/2022,en attente,NULL,NULL
+680,110,408,3,98307 Laurel Avenue,23/01/2020,en préparation,NULL,NULL
+681,518,45,10,2 Marquette Crossing,07/12/2021,livré,08/12/2021,11/12/2021
+682,208,321,6,57263 Briar Crest Terrace,19/10/2021,en attente,NULL,NULL
+683,700,547,6,8402 Grayhawk Center,10/06/2020,en préparation,NULL,NULL
+684,907,628,1,38 Florence Street,09/11/2019,en attente,NULL,NULL
+685,887,283,10,44 International Lane,01/12/2021,en attente,NULL,NULL
+686,802,590,10,726 Superior Alley,19/03/2020,en attente,NULL,NULL
+687,525,988,7,4 Hazelcrest Hill,04/05/2020,en livraison,05/05/2020,NULL
+688,497,796,1,1350 Jay Street,28/06/2021,en attente,NULL,NULL
+689,4,823,6,795 Melby Road,13/09/2019,en livraison,15/09/2019,NULL
+690,752,297,2,30768 Ohio Court,16/10/2019,livré,17/10/2019,19/10/2019
+691,232,699,3,2 La Follette Pass,17/08/2019,livré,20/08/2019,22/08/2019
+692,625,832,4,1 Pennsylvania Lane,09/10/2020,livré,12/10/2020,13/10/2020
+693,460,267,6,2128 Loftsgordon Way,22/11/2021,livré,24/11/2021,27/11/2021
+694,907,31,10,5256 Sunbrook Avenue,03/01/2019,livré,04/01/2019,06/01/2019
+695,698,318,1,9504 Mayfield Lane,14/03/2022,en préparation,NULL,NULL
+696,240,300,2,03 Dennis Terrace,16/10/2022,en attente,NULL,NULL
+697,340,592,7,65 Sullivan Trail,23/04/2020,en livraison,25/04/2020,NULL
+698,146,382,9,885 Birchwood Alley,21/11/2022,en livraison,24/11/2022,NULL
+699,849,572,6,7 Kings Road,06/05/2020,en livraison,09/05/2020,NULL
+700,680,346,5,267 Mcbride Junction,02/06/2022,en préparation,NULL,NULL
+701,422,18,8,7 Warbler Court,06/03/2022,en attente,NULL,NULL
+702,994,149,6,27050 Troy Road,27/02/2020,en livraison,01/03/2020,NULL
+703,645,67,6,2 Buhler Circle,18/06/2021,en attente,NULL,NULL
+704,633,477,8,9319 Sutteridge Junction,07/09/2022,en livraison,10/09/2022,NULL
+705,707,817,4,550 Michigan Alley,31/01/2022,en livraison,02/02/2022,NULL
+706,174,732,5,8 Marcy Trail,25/05/2022,livré,28/05/2022,29/05/2022
+707,57,823,3,46173 American Lane,14/09/2019,en préparation,NULL,NULL
+708,62,588,3,241 Sheridan Terrace,06/09/2019,en livraison,08/09/2019,NULL
+709,664,154,9,9 Northridge Trail,27/11/2021,livré,29/11/2021,01/12/2021
+710,6,977,5,21451 Old Gate Alley,25/11/2020,livré,28/11/2020,30/11/2020
+711,399,446,4,85 Schurz Circle,25/10/2020,en préparation,NULL,NULL
+712,276,685,8,225 Southridge Junction,23/09/2020,en préparation,NULL,NULL
+713,826,85,6,390 Nelson Park,26/06/2021,livré,28/06/2021,29/06/2021
+714,48,156,3,21379 Elka Trail,27/09/2022,en attente,NULL,NULL
+715,718,454,9,1010 Parkside Crossing,21/01/2022,en attente,NULL,NULL
+716,416,15,2,7 Butterfield Trail,26/11/2020,en livraison,29/11/2020,NULL
+717,406,225,2,588 Amoth Terrace,20/07/2019,en livraison,23/07/2019,NULL
+718,945,408,8,082 Graceland Pass,17/10/2020,en préparation,NULL,NULL
+719,23,15,5,1902 East Plaza,16/09/2020,en attente,NULL,NULL
+720,252,409,4,32620 Loftsgordon Parkway,15/09/2020,en préparation,NULL,NULL
+721,29,597,7,265 Muir Lane,18/02/2019,en livraison,20/02/2019,NULL
+722,516,135,9,2 Coleman Parkway,01/12/2021,en livraison,04/12/2021,NULL
+723,663,612,9,9913 Aberg Center,20/05/2019,en attente,NULL,NULL
+724,548,530,10,451 John Wall Alley,19/10/2021,en préparation,NULL,NULL
+725,394,173,3,64442 Ruskin Circle,30/09/2022,en préparation,NULL,NULL
+726,33,244,3,867 Crest Line Crossing,16/03/2021,livré,18/03/2021,21/03/2021
+727,621,373,5,3 Hayes Parkway,08/10/2022,livré,11/10/2022,14/10/2022
+728,255,858,9,6544 Menomonie Lane,15/12/2021,en attente,NULL,NULL
+729,647,583,6,771 Green Ridge Road,05/01/2022,livré,06/01/2022,08/01/2022
+730,752,557,5,5035 Swallow Center,03/10/2020,livré,05/10/2020,06/10/2020
+731,152,397,10,0 Lighthouse Bay Point,27/05/2022,en attente,NULL,NULL
+732,744,919,6,0 Little Fleur Place,18/08/2022,en livraison,19/08/2022,NULL
+733,330,753,4,1888 Doe Crossing Trail,14/04/2022,livré,15/04/2022,17/04/2022
+734,320,689,2,55923 Schlimgen Terrace,15/05/2020,en préparation,NULL,NULL
+735,622,50,9,624 Larry Court,21/12/2020,en préparation,NULL,NULL
+736,907,289,9,67673 Ruskin Junction,07/11/2022,en attente,NULL,NULL
+737,212,424,7,94 Mcbride Street,01/08/2019,en attente,NULL,NULL
+738,795,361,9,05408 Clemons Avenue,09/02/2020,en préparation,NULL,NULL
+739,600,633,9,16 Thierer Center,06/03/2022,livré,09/03/2022,10/03/2022
+740,577,183,9,28 Huxley Court,17/10/2021,livré,18/10/2021,20/10/2021
+741,831,375,5,596 Mallard Park,13/12/2021,en attente,NULL,NULL
+742,962,800,3,12 Rutledge Center,29/08/2021,en attente,NULL,NULL
+743,296,702,1,86 Red Cloud Parkway,20/04/2021,en livraison,23/04/2021,NULL
+744,51,862,6,7392 Huxley Parkway,12/03/2019,en attente,NULL,NULL
+745,545,675,9,23 Kingsford Point,16/05/2022,livré,17/05/2022,18/05/2022
+746,338,141,3,6 Orin Place,24/10/2021,en préparation,NULL,NULL
+747,712,515,8,6424 Thackeray Trail,10/05/2021,en préparation,NULL,NULL
+748,607,132,8,555 Saint Paul Court,04/05/2021,en livraison,06/05/2021,NULL
+749,628,575,9,5 Tony Junction,14/12/2020,en attente,NULL,NULL
+750,263,81,9,827 Grim Place,06/08/2019,en livraison,08/08/2019,NULL
+751,414,659,6,0518 Anniversary Junction,16/02/2021,en attente,NULL,NULL
+752,692,440,3,5472 Sachs Terrace,11/07/2019,en livraison,12/07/2019,NULL
+753,322,839,6,13 Dexter Parkway,20/03/2021,en livraison,23/03/2021,NULL
+754,462,969,1,68323 Veith Plaza,03/12/2021,livré,06/12/2021,08/12/2021
+755,553,791,9,8793 School Parkway,03/03/2020,livré,04/03/2020,06/03/2020
+756,772,390,8,91611 5th Way,22/07/2020,livré,23/07/2020,26/07/2020
+757,804,79,5,1 Artisan Lane,06/09/2020,en attente,NULL,NULL
+758,724,588,1,27296 Vahlen Plaza,09/04/2021,livré,10/04/2021,12/04/2021
+759,83,771,5,16 Nancy Trail,24/11/2019,en livraison,26/11/2019,NULL
+760,500,492,9,3 Rockefeller Center,13/01/2022,en attente,NULL,NULL
+761,499,274,2,6969 Manufacturers Plaza,29/03/2020,en attente,NULL,NULL
+762,505,421,9,0363 Texas Pass,11/12/2018,en attente,NULL,NULL
+763,244,200,1,97606 Arkansas Trail,05/10/2020,en attente,NULL,NULL
+764,675,147,3,1138 Kim Center,07/01/2019,livré,08/01/2019,09/01/2019
+765,777,5,8,34 Anniversary Alley,06/02/2022,livré,08/02/2022,10/02/2022
+766,641,399,7,540 Vermont Avenue,28/05/2022,en attente,NULL,NULL
+767,629,421,3,9 Melvin Place,07/09/2020,en préparation,NULL,NULL
+768,506,545,1,32 Texas Hill,03/12/2019,en préparation,NULL,NULL
+769,737,514,6,09 Homewood Drive,16/04/2022,en préparation,NULL,NULL
+770,185,79,7,21 Butterfield Trail,19/06/2019,livré,22/06/2019,23/06/2019
+771,566,632,10,1 Old Gate Court,05/11/2022,en attente,NULL,NULL
+772,465,74,7,1815 6th Parkway,27/04/2019,en préparation,NULL,NULL
+773,6,819,2,72817 West Junction,19/08/2022,livré,20/08/2022,22/08/2022
+774,796,932,9,58287 Cascade Drive,10/03/2020,en livraison,13/03/2020,NULL
+775,551,708,10,9279 Jana Pass,13/08/2019,livré,14/08/2019,16/08/2019
+776,285,54,7,6138 Sunfield Hill,04/10/2021,en préparation,NULL,NULL
+777,52,516,1,53027 Mendota Alley,17/04/2021,en attente,NULL,NULL
+778,264,385,3,97 Algoma Alley,24/10/2022,en préparation,NULL,NULL
+779,354,974,10,01 Grim Parkway,20/06/2022,en livraison,21/06/2022,NULL
+780,112,973,3,0 Green Ridge Plaza,27/06/2022,en préparation,NULL,NULL
+781,990,733,10,73 Crowley Street,12/12/2020,en livraison,14/12/2020,NULL
+782,781,801,10,8694 Jackson Parkway,05/06/2022,livré,08/06/2022,09/06/2022
+783,340,637,10,27 Pennsylvania Road,07/08/2022,livré,08/08/2022,10/08/2022
+784,472,963,4,037 Fremont Lane,01/09/2022,en livraison,04/09/2022,NULL
+785,899,864,2,2951 Morrow Street,08/04/2019,livré,10/04/2019,13/04/2019
+786,545,68,5,902 Roth Court,23/06/2021,en attente,NULL,NULL
+787,648,584,5,55 Moulton Terrace,23/04/2019,en livraison,24/04/2019,NULL
+788,880,980,6,0879 Fremont Crossing,06/11/2020,en attente,NULL,NULL
+789,239,733,9,83975 Muir Point,23/04/2020,en préparation,NULL,NULL
+790,126,142,9,33 Bobwhite Court,01/08/2019,en préparation,NULL,NULL
+791,214,114,5,67749 Trailsway Road,15/09/2019,en préparation,NULL,NULL
+792,583,599,5,61574 Truax Place,16/12/2021,livré,19/12/2021,22/12/2021
+793,566,191,10,37865 Grasskamp Drive,13/08/2022,en attente,NULL,NULL
+794,31,379,9,4 Nelson Pass,05/05/2020,livré,07/05/2020,10/05/2020
+795,941,583,1,31265 Ridgeview Road,18/09/2021,en préparation,NULL,NULL
+796,113,641,7,26145 Sachs Circle,18/10/2021,en préparation,NULL,NULL
+797,717,219,9,17441 Comanche Pass,07/12/2020,livré,09/12/2020,11/12/2020
+798,702,399,7,56925 Karstens Place,16/12/2018,en livraison,19/12/2018,NULL
+799,330,812,6,5 Pawling Parkway,21/08/2022,livré,22/08/2022,23/08/2022
+800,852,630,10,3 Grasskamp Parkway,20/06/2022,livré,21/06/2022,23/06/2022
+801,305,515,5,507 Pennsylvania Place,03/06/2021,en livraison,06/06/2021,NULL
+802,509,217,6,6759 Packers Terrace,20/09/2021,en préparation,NULL,NULL
+803,462,976,7,1725 Fair Oaks Circle,20/02/2022,en livraison,23/02/2022,NULL
+804,847,649,2,49 Roxbury Plaza,24/03/2020,en attente,NULL,NULL
+805,987,470,2,23 Mayfield Center,11/06/2021,en préparation,NULL,NULL
+806,481,199,5,312 Caliangt Parkway,08/05/2021,livré,11/05/2021,13/05/2021
+807,800,969,4,9 Cody Street,01/10/2021,en attente,NULL,NULL
+808,756,401,6,48922 Vernon Point,16/05/2019,en attente,NULL,NULL
+809,917,845,7,9249 Oxford Circle,19/01/2022,en attente,NULL,NULL
+810,64,228,3,55616 Brentwood Parkway,03/04/2020,en livraison,06/04/2020,NULL
+811,308,88,1,609 Meadow Ridge Trail,24/02/2020,en livraison,26/02/2020,NULL
+812,392,842,10,410 Clyde Gallagher Parkway,01/09/2020,en livraison,04/09/2020,NULL
+813,770,139,1,81 Kings Park,18/04/2022,en livraison,19/04/2022,NULL
+814,613,467,10,2410 Ludington Pass,30/07/2021,en attente,NULL,NULL
+815,984,357,10,8057 Eastwood Road,05/03/2022,livré,06/03/2022,07/03/2022
+816,764,514,4,988 Jenna Lane,06/08/2020,en attente,NULL,NULL
+817,670,832,8,94826 Larry Terrace,19/06/2019,en livraison,20/06/2019,NULL
+818,177,523,5,9 Brickson Park Point,28/03/2019,livré,29/03/2019,31/03/2019
+819,484,343,3,33 Nancy Parkway,20/04/2019,livré,21/04/2019,23/04/2019
+820,419,153,1,532 Ridgeway Trail,23/07/2020,en préparation,NULL,NULL
+821,712,73,2,108 Ohio Way,05/07/2021,en préparation,NULL,NULL
+822,560,33,7,212 Del Mar Park,25/11/2020,en livraison,26/11/2020,NULL
+823,331,559,5,5 Kensington Circle,07/06/2022,en livraison,10/06/2022,NULL
+824,344,70,9,7 Vera Street,27/10/2019,en préparation,NULL,NULL
+825,680,669,8,5988 Upham Junction,24/02/2021,en livraison,27/02/2021,NULL
+826,794,251,2,9610 Harbort Terrace,14/09/2021,en préparation,NULL,NULL
+827,790,36,1,3 Sommers Road,21/04/2022,en attente,NULL,NULL
+828,849,135,3,86076 Victoria Pass,17/08/2020,livré,20/08/2020,22/08/2020
+829,736,72,9,08 Continental Hill,19/12/2021,en attente,NULL,NULL
+830,413,666,10,94 Derek Way,21/12/2021,livré,23/12/2021,24/12/2021
+831,303,390,4,8269 Golf Course Hill,07/04/2020,en attente,NULL,NULL
+832,598,998,9,68 Oak Valley Court,03/02/2021,en attente,NULL,NULL
+833,619,122,3,0 Dorton Trail,17/09/2022,livré,20/09/2022,22/09/2022
+834,643,65,5,15710 Killdeer Drive,18/10/2022,en préparation,NULL,NULL
+835,713,141,8,0 Tennessee Street,15/06/2019,en préparation,NULL,NULL
+836,166,900,6,83149 Evergreen Trail,28/01/2019,en livraison,30/01/2019,NULL
+837,243,462,3,67348 Di Loreto Trail,20/08/2022,livré,23/08/2022,25/08/2022
+838,890,357,6,4216 Roth Crossing,27/08/2019,en livraison,28/08/2019,NULL
+839,384,258,6,7213 Raven Plaza,05/06/2019,en préparation,NULL,NULL
+840,426,72,10,27 Leroy Way,18/03/2020,en attente,NULL,NULL
+841,928,408,7,03129 Sutherland Alley,10/04/2019,livré,12/04/2019,13/04/2019
+842,476,525,8,0 Anniversary Center,12/08/2021,en attente,NULL,NULL
+843,231,846,3,4829 Harper Crossing,23/10/2022,en préparation,NULL,NULL
+844,477,236,5,99 Sage Court,10/10/2019,livré,13/10/2019,14/10/2019
+845,639,92,4,1795 West Lane,26/05/2021,en préparation,NULL,NULL
+846,214,354,1,38054 Golf Course Center,26/12/2020,en attente,NULL,NULL
+847,392,42,1,456 Shoshone Terrace,21/10/2020,en attente,NULL,NULL
+848,478,950,3,1013 Valley Edge Drive,23/01/2021,en préparation,NULL,NULL
+849,387,186,10,08 Transport Street,07/11/2019,livré,09/11/2019,11/11/2019
+850,638,285,9,104 Dapin Way,14/01/2020,en préparation,NULL,NULL
+851,679,93,6,4 Schmedeman Avenue,27/09/2021,livré,28/09/2021,01/10/2021
+852,23,751,9,3 Green Place,06/12/2018,en préparation,NULL,NULL
+853,130,738,10,94 Upham Hill,24/09/2019,en attente,NULL,NULL
+854,682,379,3,994 Esker Park,03/05/2020,en livraison,06/05/2020,NULL
+855,683,103,2,57521 Merrick Lane,13/09/2021,livré,15/09/2021,17/09/2021
+856,904,177,2,41 Birchwood Circle,28/06/2019,livré,01/07/2019,03/07/2019
+857,510,41,6,317 Knutson Crossing,08/01/2021,en attente,NULL,NULL
+858,207,173,6,11 Veith Trail,09/05/2022,en préparation,NULL,NULL
+859,943,793,3,5 Armistice Drive,31/10/2022,en préparation,NULL,NULL
+860,208,352,10,85259 Hooker Alley,17/06/2019,en préparation,NULL,NULL
+861,67,354,1,363 Hudson Lane,20/09/2021,en préparation,NULL,NULL
+862,524,206,1,47 Graceland Center,31/08/2021,livré,02/09/2021,04/09/2021
+863,849,800,1,574 Loeprich Pass,16/08/2022,en préparation,NULL,NULL
+864,83,29,10,17666 Hoffman Place,22/10/2022,livré,23/10/2022,26/10/2022
+865,116,283,2,9 Petterle Crossing,26/05/2020,en livraison,28/05/2020,NULL
+866,227,353,7,947 Melby Street,28/06/2021,livré,01/07/2021,02/07/2021
+867,858,673,4,54 Monument Lane,19/02/2021,livré,20/02/2021,22/02/2021
+868,339,853,7,0 Ronald Regan Court,26/03/2022,en livraison,28/03/2022,NULL
+869,826,425,5,18 Almo Junction,24/02/2021,en attente,NULL,NULL
+870,930,612,6,7 Gateway Drive,05/12/2021,livré,07/12/2021,09/12/2021
+871,609,958,1,23756 Elgar Trail,25/05/2022,en livraison,26/05/2022,NULL
+872,499,508,5,78287 Acker Alley,22/09/2019,en attente,NULL,NULL
+873,615,779,5,3129 American Trail,24/01/2022,en attente,NULL,NULL
+874,413,697,1,633 Clemons Park,25/05/2020,en livraison,28/05/2020,NULL
+875,37,853,1,5 Pleasure Court,08/10/2020,en livraison,10/10/2020,NULL
+876,531,605,9,226 Dorton Parkway,10/05/2022,en attente,NULL,NULL
+877,420,239,4,963 Welch Junction,06/06/2020,en préparation,NULL,NULL
+878,869,85,9,004 Eagle Crest Terrace,16/02/2022,en préparation,NULL,NULL
+879,961,486,4,55518 Mifflin Point,10/02/2022,livré,12/02/2022,14/02/2022
+880,991,752,6,9 Columbus Avenue,03/02/2019,en livraison,06/02/2019,NULL
+881,718,693,7,01 Granby Avenue,13/04/2020,en livraison,16/04/2020,NULL
+882,849,563,9,619 Northfield Plaza,08/11/2022,en préparation,NULL,NULL
+883,250,778,1,4729 Redwing Park,26/09/2022,en livraison,27/09/2022,NULL
+884,106,604,2,52 Armistice Way,11/02/2020,en préparation,NULL,NULL
+885,895,815,4,3999 Dunning Place,10/01/2020,livré,11/01/2020,14/01/2020
+886,892,390,9,1917 Hooker Trail,04/03/2022,en livraison,06/03/2022,NULL
+887,37,193,4,35824 Mcbride Avenue,06/06/2022,en livraison,08/06/2022,NULL
+888,574,30,4,129 Burrows Avenue,16/01/2021,en attente,NULL,NULL
+889,222,939,3,0192 Londonderry Crossing,02/03/2022,en préparation,NULL,NULL
+890,67,605,3,16460 Goodland Center,21/08/2020,en livraison,22/08/2020,NULL
+891,337,11,7,666 Shelley Point,30/10/2020,en attente,NULL,NULL
+892,171,613,2,648 Dawn Pass,15/03/2019,en attente,NULL,NULL
+893,956,123,2,7844 Dryden Hill,13/11/2019,en préparation,NULL,NULL
+894,473,473,3,9 Superior Crossing,30/10/2021,en livraison,02/11/2021,NULL
+895,729,661,9,5 Buena Vista Road,20/10/2020,en livraison,23/10/2020,NULL
+896,245,149,8,3974 Farwell Street,03/10/2021,en livraison,06/10/2021,NULL
+897,32,836,4,348 Hudson Crossing,16/01/2020,livré,17/01/2020,18/01/2020
+898,441,33,9,334 Manitowish Pass,27/09/2019,en livraison,29/09/2019,NULL
+899,560,813,1,093 Everett Crossing,05/01/2022,en attente,NULL,NULL
+900,64,22,1,490 Westerfield Center,23/09/2021,en attente,NULL,NULL
+901,343,571,9,9 Lakewood Road,31/01/2020,en préparation,NULL,NULL
+902,109,646,9,4 Hooker Circle,17/02/2021,en livraison,19/02/2021,NULL
+903,629,336,3,906 Briar Crest Avenue,29/04/2022,en préparation,NULL,NULL
+904,507,755,2,87 Kipling Circle,19/05/2022,en livraison,20/05/2022,NULL
+905,56,740,1,8 Cottonwood Avenue,07/02/2020,en attente,NULL,NULL
+906,367,838,2,65384 Melby Avenue,08/01/2021,en préparation,NULL,NULL
+907,138,471,5,27 Everett Court,23/06/2020,en livraison,24/06/2020,NULL
+908,657,734,4,64 Ronald Regan Parkway,23/02/2022,livré,25/02/2022,28/02/2022
+909,358,814,3,17 Dorton Avenue,11/11/2022,en livraison,13/11/2022,NULL
+910,134,163,8,1 Warner Terrace,01/11/2020,en livraison,04/11/2020,NULL
+911,523,81,10,588 Sunbrook Parkway,23/08/2019,en livraison,24/08/2019,NULL
+912,810,973,2,983 Arrowood Court,27/03/2022,livré,28/03/2022,30/03/2022
+913,973,248,2,9 Wayridge Street,22/01/2022,livré,24/01/2022,27/01/2022
+914,309,77,5,72101 Katie Place,04/08/2022,en attente,NULL,NULL
+915,107,653,3,977 Moose Circle,21/05/2019,en attente,NULL,NULL
+916,381,182,8,784 Pepper Wood Center,04/11/2019,livré,07/11/2019,08/11/2019
+917,99,283,4,985 Scott Lane,14/06/2022,en préparation,NULL,NULL
+918,827,344,7,908 Caliangt Park,25/03/2020,en attente,NULL,NULL
+919,330,982,3,5 Lakeland Hill,05/11/2020,en attente,NULL,NULL
+920,919,707,10,66 Leroy Crossing,09/04/2021,en livraison,12/04/2021,NULL
+921,788,628,7,1 Bluejay Plaza,11/06/2019,livré,13/06/2019,14/06/2019
+922,768,330,3,9229 Moulton Center,07/09/2019,livré,08/09/2019,09/09/2019
+923,860,704,5,6894 Lillian Terrace,30/08/2022,en préparation,NULL,NULL
+924,677,443,7,6 Fuller Avenue,02/06/2021,en préparation,NULL,NULL
+925,761,726,8,9 Monument Pass,14/10/2022,livré,17/10/2022,19/10/2022
+926,235,522,7,797 Upham Road,08/11/2022,livré,09/11/2022,10/11/2022
+927,17,759,10,48 Springview Court,06/11/2022,livré,07/11/2022,10/11/2022
+928,363,372,9,2299 Miller Lane,01/12/2021,en préparation,NULL,NULL
+929,763,679,9,9 Mandrake Pass,09/09/2020,livré,12/09/2020,14/09/2020
+930,7,240,8,92 Corben Trail,04/05/2020,en attente,NULL,NULL
+931,798,197,10,5 Macpherson Terrace,25/11/2022,en attente,NULL,NULL
+932,532,834,4,06073 Welch Street,05/09/2021,livré,06/09/2021,08/09/2021
+933,762,504,6,0 Del Mar Parkway,24/11/2022,en attente,NULL,NULL
+934,525,588,1,6 Kensington Road,10/04/2020,en livraison,11/04/2020,NULL
+935,691,850,4,0 Goodland Junction,13/04/2022,en préparation,NULL,NULL
+936,828,776,1,537 Atwood Drive,09/11/2021,livré,10/11/2021,11/11/2021
+937,80,318,3,923 Stuart Court,28/05/2019,en attente,NULL,NULL
+938,764,615,7,85 Golf Park,18/02/2019,en préparation,NULL,NULL
+939,394,296,7,816 Grasskamp Hill,27/06/2022,livré,29/06/2022,02/07/2022
+940,99,579,4,58292 2nd Park,22/02/2019,en livraison,25/02/2019,NULL
+941,98,389,1,505 Rigney Court,01/08/2019,en livraison,04/08/2019,NULL
+942,106,262,6,92 Spenser Junction,16/07/2019,en attente,NULL,NULL
+943,84,996,10,87936 Park Meadow Way,28/12/2020,en livraison,31/12/2020,NULL
+944,892,653,8,86434 Eliot Street,13/04/2022,en livraison,14/04/2022,NULL
+945,337,864,9,6 Lotheville Alley,15/07/2020,livré,16/07/2020,19/07/2020
+946,812,319,3,53112 Swallow Way,23/04/2021,livré,26/04/2021,27/04/2021
+947,634,626,8,84831 Redwing Lane,22/09/2021,livré,25/09/2021,28/09/2021
+948,558,116,9,39955 Rieder Way,09/05/2020,livré,10/05/2020,11/05/2020
+949,373,411,5,47 Glendale Alley,04/05/2019,en livraison,05/05/2019,NULL
+950,61,627,9,4596 Redwing Plaza,17/03/2021,en attente,NULL,NULL
+951,237,924,7,45 Porter Lane,25/06/2020,en attente,NULL,NULL
+952,677,950,10,31 Pennsylvania Parkway,22/02/2022,en préparation,NULL,NULL
+953,351,570,7,995 Forest Run Terrace,20/09/2022,livré,22/09/2022,24/09/2022
+954,299,161,8,496 Fordem Hill,20/01/2019,en préparation,NULL,NULL
+955,518,505,6,06 Stuart Way,14/06/2019,livré,16/06/2019,18/06/2019
+956,843,709,10,11 Welch Park,01/05/2019,en livraison,04/05/2019,NULL
+957,264,492,1,776 Heath Crossing,25/03/2022,livré,28/03/2022,30/03/2022
+958,169,15,10,39 Meadow Ridge Crossing,09/06/2019,livré,11/06/2019,13/06/2019
+959,128,136,6,84 Kropf Crossing,13/04/2019,livré,15/04/2019,18/04/2019
+960,341,656,4,8739 3rd Point,01/06/2022,livré,04/06/2022,06/06/2022
+961,156,218,10,07 Roxbury Circle,10/08/2022,en préparation,NULL,NULL
+962,191,312,6,3874 Rowland Terrace,28/10/2019,livré,30/10/2019,02/11/2019
+963,423,806,5,5709 Swallow Park,13/05/2019,en livraison,16/05/2019,NULL
+964,18,751,9,02480 Mcguire Circle,13/03/2022,livré,16/03/2022,17/03/2022
+965,640,855,3,42 Arkansas Center,30/08/2022,en préparation,NULL,NULL
+966,958,287,9,126 Schurz Park,23/08/2021,en attente,NULL,NULL
+967,759,836,1,3 West Court,16/09/2020,en préparation,NULL,NULL
+968,755,450,7,9151 Rieder Alley,12/08/2020,en livraison,15/08/2020,NULL
+969,266,328,2,0076 Jenifer Avenue,20/05/2020,livré,21/05/2020,22/05/2020
+970,913,947,1,9 Doe Crossing Hill,30/09/2022,en attente,NULL,NULL
+971,735,961,4,23 Porter Pass,25/07/2022,en livraison,28/07/2022,NULL
+972,119,281,4,287 Lotheville Court,25/07/2019,en préparation,NULL,NULL
+973,776,569,3,13971 Jay Avenue,05/05/2020,en livraison,06/05/2020,NULL
+974,492,297,2,722 Armistice Hill,24/08/2022,en livraison,27/08/2022,NULL
+975,78,53,6,90 Manitowish Parkway,24/04/2020,livré,25/04/2020,26/04/2020
+976,636,214,5,2684 Larry Lane,03/09/2020,en préparation,NULL,NULL
+977,492,235,6,2 Maple Place,25/04/2022,en préparation,NULL,NULL
+978,100,836,9,53 John Wall Crossing,19/03/2021,livré,21/03/2021,24/03/2021
+979,567,531,5,6623 Banding Hill,20/02/2022,en attente,NULL,NULL
+980,305,790,2,9 Almo Hill,07/08/2019,en préparation,NULL,NULL
+981,829,463,5,2 2nd Point,27/12/2022,en préparation,NULL,NULL
+982,613,630,5,89949 Twin Pines Alley,24/03/2022,en attente,NULL,NULL
+983,951,357,10,21 Fisk Drive,22/10/2021,en préparation,NULL,NULL
+984,815,766,4,09 Fulton Terrace,07/08/2022,en attente,NULL,NULL
+985,99,301,4,97 Summer Ridge Lane,23/09/2021,en attente,NULL,NULL
+986,839,112,7,93920 Twin Pines Street,02/02/2022,en attente,NULL,NULL
+987,314,893,9,87149 Macpherson Trail,12/04/2020,livré,15/04/2020,16/04/2020
+988,84,290,3,1 Sachtjen Trail,30/11/2020,en attente,NULL,NULL
+989,176,873,10,65 Mayfield Street,23/05/2022,en préparation,NULL,NULL
+990,841,751,8,0837 Alpine Park,23/11/2019,en attente,NULL,NULL
+991,202,449,9,39895 Longview Way,20/09/2021,livré,21/09/2021,23/09/2021
+992,754,121,7,829 Loeprich Hill,03/12/2022,livré,04/12/2022,06/12/2022
+993,734,965,4,2630 Lukken Place,22/04/2020,en attente,NULL,NULL
+994,305,312,5,76 Lukken Hill,12/07/2019,en préparation,NULL,NULL
+995,96,454,1,42634 Merrick Trail,09/06/2019,en livraison,12/06/2019,NULL
+996,276,841,6,2145 Lakewood Hill,31/12/2021,en livraison,02/01/2022,NULL
+997,773,543,9,643 Fremont Terrace,17/11/2019,en livraison,19/11/2019,NULL
+998,214,50,6,105 Chive Street,18/02/2019,en attente,NULL,NULL
+999,373,231,2,98878 Judy Lane,07/08/2021,en attente,NULL,NULL
+1000,792,915,10,61 Graedel Avenue,24/03/2020,en préparation,NULL,NULL

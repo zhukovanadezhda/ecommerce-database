@@ -1,0 +1,1001 @@
+return_request_id,order_id,reason,status,request_date
+1,690,le prix ne correspond pas à la qualité,accepteé,2020-11-24
+2,697,le prix ne correspond pas à la qualité,remboursé,2021-01-02
+3,516,produit defectueux,accepteé,2020-11-23
+4,387,je ne l'ai pas aimé,remboursé,2021-01-07
+5,853,je ne l'ai pas aimé,accepteé,2020-12-04
+6,320,je ne l'ai pas aimé,accepteé,2020-10-29
+7,773,le prix ne correspond pas à la qualité,remboursé,2020-10-09
+8,59,je ne l'ai pas aimé,accepteé,2020-12-25
+9,854,le prix ne correspond pas à la qualité,accepteé,2020-12-17
+10,748,je ne l'ai pas aimé,accepteé,2020-10-15
+11,416,le prix ne correspond pas à la qualité,remboursé,2021-01-05
+12,495,le prix ne correspond pas à la qualité,remboursé,2020-11-28
+13,742,le prix ne correspond pas à la qualité,accepteé,2020-12-29
+14,778,le prix ne correspond pas à la qualité,remboursé,2020-11-10
+15,441,produit defectueux,accepteé,2020-12-23
+16,374,produit defectueux,accepteé,2020-12-17
+17,706,je ne l'ai pas aimé,remboursé,2020-10-21
+18,34,produit defectueux,accepteé,2020-12-27
+19,184,je ne l'ai pas aimé,remboursé,2020-11-30
+20,686,produit defectueux,remboursé,2020-12-24
+21,379,le prix ne correspond pas à la qualité,accepteé,2020-11-29
+22,291,le prix ne correspond pas à la qualité,remboursé,2020-10-14
+23,747,produit defectueux,accepteé,2021-01-02
+24,137,produit defectueux,remboursé,2020-12-04
+25,903,je ne l'ai pas aimé,remboursé,2020-11-23
+26,984,produit defectueux,accepteé,2020-12-13
+27,773,produit defectueux,accepteé,2020-12-11
+28,956,je ne l'ai pas aimé,accepteé,2020-12-14
+29,142,produit defectueux,accepteé,2020-10-08
+30,402,je ne l'ai pas aimé,accepteé,2020-12-24
+31,697,le prix ne correspond pas à la qualité,accepteé,2020-11-23
+32,111,produit defectueux,accepteé,2020-12-21
+33,924,le prix ne correspond pas à la qualité,remboursé,2020-12-24
+34,580,produit defectueux,remboursé,2020-10-09
+35,910,le prix ne correspond pas à la qualité,accepteé,2020-12-03
+36,777,je ne l'ai pas aimé,remboursé,2020-12-17
+37,793,produit defectueux,remboursé,2020-12-30
+38,788,je ne l'ai pas aimé,accepteé,2021-01-02
+39,856,le prix ne correspond pas à la qualité,remboursé,2020-12-13
+40,53,le prix ne correspond pas à la qualité,accepteé,2020-10-20
+41,25,je ne l'ai pas aimé,accepteé,2020-11-15
+42,899,produit defectueux,accepteé,2020-10-02
+43,943,le prix ne correspond pas à la qualité,remboursé,2020-11-14
+44,448,je ne l'ai pas aimé,remboursé,2020-12-07
+45,926,je ne l'ai pas aimé,accepteé,2020-12-25
+46,826,produit defectueux,remboursé,2020-10-30
+47,655,le prix ne correspond pas à la qualité,remboursé,2020-12-21
+48,118,le prix ne correspond pas à la qualité,remboursé,2021-01-07
+49,116,produit defectueux,accepteé,2020-11-05
+50,787,produit defectueux,accepteé,2020-10-28
+51,600,je ne l'ai pas aimé,remboursé,2020-12-27
+52,79,je ne l'ai pas aimé,accepteé,2020-12-31
+53,619,produit defectueux,remboursé,2021-01-02
+54,740,produit defectueux,remboursé,2020-10-18
+55,593,je ne l'ai pas aimé,accepteé,2020-12-28
+56,997,je ne l'ai pas aimé,accepteé,2020-12-18
+57,780,le prix ne correspond pas à la qualité,accepteé,2020-12-03
+58,357,le prix ne correspond pas à la qualité,accepteé,2020-12-16
+59,725,produit defectueux,accepteé,2021-01-04
+60,867,le prix ne correspond pas à la qualité,remboursé,2020-11-15
+61,687,je ne l'ai pas aimé,accepteé,2020-12-13
+62,268,produit defectueux,remboursé,2020-12-01
+63,766,produit defectueux,accepteé,2020-12-07
+64,912,je ne l'ai pas aimé,accepteé,2020-10-12
+65,33,le prix ne correspond pas à la qualité,remboursé,2020-11-24
+66,198,je ne l'ai pas aimé,accepteé,2020-11-13
+67,334,je ne l'ai pas aimé,remboursé,2020-12-05
+68,551,produit defectueux,remboursé,2020-10-16
+69,590,produit defectueux,accepteé,2020-11-16
+70,917,le prix ne correspond pas à la qualité,remboursé,2020-12-23
+71,87,le prix ne correspond pas à la qualité,accepteé,2020-10-20
+72,304,produit defectueux,accepteé,2020-11-26
+73,326,le prix ne correspond pas à la qualité,remboursé,2020-12-29
+74,872,produit defectueux,remboursé,2020-11-16
+75,12,le prix ne correspond pas à la qualité,accepteé,2020-12-14
+76,938,le prix ne correspond pas à la qualité,remboursé,2020-12-22
+77,798,je ne l'ai pas aimé,accepteé,2020-10-10
+78,615,produit defectueux,remboursé,2020-11-20
+79,274,produit defectueux,remboursé,2021-01-09
+80,876,produit defectueux,accepteé,2020-12-31
+81,316,je ne l'ai pas aimé,accepteé,2020-10-12
+82,266,produit defectueux,remboursé,2020-12-21
+83,916,je ne l'ai pas aimé,remboursé,2020-11-08
+84,71,je ne l'ai pas aimé,accepteé,2020-10-28
+85,666,je ne l'ai pas aimé,remboursé,2020-11-16
+86,569,le prix ne correspond pas à la qualité,accepteé,2020-12-07
+87,937,le prix ne correspond pas à la qualité,accepteé,2020-10-29
+88,267,je ne l'ai pas aimé,remboursé,2020-10-19
+89,338,produit defectueux,accepteé,2020-11-12
+90,622,le prix ne correspond pas à la qualité,remboursé,2020-11-19
+91,447,le prix ne correspond pas à la qualité,accepteé,2020-12-12
+92,906,le prix ne correspond pas à la qualité,remboursé,2020-12-25
+93,991,je ne l'ai pas aimé,remboursé,2020-11-20
+94,280,le prix ne correspond pas à la qualité,accepteé,2021-01-06
+95,961,produit defectueux,accepteé,2020-10-22
+96,162,le prix ne correspond pas à la qualité,accepteé,2020-12-01
+97,247,produit defectueux,accepteé,2020-11-04
+98,281,le prix ne correspond pas à la qualité,accepteé,2021-01-02
+99,660,le prix ne correspond pas à la qualité,accepteé,2021-01-05
+100,819,produit defectueux,accepteé,2020-10-14
+101,119,je ne l'ai pas aimé,accepteé,2020-11-25
+102,369,produit defectueux,remboursé,2020-12-09
+103,801,je ne l'ai pas aimé,remboursé,2020-12-12
+104,477,le prix ne correspond pas à la qualité,remboursé,2020-12-10
+105,931,le prix ne correspond pas à la qualité,remboursé,2021-01-06
+106,126,le prix ne correspond pas à la qualité,accepteé,2020-12-15
+107,958,je ne l'ai pas aimé,accepteé,2020-12-04
+108,362,je ne l'ai pas aimé,remboursé,2020-11-19
+109,225,produit defectueux,accepteé,2020-12-02
+110,707,produit defectueux,remboursé,2020-10-22
+111,747,le prix ne correspond pas à la qualité,accepteé,2020-12-27
+112,562,produit defectueux,remboursé,2021-01-05
+113,756,produit defectueux,accepteé,2021-01-01
+114,717,je ne l'ai pas aimé,remboursé,2020-11-29
+115,27,je ne l'ai pas aimé,accepteé,2020-12-20
+116,42,je ne l'ai pas aimé,remboursé,2020-10-30
+117,153,je ne l'ai pas aimé,accepteé,2020-11-02
+118,290,produit defectueux,accepteé,2020-12-09
+119,332,le prix ne correspond pas à la qualité,remboursé,2020-12-29
+120,303,le prix ne correspond pas à la qualité,accepteé,2020-11-29
+121,234,produit defectueux,accepteé,2020-10-20
+122,960,le prix ne correspond pas à la qualité,accepteé,2020-10-30
+123,411,je ne l'ai pas aimé,accepteé,2020-10-19
+124,807,je ne l'ai pas aimé,accepteé,2020-10-17
+125,762,je ne l'ai pas aimé,accepteé,2020-11-27
+126,688,je ne l'ai pas aimé,accepteé,2020-11-04
+127,223,produit defectueux,remboursé,2020-10-13
+128,357,le prix ne correspond pas à la qualité,accepteé,2020-10-14
+129,28,le prix ne correspond pas à la qualité,accepteé,2020-12-30
+130,677,le prix ne correspond pas à la qualité,remboursé,2020-10-17
+131,449,produit defectueux,remboursé,2020-10-25
+132,65,je ne l'ai pas aimé,accepteé,2020-11-23
+133,112,le prix ne correspond pas à la qualité,remboursé,2021-01-02
+134,951,produit defectueux,remboursé,2020-11-27
+135,280,produit defectueux,remboursé,2020-10-27
+136,351,je ne l'ai pas aimé,accepteé,2020-12-23
+137,825,je ne l'ai pas aimé,remboursé,2020-11-27
+138,490,je ne l'ai pas aimé,remboursé,2020-10-12
+139,397,le prix ne correspond pas à la qualité,remboursé,2020-12-20
+140,392,produit defectueux,accepteé,2020-11-27
+141,528,je ne l'ai pas aimé,accepteé,2020-11-17
+142,882,le prix ne correspond pas à la qualité,remboursé,2020-11-28
+143,564,je ne l'ai pas aimé,accepteé,2020-12-25
+144,583,je ne l'ai pas aimé,remboursé,2020-11-05
+145,619,je ne l'ai pas aimé,accepteé,2020-10-04
+146,589,produit defectueux,remboursé,2020-11-05
+147,136,produit defectueux,remboursé,2020-12-13
+148,954,je ne l'ai pas aimé,remboursé,2020-12-12
+149,383,le prix ne correspond pas à la qualité,remboursé,2020-12-10
+150,532,le prix ne correspond pas à la qualité,accepteé,2020-10-26
+151,739,je ne l'ai pas aimé,remboursé,2020-11-13
+152,152,produit defectueux,remboursé,2021-01-01
+153,839,je ne l'ai pas aimé,remboursé,2021-01-04
+154,721,je ne l'ai pas aimé,accepteé,2020-11-10
+155,891,je ne l'ai pas aimé,remboursé,2020-10-23
+156,368,le prix ne correspond pas à la qualité,accepteé,2020-12-15
+157,524,je ne l'ai pas aimé,remboursé,2020-11-09
+158,529,je ne l'ai pas aimé,remboursé,2021-01-05
+159,253,produit defectueux,remboursé,2020-10-12
+160,879,produit defectueux,remboursé,2021-01-04
+161,19,je ne l'ai pas aimé,remboursé,2020-11-11
+162,433,le prix ne correspond pas à la qualité,accepteé,2020-10-09
+163,773,le prix ne correspond pas à la qualité,accepteé,2020-10-09
+164,663,le prix ne correspond pas à la qualité,remboursé,2020-10-22
+165,716,je ne l'ai pas aimé,remboursé,2020-10-20
+166,777,je ne l'ai pas aimé,remboursé,2020-11-22
+167,282,produit defectueux,accepteé,2020-12-24
+168,308,le prix ne correspond pas à la qualité,remboursé,2020-12-16
+169,469,le prix ne correspond pas à la qualité,accepteé,2020-10-27
+170,196,je ne l'ai pas aimé,remboursé,2020-11-10
+171,525,produit defectueux,accepteé,2020-12-22
+172,549,produit defectueux,remboursé,2020-10-15
+173,319,je ne l'ai pas aimé,accepteé,2020-11-16
+174,185,je ne l'ai pas aimé,accepteé,2020-11-14
+175,399,produit defectueux,accepteé,2020-12-06
+176,391,le prix ne correspond pas à la qualité,accepteé,2020-12-24
+177,56,produit defectueux,remboursé,2020-10-26
+178,714,le prix ne correspond pas à la qualité,accepteé,2020-11-13
+179,109,je ne l'ai pas aimé,remboursé,2020-10-04
+180,2,le prix ne correspond pas à la qualité,remboursé,2020-12-07
+181,38,le prix ne correspond pas à la qualité,accepteé,2020-12-28
+182,714,produit defectueux,accepteé,2021-01-04
+183,950,le prix ne correspond pas à la qualité,accepteé,2020-11-25
+184,214,produit defectueux,remboursé,2020-11-06
+185,852,le prix ne correspond pas à la qualité,accepteé,2020-10-03
+186,279,je ne l'ai pas aimé,remboursé,2020-12-22
+187,926,produit defectueux,remboursé,2020-12-24
+188,503,le prix ne correspond pas à la qualité,remboursé,2020-11-11
+189,202,produit defectueux,accepteé,2020-12-01
+190,962,produit defectueux,remboursé,2020-12-16
+191,825,produit defectueux,accepteé,2020-10-03
+192,217,le prix ne correspond pas à la qualité,remboursé,2021-01-08
+193,750,le prix ne correspond pas à la qualité,remboursé,2020-12-26
+194,559,le prix ne correspond pas à la qualité,remboursé,2020-12-07
+195,582,je ne l'ai pas aimé,accepteé,2020-12-28
+196,393,le prix ne correspond pas à la qualité,remboursé,2020-11-22
+197,217,je ne l'ai pas aimé,accepteé,2020-10-07
+198,178,le prix ne correspond pas à la qualité,remboursé,2021-01-03
+199,889,je ne l'ai pas aimé,remboursé,2020-10-25
+200,917,le prix ne correspond pas à la qualité,remboursé,2020-11-19
+201,272,je ne l'ai pas aimé,remboursé,2020-12-03
+202,541,produit defectueux,accepteé,2020-10-30
+203,300,produit defectueux,remboursé,2020-12-17
+204,745,le prix ne correspond pas à la qualité,accepteé,2020-10-18
+205,360,le prix ne correspond pas à la qualité,remboursé,2020-11-16
+206,857,produit defectueux,remboursé,2020-11-18
+207,940,je ne l'ai pas aimé,remboursé,2020-11-30
+208,275,je ne l'ai pas aimé,remboursé,2020-11-10
+209,40,je ne l'ai pas aimé,remboursé,2020-11-19
+210,141,je ne l'ai pas aimé,accepteé,2020-10-20
+211,647,le prix ne correspond pas à la qualité,accepteé,2020-10-07
+212,845,je ne l'ai pas aimé,remboursé,2021-01-04
+213,656,je ne l'ai pas aimé,remboursé,2020-11-25
+214,939,produit defectueux,accepteé,2020-10-03
+215,494,produit defectueux,remboursé,2021-01-06
+216,789,produit defectueux,remboursé,2020-12-14
+217,272,produit defectueux,remboursé,2020-10-03
+218,595,je ne l'ai pas aimé,accepteé,2020-12-11
+219,67,produit defectueux,accepteé,2020-11-16
+220,970,je ne l'ai pas aimé,remboursé,2020-11-03
+221,801,je ne l'ai pas aimé,accepteé,2020-12-13
+222,919,le prix ne correspond pas à la qualité,accepteé,2020-11-13
+223,765,le prix ne correspond pas à la qualité,accepteé,2021-01-02
+224,670,je ne l'ai pas aimé,remboursé,2020-11-29
+225,685,produit defectueux,remboursé,2020-10-12
+226,151,je ne l'ai pas aimé,accepteé,2020-10-30
+227,278,je ne l'ai pas aimé,remboursé,2020-11-06
+228,751,le prix ne correspond pas à la qualité,accepteé,2020-11-13
+229,647,je ne l'ai pas aimé,accepteé,2020-10-24
+230,827,je ne l'ai pas aimé,accepteé,2020-12-17
+231,526,le prix ne correspond pas à la qualité,remboursé,2020-10-28
+232,335,produit defectueux,accepteé,2020-10-18
+233,621,le prix ne correspond pas à la qualité,remboursé,2020-10-20
+234,469,le prix ne correspond pas à la qualité,accepteé,2020-11-06
+235,148,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+236,922,je ne l'ai pas aimé,remboursé,2020-12-15
+237,37,le prix ne correspond pas à la qualité,accepteé,2020-12-01
+238,456,produit defectueux,accepteé,2020-10-02
+239,373,le prix ne correspond pas à la qualité,remboursé,2020-10-27
+240,567,produit defectueux,remboursé,2020-10-27
+241,280,produit defectueux,accepteé,2020-12-25
+242,687,je ne l'ai pas aimé,accepteé,2021-01-03
+243,943,produit defectueux,accepteé,2020-10-14
+244,552,produit defectueux,remboursé,2020-10-29
+245,300,je ne l'ai pas aimé,remboursé,2020-11-26
+246,727,le prix ne correspond pas à la qualité,accepteé,2020-12-03
+247,706,je ne l'ai pas aimé,remboursé,2020-10-19
+248,559,le prix ne correspond pas à la qualité,accepteé,2021-01-07
+249,683,je ne l'ai pas aimé,remboursé,2020-10-05
+250,953,produit defectueux,remboursé,2020-10-08
+251,46,le prix ne correspond pas à la qualité,accepteé,2020-10-10
+252,864,produit defectueux,accepteé,2020-11-16
+253,381,je ne l'ai pas aimé,accepteé,2020-12-21
+254,937,le prix ne correspond pas à la qualité,accepteé,2021-01-02
+255,384,je ne l'ai pas aimé,accepteé,2020-11-21
+256,681,je ne l'ai pas aimé,accepteé,2020-11-21
+257,546,je ne l'ai pas aimé,remboursé,2020-12-14
+258,535,produit defectueux,remboursé,2020-12-22
+259,406,le prix ne correspond pas à la qualité,accepteé,2020-10-29
+260,398,le prix ne correspond pas à la qualité,accepteé,2020-12-02
+261,519,je ne l'ai pas aimé,remboursé,2020-10-10
+262,343,je ne l'ai pas aimé,accepteé,2020-12-06
+263,881,je ne l'ai pas aimé,accepteé,2020-12-04
+264,254,produit defectueux,remboursé,2020-12-24
+265,866,le prix ne correspond pas à la qualité,accepteé,2020-10-31
+266,689,je ne l'ai pas aimé,accepteé,2020-12-09
+267,256,le prix ne correspond pas à la qualité,accepteé,2020-11-12
+268,953,produit defectueux,accepteé,2020-10-15
+269,85,produit defectueux,remboursé,2020-11-09
+270,746,produit defectueux,remboursé,2020-10-19
+271,520,le prix ne correspond pas à la qualité,accepteé,2020-11-19
+272,448,produit defectueux,accepteé,2020-10-08
+273,488,le prix ne correspond pas à la qualité,accepteé,2020-11-04
+274,324,je ne l'ai pas aimé,remboursé,2020-11-10
+275,383,je ne l'ai pas aimé,accepteé,2020-10-07
+276,384,le prix ne correspond pas à la qualité,accepteé,2020-10-17
+277,608,le prix ne correspond pas à la qualité,accepteé,2020-10-08
+278,901,je ne l'ai pas aimé,remboursé,2020-11-12
+279,651,je ne l'ai pas aimé,remboursé,2020-12-30
+280,518,produit defectueux,remboursé,2020-10-07
+281,332,le prix ne correspond pas à la qualité,remboursé,2020-11-04
+282,479,je ne l'ai pas aimé,accepteé,2020-10-08
+283,891,le prix ne correspond pas à la qualité,accepteé,2020-12-28
+284,929,le prix ne correspond pas à la qualité,remboursé,2020-10-04
+285,421,le prix ne correspond pas à la qualité,accepteé,2020-12-11
+286,391,je ne l'ai pas aimé,remboursé,2020-10-03
+287,654,le prix ne correspond pas à la qualité,accepteé,2020-12-30
+288,193,je ne l'ai pas aimé,accepteé,2020-12-27
+289,659,le prix ne correspond pas à la qualité,accepteé,2020-10-27
+290,417,le prix ne correspond pas à la qualité,accepteé,2021-01-05
+291,456,produit defectueux,accepteé,2021-01-07
+292,23,le prix ne correspond pas à la qualité,accepteé,2020-11-15
+293,987,je ne l'ai pas aimé,remboursé,2020-10-07
+294,394,je ne l'ai pas aimé,remboursé,2020-12-01
+295,427,le prix ne correspond pas à la qualité,accepteé,2020-10-23
+296,192,produit defectueux,remboursé,2020-12-09
+297,222,le prix ne correspond pas à la qualité,accepteé,2020-10-26
+298,62,je ne l'ai pas aimé,accepteé,2020-10-11
+299,915,produit defectueux,accepteé,2020-12-22
+300,525,je ne l'ai pas aimé,remboursé,2020-11-17
+301,10,le prix ne correspond pas à la qualité,remboursé,2020-12-09
+302,422,produit defectueux,remboursé,2020-11-18
+303,250,je ne l'ai pas aimé,remboursé,2021-01-08
+304,131,produit defectueux,remboursé,2020-11-12
+305,960,produit defectueux,remboursé,2020-10-22
+306,371,je ne l'ai pas aimé,remboursé,2021-01-04
+307,722,le prix ne correspond pas à la qualité,remboursé,2020-10-29
+308,95,le prix ne correspond pas à la qualité,accepteé,2020-10-10
+309,797,produit defectueux,accepteé,2020-10-29
+310,793,le prix ne correspond pas à la qualité,accepteé,2020-12-06
+311,976,le prix ne correspond pas à la qualité,remboursé,2020-10-03
+312,156,le prix ne correspond pas à la qualité,remboursé,2020-10-31
+313,318,le prix ne correspond pas à la qualité,accepteé,2020-11-24
+314,435,je ne l'ai pas aimé,accepteé,2020-10-03
+315,283,je ne l'ai pas aimé,accepteé,2020-11-20
+316,765,je ne l'ai pas aimé,accepteé,2020-12-04
+317,546,le prix ne correspond pas à la qualité,accepteé,2020-10-09
+318,450,le prix ne correspond pas à la qualité,accepteé,2020-12-26
+319,885,je ne l'ai pas aimé,remboursé,2020-10-06
+320,986,le prix ne correspond pas à la qualité,remboursé,2020-11-30
+321,909,je ne l'ai pas aimé,accepteé,2020-12-07
+322,985,produit defectueux,accepteé,2020-10-20
+323,252,je ne l'ai pas aimé,accepteé,2021-01-04
+324,482,je ne l'ai pas aimé,accepteé,2020-10-04
+325,202,le prix ne correspond pas à la qualité,accepteé,2020-11-15
+326,427,le prix ne correspond pas à la qualité,accepteé,2020-10-13
+327,798,produit defectueux,remboursé,2020-12-15
+328,534,le prix ne correspond pas à la qualité,remboursé,2020-10-29
+329,227,produit defectueux,remboursé,2020-11-09
+330,400,le prix ne correspond pas à la qualité,accepteé,2020-10-21
+331,251,produit defectueux,accepteé,2020-11-12
+332,120,produit defectueux,remboursé,2020-11-15
+333,566,le prix ne correspond pas à la qualité,accepteé,2020-12-17
+334,414,je ne l'ai pas aimé,remboursé,2020-11-15
+335,552,produit defectueux,accepteé,2020-12-03
+336,668,produit defectueux,accepteé,2020-10-09
+337,136,le prix ne correspond pas à la qualité,accepteé,2020-10-24
+338,266,le prix ne correspond pas à la qualité,accepteé,2020-10-28
+339,696,je ne l'ai pas aimé,accepteé,2020-12-26
+340,684,je ne l'ai pas aimé,remboursé,2020-11-21
+341,793,je ne l'ai pas aimé,accepteé,2020-10-14
+342,551,je ne l'ai pas aimé,accepteé,2020-12-12
+343,652,produit defectueux,accepteé,2020-11-13
+344,464,produit defectueux,accepteé,2020-10-17
+345,10,produit defectueux,accepteé,2020-10-17
+346,995,le prix ne correspond pas à la qualité,accepteé,2020-11-16
+347,190,le prix ne correspond pas à la qualité,remboursé,2020-12-09
+348,329,produit defectueux,remboursé,2020-11-22
+349,851,je ne l'ai pas aimé,remboursé,2020-10-26
+350,20,produit defectueux,remboursé,2020-10-15
+351,360,le prix ne correspond pas à la qualité,remboursé,2020-11-13
+352,258,le prix ne correspond pas à la qualité,accepteé,2020-12-22
+353,761,je ne l'ai pas aimé,accepteé,2020-11-25
+354,407,le prix ne correspond pas à la qualité,accepteé,2020-10-29
+355,346,le prix ne correspond pas à la qualité,accepteé,2020-11-09
+356,422,je ne l'ai pas aimé,accepteé,2020-11-08
+357,925,produit defectueux,accepteé,2020-12-23
+358,993,produit defectueux,remboursé,2020-10-31
+359,276,produit defectueux,accepteé,2021-01-05
+360,978,le prix ne correspond pas à la qualité,accepteé,2020-11-15
+361,726,le prix ne correspond pas à la qualité,accepteé,2020-11-05
+362,688,produit defectueux,remboursé,2020-10-25
+363,145,produit defectueux,accepteé,2020-10-13
+364,780,produit defectueux,accepteé,2020-10-05
+365,80,produit defectueux,accepteé,2020-12-30
+366,116,produit defectueux,accepteé,2020-10-03
+367,203,produit defectueux,remboursé,2021-01-08
+368,266,produit defectueux,remboursé,2020-12-03
+369,138,produit defectueux,accepteé,2020-12-19
+370,284,le prix ne correspond pas à la qualité,remboursé,2020-11-07
+371,124,le prix ne correspond pas à la qualité,accepteé,2021-01-06
+372,790,je ne l'ai pas aimé,accepteé,2020-12-03
+373,200,je ne l'ai pas aimé,remboursé,2020-12-08
+374,176,produit defectueux,remboursé,2020-11-22
+375,681,produit defectueux,accepteé,2020-11-25
+376,88,le prix ne correspond pas à la qualité,remboursé,2020-12-02
+377,572,je ne l'ai pas aimé,accepteé,2020-12-22
+378,219,le prix ne correspond pas à la qualité,remboursé,2020-11-07
+379,359,le prix ne correspond pas à la qualité,accepteé,2020-11-21
+380,545,produit defectueux,accepteé,2020-11-18
+381,455,produit defectueux,accepteé,2020-10-12
+382,637,produit defectueux,remboursé,2020-12-09
+383,678,je ne l'ai pas aimé,accepteé,2020-11-29
+384,379,je ne l'ai pas aimé,accepteé,2020-12-25
+385,738,je ne l'ai pas aimé,remboursé,2020-11-26
+386,472,je ne l'ai pas aimé,remboursé,2020-12-15
+387,472,produit defectueux,remboursé,2020-11-14
+388,154,je ne l'ai pas aimé,remboursé,2020-11-23
+389,202,je ne l'ai pas aimé,remboursé,2020-11-11
+390,575,le prix ne correspond pas à la qualité,accepteé,2020-11-23
+391,39,le prix ne correspond pas à la qualité,accepteé,2020-10-13
+392,147,le prix ne correspond pas à la qualité,remboursé,2020-12-23
+393,557,le prix ne correspond pas à la qualité,remboursé,2020-10-30
+394,316,je ne l'ai pas aimé,accepteé,2020-11-27
+395,167,je ne l'ai pas aimé,accepteé,2020-11-03
+396,194,je ne l'ai pas aimé,accepteé,2020-11-23
+397,237,produit defectueux,remboursé,2021-01-03
+398,281,produit defectueux,remboursé,2020-12-15
+399,782,je ne l'ai pas aimé,remboursé,2020-12-30
+400,615,produit defectueux,accepteé,2020-10-26
+401,226,je ne l'ai pas aimé,remboursé,2021-01-04
+402,651,le prix ne correspond pas à la qualité,remboursé,2020-12-11
+403,684,produit defectueux,remboursé,2020-10-20
+404,148,je ne l'ai pas aimé,remboursé,2020-10-04
+405,640,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+406,572,le prix ne correspond pas à la qualité,remboursé,2020-11-06
+407,112,le prix ne correspond pas à la qualité,accepteé,2020-11-29
+408,338,le prix ne correspond pas à la qualité,remboursé,2020-10-17
+409,77,je ne l'ai pas aimé,remboursé,2021-01-02
+410,114,produit defectueux,accepteé,2020-12-10
+411,493,le prix ne correspond pas à la qualité,accepteé,2020-11-14
+412,256,je ne l'ai pas aimé,remboursé,2020-11-23
+413,887,je ne l'ai pas aimé,remboursé,2020-11-22
+414,50,produit defectueux,accepteé,2020-12-06
+415,655,le prix ne correspond pas à la qualité,remboursé,2020-12-26
+416,793,le prix ne correspond pas à la qualité,accepteé,2020-10-12
+417,83,je ne l'ai pas aimé,accepteé,2020-11-30
+418,243,je ne l'ai pas aimé,remboursé,2021-01-09
+419,337,je ne l'ai pas aimé,remboursé,2020-10-19
+420,568,le prix ne correspond pas à la qualité,accepteé,2020-10-21
+421,321,le prix ne correspond pas à la qualité,accepteé,2020-11-04
+422,626,je ne l'ai pas aimé,accepteé,2020-11-02
+423,6,le prix ne correspond pas à la qualité,accepteé,2020-12-13
+424,861,le prix ne correspond pas à la qualité,remboursé,2020-11-29
+425,140,produit defectueux,accepteé,2021-01-08
+426,997,produit defectueux,accepteé,2020-11-29
+427,777,je ne l'ai pas aimé,remboursé,2020-12-05
+428,122,le prix ne correspond pas à la qualité,accepteé,2020-11-09
+429,64,je ne l'ai pas aimé,accepteé,2020-12-07
+430,171,je ne l'ai pas aimé,remboursé,2021-01-05
+431,420,produit defectueux,accepteé,2020-11-17
+432,789,je ne l'ai pas aimé,accepteé,2020-12-26
+433,680,produit defectueux,accepteé,2020-11-21
+434,490,produit defectueux,accepteé,2020-10-30
+435,486,produit defectueux,accepteé,2020-12-16
+436,414,je ne l'ai pas aimé,remboursé,2020-10-13
+437,331,je ne l'ai pas aimé,remboursé,2020-11-03
+438,257,je ne l'ai pas aimé,remboursé,2020-12-03
+439,872,le prix ne correspond pas à la qualité,accepteé,2020-10-21
+440,736,le prix ne correspond pas à la qualité,accepteé,2020-12-19
+441,84,le prix ne correspond pas à la qualité,accepteé,2021-01-03
+442,99,le prix ne correspond pas à la qualité,accepteé,2020-10-03
+443,276,le prix ne correspond pas à la qualité,remboursé,2020-12-16
+444,294,je ne l'ai pas aimé,remboursé,2020-11-10
+445,943,le prix ne correspond pas à la qualité,remboursé,2020-12-10
+446,713,je ne l'ai pas aimé,remboursé,2020-10-23
+447,581,produit defectueux,accepteé,2020-11-21
+448,211,le prix ne correspond pas à la qualité,accepteé,2020-12-20
+449,548,je ne l'ai pas aimé,accepteé,2020-11-24
+450,713,le prix ne correspond pas à la qualité,accepteé,2020-12-21
+451,744,produit defectueux,accepteé,2020-11-11
+452,490,je ne l'ai pas aimé,accepteé,2020-12-21
+453,701,je ne l'ai pas aimé,accepteé,2020-10-20
+454,551,produit defectueux,accepteé,2020-10-06
+455,701,je ne l'ai pas aimé,remboursé,2020-12-17
+456,602,le prix ne correspond pas à la qualité,accepteé,2020-12-31
+457,818,produit defectueux,remboursé,2021-01-09
+458,161,je ne l'ai pas aimé,remboursé,2020-10-18
+459,793,produit defectueux,remboursé,2020-11-10
+460,29,le prix ne correspond pas à la qualité,remboursé,2021-01-01
+461,348,produit defectueux,accepteé,2021-01-07
+462,875,le prix ne correspond pas à la qualité,remboursé,2020-10-27
+463,588,je ne l'ai pas aimé,accepteé,2020-12-19
+464,529,produit defectueux,remboursé,2020-11-15
+465,789,le prix ne correspond pas à la qualité,remboursé,2020-12-05
+466,445,produit defectueux,accepteé,2020-10-25
+467,494,le prix ne correspond pas à la qualité,accepteé,2020-12-19
+468,675,produit defectueux,remboursé,2020-12-23
+469,557,je ne l'ai pas aimé,accepteé,2020-11-21
+470,752,le prix ne correspond pas à la qualité,remboursé,2020-11-21
+471,898,le prix ne correspond pas à la qualité,remboursé,2020-10-30
+472,350,produit defectueux,accepteé,2020-12-30
+473,612,je ne l'ai pas aimé,remboursé,2020-12-02
+474,470,je ne l'ai pas aimé,accepteé,2020-10-16
+475,904,le prix ne correspond pas à la qualité,accepteé,2020-10-24
+476,965,produit defectueux,remboursé,2020-10-03
+477,183,produit defectueux,remboursé,2020-12-25
+478,898,le prix ne correspond pas à la qualité,accepteé,2020-10-09
+479,738,produit defectueux,accepteé,2020-12-11
+480,876,le prix ne correspond pas à la qualité,accepteé,2020-11-05
+481,57,le prix ne correspond pas à la qualité,accepteé,2020-10-06
+482,728,je ne l'ai pas aimé,accepteé,2020-12-26
+483,756,le prix ne correspond pas à la qualité,accepteé,2020-11-06
+484,646,le prix ne correspond pas à la qualité,accepteé,2020-10-02
+485,769,le prix ne correspond pas à la qualité,remboursé,2020-10-03
+486,901,le prix ne correspond pas à la qualité,accepteé,2020-11-20
+487,800,je ne l'ai pas aimé,accepteé,2021-01-06
+488,85,je ne l'ai pas aimé,remboursé,2020-12-27
+489,352,le prix ne correspond pas à la qualité,remboursé,2020-12-03
+490,602,je ne l'ai pas aimé,remboursé,2020-12-25
+491,258,produit defectueux,remboursé,2020-12-05
+492,939,le prix ne correspond pas à la qualité,accepteé,2020-10-06
+493,281,je ne l'ai pas aimé,remboursé,2020-12-02
+494,321,produit defectueux,accepteé,2020-12-14
+495,487,produit defectueux,remboursé,2020-11-07
+496,346,je ne l'ai pas aimé,remboursé,2020-10-11
+497,893,produit defectueux,accepteé,2020-11-25
+498,137,produit defectueux,remboursé,2020-11-06
+499,209,produit defectueux,accepteé,2020-12-30
+500,935,je ne l'ai pas aimé,accepteé,2020-12-04
+501,293,je ne l'ai pas aimé,remboursé,2020-11-23
+502,608,le prix ne correspond pas à la qualité,remboursé,2020-12-04
+503,142,produit defectueux,remboursé,2020-12-22
+504,688,je ne l'ai pas aimé,accepteé,2020-12-27
+505,208,je ne l'ai pas aimé,accepteé,2020-11-16
+506,649,le prix ne correspond pas à la qualité,remboursé,2020-11-11
+507,314,le prix ne correspond pas à la qualité,remboursé,2020-11-09
+508,6,produit defectueux,accepteé,2020-12-15
+509,982,le prix ne correspond pas à la qualité,accepteé,2020-12-20
+510,317,le prix ne correspond pas à la qualité,accepteé,2020-12-03
+511,437,le prix ne correspond pas à la qualité,accepteé,2020-12-11
+512,20,je ne l'ai pas aimé,remboursé,2020-12-04
+513,313,je ne l'ai pas aimé,remboursé,2020-10-23
+514,435,produit defectueux,remboursé,2020-11-02
+515,755,je ne l'ai pas aimé,remboursé,2020-12-23
+516,110,le prix ne correspond pas à la qualité,accepteé,2020-12-06
+517,472,produit defectueux,accepteé,2020-11-05
+518,691,produit defectueux,accepteé,2020-10-31
+519,34,je ne l'ai pas aimé,remboursé,2020-12-09
+520,162,produit defectueux,accepteé,2020-11-12
+521,844,le prix ne correspond pas à la qualité,remboursé,2020-11-19
+522,576,je ne l'ai pas aimé,accepteé,2020-11-07
+523,357,je ne l'ai pas aimé,accepteé,2020-10-06
+524,973,produit defectueux,accepteé,2020-10-14
+525,516,je ne l'ai pas aimé,accepteé,2020-10-09
+526,711,je ne l'ai pas aimé,accepteé,2020-11-13
+527,909,le prix ne correspond pas à la qualité,accepteé,2020-10-06
+528,398,produit defectueux,remboursé,2020-12-17
+529,423,le prix ne correspond pas à la qualité,remboursé,2020-12-29
+530,475,je ne l'ai pas aimé,accepteé,2020-12-01
+531,342,produit defectueux,accepteé,2020-12-21
+532,463,je ne l'ai pas aimé,accepteé,2020-11-24
+533,907,produit defectueux,remboursé,2020-11-08
+534,123,je ne l'ai pas aimé,remboursé,2020-11-30
+535,502,je ne l'ai pas aimé,remboursé,2020-12-13
+536,390,produit defectueux,remboursé,2020-12-15
+537,905,produit defectueux,accepteé,2020-11-14
+538,528,produit defectueux,remboursé,2020-11-13
+539,356,produit defectueux,remboursé,2020-12-28
+540,152,je ne l'ai pas aimé,remboursé,2020-11-27
+541,478,je ne l'ai pas aimé,remboursé,2020-11-08
+542,710,je ne l'ai pas aimé,accepteé,2021-01-01
+543,135,je ne l'ai pas aimé,remboursé,2020-10-03
+544,762,produit defectueux,remboursé,2020-11-13
+545,190,je ne l'ai pas aimé,accepteé,2020-11-01
+546,638,je ne l'ai pas aimé,remboursé,2020-10-21
+547,492,je ne l'ai pas aimé,remboursé,2020-12-31
+548,237,le prix ne correspond pas à la qualité,remboursé,2020-11-25
+549,104,je ne l'ai pas aimé,accepteé,2020-11-13
+550,713,le prix ne correspond pas à la qualité,accepteé,2020-12-22
+551,853,je ne l'ai pas aimé,remboursé,2020-12-19
+552,487,le prix ne correspond pas à la qualité,accepteé,2021-01-05
+553,796,le prix ne correspond pas à la qualité,remboursé,2020-11-29
+554,777,je ne l'ai pas aimé,remboursé,2020-10-05
+555,976,produit defectueux,accepteé,2020-12-10
+556,754,le prix ne correspond pas à la qualité,remboursé,2020-12-09
+557,263,produit defectueux,accepteé,2020-11-18
+558,90,je ne l'ai pas aimé,remboursé,2020-10-14
+559,426,je ne l'ai pas aimé,accepteé,2020-10-16
+560,610,produit defectueux,accepteé,2020-11-14
+561,172,je ne l'ai pas aimé,accepteé,2020-12-03
+562,996,le prix ne correspond pas à la qualité,remboursé,2020-10-16
+563,619,le prix ne correspond pas à la qualité,remboursé,2020-12-07
+564,722,produit defectueux,accepteé,2020-11-20
+565,347,le prix ne correspond pas à la qualité,accepteé,2020-10-10
+566,280,je ne l'ai pas aimé,remboursé,2020-11-10
+567,129,produit defectueux,accepteé,2020-12-04
+568,172,je ne l'ai pas aimé,accepteé,2020-10-13
+569,805,le prix ne correspond pas à la qualité,remboursé,2020-11-26
+570,550,produit defectueux,accepteé,2020-10-06
+571,740,le prix ne correspond pas à la qualité,accepteé,2020-11-07
+572,432,le prix ne correspond pas à la qualité,accepteé,2020-11-22
+573,155,le prix ne correspond pas à la qualité,accepteé,2020-12-30
+574,648,je ne l'ai pas aimé,accepteé,2020-12-16
+575,109,le prix ne correspond pas à la qualité,remboursé,2020-10-04
+576,934,je ne l'ai pas aimé,remboursé,2020-10-03
+577,182,je ne l'ai pas aimé,remboursé,2020-10-08
+578,218,le prix ne correspond pas à la qualité,accepteé,2020-11-02
+579,947,je ne l'ai pas aimé,remboursé,2021-01-04
+580,290,je ne l'ai pas aimé,accepteé,2020-10-21
+581,800,je ne l'ai pas aimé,remboursé,2020-10-19
+582,736,je ne l'ai pas aimé,remboursé,2020-11-06
+583,91,produit defectueux,remboursé,2020-11-25
+584,893,le prix ne correspond pas à la qualité,accepteé,2020-12-19
+585,734,le prix ne correspond pas à la qualité,remboursé,2021-01-08
+586,324,je ne l'ai pas aimé,remboursé,2020-10-22
+587,141,produit defectueux,remboursé,2020-11-02
+588,934,je ne l'ai pas aimé,remboursé,2020-11-05
+589,722,le prix ne correspond pas à la qualité,remboursé,2020-11-05
+590,1000,produit defectueux,accepteé,2020-11-19
+591,471,le prix ne correspond pas à la qualité,accepteé,2020-11-08
+592,395,je ne l'ai pas aimé,remboursé,2020-12-26
+593,38,produit defectueux,accepteé,2020-11-19
+594,797,le prix ne correspond pas à la qualité,accepteé,2020-12-05
+595,473,produit defectueux,accepteé,2020-12-13
+596,586,produit defectueux,accepteé,2020-10-28
+597,622,le prix ne correspond pas à la qualité,remboursé,2021-01-04
+598,766,produit defectueux,remboursé,2020-10-03
+599,969,produit defectueux,accepteé,2020-10-23
+600,886,produit defectueux,remboursé,2020-10-22
+601,259,je ne l'ai pas aimé,accepteé,2021-01-04
+602,68,le prix ne correspond pas à la qualité,accepteé,2020-11-01
+603,346,produit defectueux,accepteé,2020-11-01
+604,666,produit defectueux,accepteé,2020-11-24
+605,844,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+606,218,le prix ne correspond pas à la qualité,accepteé,2020-12-08
+607,679,le prix ne correspond pas à la qualité,remboursé,2020-10-10
+608,802,je ne l'ai pas aimé,remboursé,2020-10-11
+609,101,produit defectueux,accepteé,2020-11-06
+610,50,le prix ne correspond pas à la qualité,remboursé,2020-11-02
+611,700,produit defectueux,accepteé,2020-10-04
+612,663,le prix ne correspond pas à la qualité,accepteé,2020-11-14
+613,331,produit defectueux,accepteé,2021-01-07
+614,803,le prix ne correspond pas à la qualité,remboursé,2020-10-09
+615,410,produit defectueux,remboursé,2020-12-25
+616,111,produit defectueux,accepteé,2020-10-19
+617,866,produit defectueux,remboursé,2020-12-08
+618,549,je ne l'ai pas aimé,accepteé,2020-10-10
+619,28,je ne l'ai pas aimé,accepteé,2020-10-22
+620,807,le prix ne correspond pas à la qualité,accepteé,2020-10-10
+621,652,le prix ne correspond pas à la qualité,remboursé,2020-11-12
+622,517,le prix ne correspond pas à la qualité,remboursé,2020-12-23
+623,807,le prix ne correspond pas à la qualité,remboursé,2020-12-17
+624,805,le prix ne correspond pas à la qualité,remboursé,2020-11-25
+625,123,je ne l'ai pas aimé,remboursé,2020-11-28
+626,187,je ne l'ai pas aimé,remboursé,2020-11-27
+627,339,je ne l'ai pas aimé,accepteé,2020-10-30
+628,546,produit defectueux,remboursé,2020-12-26
+629,291,le prix ne correspond pas à la qualité,accepteé,2020-11-20
+630,811,le prix ne correspond pas à la qualité,accepteé,2020-12-24
+631,118,je ne l'ai pas aimé,accepteé,2020-10-27
+632,115,le prix ne correspond pas à la qualité,remboursé,2020-12-28
+633,284,produit defectueux,accepteé,2020-10-04
+634,598,produit defectueux,remboursé,2021-01-05
+635,679,produit defectueux,remboursé,2020-12-14
+636,964,je ne l'ai pas aimé,accepteé,2020-10-23
+637,293,je ne l'ai pas aimé,accepteé,2020-11-25
+638,33,produit defectueux,accepteé,2020-12-19
+639,587,produit defectueux,accepteé,2020-10-16
+640,262,le prix ne correspond pas à la qualité,accepteé,2020-12-11
+641,555,le prix ne correspond pas à la qualité,accepteé,2020-12-18
+642,415,le prix ne correspond pas à la qualité,remboursé,2020-11-26
+643,232,je ne l'ai pas aimé,remboursé,2020-10-15
+644,879,le prix ne correspond pas à la qualité,remboursé,2020-12-04
+645,334,je ne l'ai pas aimé,accepteé,2020-10-18
+646,890,produit defectueux,accepteé,2020-11-12
+647,589,le prix ne correspond pas à la qualité,remboursé,2020-11-14
+648,117,je ne l'ai pas aimé,remboursé,2020-12-07
+649,73,produit defectueux,remboursé,2020-11-22
+650,518,produit defectueux,accepteé,2020-11-09
+651,815,le prix ne correspond pas à la qualité,accepteé,2021-01-07
+652,785,je ne l'ai pas aimé,remboursé,2020-11-30
+653,653,le prix ne correspond pas à la qualité,remboursé,2021-01-08
+654,935,le prix ne correspond pas à la qualité,remboursé,2020-10-09
+655,436,le prix ne correspond pas à la qualité,accepteé,2020-11-09
+656,59,je ne l'ai pas aimé,remboursé,2020-12-02
+657,28,je ne l'ai pas aimé,accepteé,2020-10-09
+658,259,le prix ne correspond pas à la qualité,accepteé,2020-10-16
+659,714,je ne l'ai pas aimé,remboursé,2020-11-10
+660,71,produit defectueux,accepteé,2020-11-26
+661,353,le prix ne correspond pas à la qualité,remboursé,2020-10-10
+662,411,le prix ne correspond pas à la qualité,remboursé,2020-10-29
+663,366,produit defectueux,accepteé,2020-11-16
+664,826,produit defectueux,accepteé,2020-11-11
+665,568,produit defectueux,remboursé,2021-01-02
+666,228,produit defectueux,remboursé,2020-10-11
+667,762,je ne l'ai pas aimé,remboursé,2020-10-11
+668,620,le prix ne correspond pas à la qualité,accepteé,2020-11-04
+669,960,je ne l'ai pas aimé,remboursé,2020-12-06
+670,422,je ne l'ai pas aimé,remboursé,2021-01-03
+671,301,produit defectueux,accepteé,2020-10-04
+672,807,le prix ne correspond pas à la qualité,accepteé,2020-10-07
+673,632,produit defectueux,remboursé,2020-10-28
+674,461,je ne l'ai pas aimé,accepteé,2020-10-31
+675,423,je ne l'ai pas aimé,accepteé,2020-11-05
+676,829,je ne l'ai pas aimé,accepteé,2020-10-26
+677,765,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+678,270,le prix ne correspond pas à la qualité,accepteé,2020-12-11
+679,460,produit defectueux,accepteé,2020-10-17
+680,794,je ne l'ai pas aimé,accepteé,2020-11-26
+681,891,le prix ne correspond pas à la qualité,remboursé,2020-10-19
+682,64,je ne l'ai pas aimé,accepteé,2020-12-31
+683,580,le prix ne correspond pas à la qualité,remboursé,2020-11-27
+684,436,le prix ne correspond pas à la qualité,remboursé,2020-11-13
+685,457,je ne l'ai pas aimé,remboursé,2020-10-11
+686,358,je ne l'ai pas aimé,remboursé,2020-12-10
+687,565,je ne l'ai pas aimé,accepteé,2021-01-04
+688,553,je ne l'ai pas aimé,remboursé,2021-01-03
+689,899,le prix ne correspond pas à la qualité,remboursé,2020-10-17
+690,72,produit defectueux,accepteé,2020-10-14
+691,465,produit defectueux,accepteé,2020-10-24
+692,447,je ne l'ai pas aimé,accepteé,2020-12-14
+693,662,produit defectueux,remboursé,2020-12-06
+694,626,je ne l'ai pas aimé,accepteé,2020-12-19
+695,542,le prix ne correspond pas à la qualité,remboursé,2020-12-30
+696,283,le prix ne correspond pas à la qualité,remboursé,2020-11-11
+697,157,produit defectueux,accepteé,2020-11-13
+698,882,produit defectueux,remboursé,2020-12-31
+699,117,le prix ne correspond pas à la qualité,accepteé,2020-10-08
+700,674,je ne l'ai pas aimé,accepteé,2020-11-21
+701,176,le prix ne correspond pas à la qualité,remboursé,2021-01-02
+702,619,produit defectueux,accepteé,2020-11-25
+703,689,produit defectueux,remboursé,2020-11-17
+704,401,je ne l'ai pas aimé,accepteé,2020-11-16
+705,804,je ne l'ai pas aimé,remboursé,2020-11-25
+706,59,produit defectueux,remboursé,2020-10-28
+707,371,je ne l'ai pas aimé,remboursé,2020-12-21
+708,721,produit defectueux,remboursé,2020-11-03
+709,321,produit defectueux,accepteé,2020-11-30
+710,329,je ne l'ai pas aimé,remboursé,2020-12-14
+711,320,le prix ne correspond pas à la qualité,remboursé,2020-11-30
+712,475,le prix ne correspond pas à la qualité,accepteé,2020-10-07
+713,588,je ne l'ai pas aimé,remboursé,2020-12-11
+714,162,produit defectueux,accepteé,2020-11-19
+715,789,le prix ne correspond pas à la qualité,accepteé,2020-12-28
+716,197,produit defectueux,remboursé,2020-12-04
+717,74,produit defectueux,remboursé,2020-12-31
+718,74,le prix ne correspond pas à la qualité,remboursé,2020-10-15
+719,941,produit defectueux,remboursé,2021-01-07
+720,270,le prix ne correspond pas à la qualité,accepteé,2021-01-01
+721,763,je ne l'ai pas aimé,remboursé,2021-01-03
+722,122,le prix ne correspond pas à la qualité,accepteé,2020-12-27
+723,805,produit defectueux,remboursé,2020-12-14
+724,926,le prix ne correspond pas à la qualité,remboursé,2020-11-04
+725,732,le prix ne correspond pas à la qualité,accepteé,2020-10-14
+726,952,je ne l'ai pas aimé,remboursé,2020-10-24
+727,818,produit defectueux,remboursé,2020-10-11
+728,627,le prix ne correspond pas à la qualité,remboursé,2020-10-20
+729,484,produit defectueux,accepteé,2020-10-22
+730,463,le prix ne correspond pas à la qualité,accepteé,2020-10-31
+731,597,je ne l'ai pas aimé,remboursé,2020-10-22
+732,396,produit defectueux,remboursé,2020-10-22
+733,416,je ne l'ai pas aimé,remboursé,2020-12-20
+734,662,le prix ne correspond pas à la qualité,accepteé,2020-11-30
+735,168,je ne l'ai pas aimé,remboursé,2020-12-26
+736,755,je ne l'ai pas aimé,accepteé,2020-11-20
+737,565,produit defectueux,remboursé,2020-12-25
+738,367,produit defectueux,remboursé,2020-10-22
+739,713,je ne l'ai pas aimé,accepteé,2020-11-23
+740,966,le prix ne correspond pas à la qualité,remboursé,2021-01-01
+741,86,le prix ne correspond pas à la qualité,accepteé,2020-10-09
+742,886,je ne l'ai pas aimé,accepteé,2020-11-04
+743,732,produit defectueux,accepteé,2020-12-26
+744,993,le prix ne correspond pas à la qualité,remboursé,2020-12-17
+745,935,je ne l'ai pas aimé,accepteé,2020-11-08
+746,511,produit defectueux,remboursé,2020-10-04
+747,764,produit defectueux,remboursé,2021-01-09
+748,645,le prix ne correspond pas à la qualité,remboursé,2020-12-14
+749,609,produit defectueux,remboursé,2020-11-10
+750,611,produit defectueux,remboursé,2020-12-05
+751,488,le prix ne correspond pas à la qualité,accepteé,2020-11-18
+752,176,je ne l'ai pas aimé,accepteé,2021-01-05
+753,816,produit defectueux,remboursé,2020-12-25
+754,578,produit defectueux,accepteé,2020-11-21
+755,698,je ne l'ai pas aimé,accepteé,2021-01-06
+756,589,produit defectueux,remboursé,2020-12-02
+757,664,le prix ne correspond pas à la qualité,remboursé,2020-12-16
+758,14,produit defectueux,remboursé,2020-11-15
+759,547,le prix ne correspond pas à la qualité,accepteé,2020-11-27
+760,923,produit defectueux,remboursé,2021-01-05
+761,84,produit defectueux,accepteé,2020-10-26
+762,578,je ne l'ai pas aimé,remboursé,2020-12-20
+763,810,le prix ne correspond pas à la qualité,accepteé,2020-12-25
+764,729,le prix ne correspond pas à la qualité,accepteé,2020-11-10
+765,616,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+766,562,produit defectueux,remboursé,2020-10-08
+767,848,le prix ne correspond pas à la qualité,accepteé,2020-12-04
+768,640,je ne l'ai pas aimé,accepteé,2020-11-14
+769,983,je ne l'ai pas aimé,remboursé,2020-12-18
+770,672,je ne l'ai pas aimé,accepteé,2020-11-27
+771,912,produit defectueux,accepteé,2020-10-09
+772,648,le prix ne correspond pas à la qualité,remboursé,2020-10-25
+773,251,produit defectueux,remboursé,2020-12-27
+774,130,le prix ne correspond pas à la qualité,accepteé,2020-12-01
+775,328,je ne l'ai pas aimé,accepteé,2020-12-30
+776,513,produit defectueux,accepteé,2020-12-31
+777,309,le prix ne correspond pas à la qualité,remboursé,2020-12-14
+778,531,produit defectueux,accepteé,2020-10-30
+779,505,le prix ne correspond pas à la qualité,remboursé,2020-11-28
+780,828,produit defectueux,remboursé,2020-12-06
+781,121,produit defectueux,remboursé,2020-10-23
+782,958,produit defectueux,remboursé,2020-10-15
+783,833,produit defectueux,remboursé,2020-12-10
+784,971,produit defectueux,accepteé,2020-10-18
+785,282,le prix ne correspond pas à la qualité,remboursé,2020-11-13
+786,603,je ne l'ai pas aimé,accepteé,2020-10-16
+787,29,le prix ne correspond pas à la qualité,accepteé,2020-11-03
+788,227,le prix ne correspond pas à la qualité,accepteé,2020-11-16
+789,283,produit defectueux,remboursé,2020-12-17
+790,203,le prix ne correspond pas à la qualité,accepteé,2020-11-27
+791,900,je ne l'ai pas aimé,accepteé,2020-12-17
+792,601,je ne l'ai pas aimé,remboursé,2020-11-10
+793,180,produit defectueux,accepteé,2020-11-05
+794,157,le prix ne correspond pas à la qualité,accepteé,2020-11-04
+795,985,le prix ne correspond pas à la qualité,remboursé,2020-11-15
+796,106,le prix ne correspond pas à la qualité,accepteé,2020-10-15
+797,238,je ne l'ai pas aimé,remboursé,2020-12-21
+798,367,le prix ne correspond pas à la qualité,accepteé,2020-10-22
+799,222,je ne l'ai pas aimé,accepteé,2020-10-10
+800,96,produit defectueux,accepteé,2020-11-05
+801,358,le prix ne correspond pas à la qualité,accepteé,2020-12-15
+802,737,produit defectueux,accepteé,2021-01-01
+803,220,produit defectueux,accepteé,2020-11-09
+804,11,le prix ne correspond pas à la qualité,accepteé,2020-11-23
+805,58,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+806,232,produit defectueux,accepteé,2020-10-13
+807,785,je ne l'ai pas aimé,accepteé,2020-10-22
+808,118,je ne l'ai pas aimé,remboursé,2020-11-14
+809,186,le prix ne correspond pas à la qualité,accepteé,2020-10-04
+810,265,je ne l'ai pas aimé,remboursé,2020-12-17
+811,485,produit defectueux,remboursé,2020-12-26
+812,40,produit defectueux,remboursé,2020-12-26
+813,585,le prix ne correspond pas à la qualité,accepteé,2020-11-14
+814,799,produit defectueux,remboursé,2020-12-21
+815,274,je ne l'ai pas aimé,accepteé,2020-10-14
+816,321,je ne l'ai pas aimé,remboursé,2020-11-20
+817,822,le prix ne correspond pas à la qualité,remboursé,2020-12-04
+818,941,je ne l'ai pas aimé,remboursé,2020-12-01
+819,425,je ne l'ai pas aimé,remboursé,2020-12-25
+820,72,le prix ne correspond pas à la qualité,accepteé,2020-10-02
+821,450,le prix ne correspond pas à la qualité,accepteé,2020-11-02
+822,375,produit defectueux,accepteé,2020-11-28
+823,486,je ne l'ai pas aimé,remboursé,2021-01-08
+824,663,je ne l'ai pas aimé,accepteé,2021-01-08
+825,740,le prix ne correspond pas à la qualité,remboursé,2021-01-06
+826,704,produit defectueux,remboursé,2020-10-28
+827,51,je ne l'ai pas aimé,accepteé,2020-11-06
+828,364,produit defectueux,accepteé,2020-10-26
+829,367,produit defectueux,accepteé,2020-12-11
+830,780,je ne l'ai pas aimé,remboursé,2020-10-09
+831,847,je ne l'ai pas aimé,remboursé,2020-11-02
+832,364,le prix ne correspond pas à la qualité,remboursé,2020-10-31
+833,74,produit defectueux,remboursé,2020-11-08
+834,92,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+835,328,produit defectueux,remboursé,2020-10-14
+836,426,le prix ne correspond pas à la qualité,remboursé,2020-12-15
+837,149,je ne l'ai pas aimé,remboursé,2020-11-02
+838,865,produit defectueux,accepteé,2020-12-17
+839,321,produit defectueux,accepteé,2020-12-29
+840,811,je ne l'ai pas aimé,remboursé,2020-11-12
+841,718,je ne l'ai pas aimé,accepteé,2020-12-19
+842,58,produit defectueux,remboursé,2020-11-18
+843,643,produit defectueux,accepteé,2020-12-04
+844,883,produit defectueux,accepteé,2020-12-13
+845,779,produit defectueux,accepteé,2020-12-22
+846,932,produit defectueux,accepteé,2020-11-28
+847,847,le prix ne correspond pas à la qualité,accepteé,2020-11-01
+848,433,le prix ne correspond pas à la qualité,accepteé,2020-10-16
+849,232,le prix ne correspond pas à la qualité,accepteé,2020-11-30
+850,782,le prix ne correspond pas à la qualité,accepteé,2020-12-13
+851,743,je ne l'ai pas aimé,remboursé,2020-10-22
+852,69,je ne l'ai pas aimé,accepteé,2020-11-06
+853,559,le prix ne correspond pas à la qualité,accepteé,2020-10-16
+854,359,je ne l'ai pas aimé,accepteé,2020-12-06
+855,839,le prix ne correspond pas à la qualité,accepteé,2020-10-27
+856,737,le prix ne correspond pas à la qualité,accepteé,2020-12-29
+857,625,produit defectueux,accepteé,2020-11-16
+858,815,le prix ne correspond pas à la qualité,accepteé,2020-12-19
+859,290,le prix ne correspond pas à la qualité,accepteé,2020-10-31
+860,108,je ne l'ai pas aimé,accepteé,2020-12-04
+861,327,je ne l'ai pas aimé,remboursé,2021-01-07
+862,313,le prix ne correspond pas à la qualité,remboursé,2020-12-04
+863,785,produit defectueux,accepteé,2020-11-17
+864,419,je ne l'ai pas aimé,accepteé,2020-12-14
+865,967,produit defectueux,accepteé,2020-11-30
+866,902,produit defectueux,remboursé,2020-11-07
+867,819,le prix ne correspond pas à la qualité,accepteé,2020-10-16
+868,860,produit defectueux,accepteé,2020-11-05
+869,656,le prix ne correspond pas à la qualité,accepteé,2020-12-27
+870,357,je ne l'ai pas aimé,accepteé,2021-01-09
+871,324,je ne l'ai pas aimé,accepteé,2020-11-20
+872,701,le prix ne correspond pas à la qualité,accepteé,2020-10-29
+873,345,le prix ne correspond pas à la qualité,accepteé,2021-01-08
+874,404,produit defectueux,accepteé,2020-11-13
+875,969,le prix ne correspond pas à la qualité,remboursé,2020-11-05
+876,146,produit defectueux,remboursé,2020-10-16
+877,667,le prix ne correspond pas à la qualité,remboursé,2020-12-17
+878,974,je ne l'ai pas aimé,accepteé,2020-11-16
+879,240,je ne l'ai pas aimé,remboursé,2021-01-07
+880,118,le prix ne correspond pas à la qualité,remboursé,2020-10-17
+881,738,produit defectueux,accepteé,2020-12-09
+882,4,produit defectueux,accepteé,2020-10-07
+883,461,le prix ne correspond pas à la qualité,remboursé,2020-11-02
+884,138,produit defectueux,accepteé,2020-11-07
+885,811,produit defectueux,remboursé,2020-11-23
+886,527,je ne l'ai pas aimé,accepteé,2021-01-01
+887,691,produit defectueux,accepteé,2020-10-13
+888,177,le prix ne correspond pas à la qualité,accepteé,2020-12-13
+889,503,je ne l'ai pas aimé,remboursé,2020-12-20
+890,118,le prix ne correspond pas à la qualité,remboursé,2020-11-10
+891,391,produit defectueux,remboursé,2020-11-01
+892,180,je ne l'ai pas aimé,remboursé,2020-11-12
+893,679,je ne l'ai pas aimé,remboursé,2020-10-12
+894,714,produit defectueux,remboursé,2021-01-04
+895,773,le prix ne correspond pas à la qualité,remboursé,2020-12-11
+896,998,le prix ne correspond pas à la qualité,remboursé,2020-12-13
+897,14,produit defectueux,remboursé,2020-11-24
+898,340,le prix ne correspond pas à la qualité,accepteé,2021-01-01
+899,74,je ne l'ai pas aimé,accepteé,2020-10-24
+900,236,produit defectueux,remboursé,2020-10-12
+901,865,le prix ne correspond pas à la qualité,accepteé,2020-12-24
+902,677,produit defectueux,remboursé,2020-11-04
+903,369,je ne l'ai pas aimé,remboursé,2020-12-29
+904,136,je ne l'ai pas aimé,remboursé,2020-11-05
+905,835,produit defectueux,remboursé,2020-12-26
+906,785,le prix ne correspond pas à la qualité,remboursé,2020-12-30
+907,740,le prix ne correspond pas à la qualité,accepteé,2020-10-30
+908,204,le prix ne correspond pas à la qualité,remboursé,2020-11-15
+909,874,le prix ne correspond pas à la qualité,remboursé,2020-11-16
+910,455,le prix ne correspond pas à la qualité,accepteé,2021-01-05
+911,347,le prix ne correspond pas à la qualité,accepteé,2021-01-06
+912,162,le prix ne correspond pas à la qualité,remboursé,2020-10-05
+913,593,le prix ne correspond pas à la qualité,remboursé,2020-11-15
+914,511,le prix ne correspond pas à la qualité,remboursé,2020-10-26
+915,516,produit defectueux,remboursé,2020-11-22
+916,584,produit defectueux,remboursé,2020-12-05
+917,208,je ne l'ai pas aimé,remboursé,2020-10-23
+918,763,je ne l'ai pas aimé,remboursé,2020-12-10
+919,633,produit defectueux,remboursé,2020-12-15
+920,299,je ne l'ai pas aimé,remboursé,2020-12-30
+921,221,produit defectueux,remboursé,2020-11-23
+922,719,produit defectueux,remboursé,2020-11-05
+923,236,je ne l'ai pas aimé,accepteé,2020-10-12
+924,899,produit defectueux,accepteé,2020-10-11
+925,891,le prix ne correspond pas à la qualité,accepteé,2020-10-15
+926,489,le prix ne correspond pas à la qualité,accepteé,2020-11-19
+927,866,je ne l'ai pas aimé,remboursé,2020-11-15
+928,285,produit defectueux,remboursé,2020-11-16
+929,299,je ne l'ai pas aimé,accepteé,2020-10-22
+930,990,je ne l'ai pas aimé,accepteé,2020-12-29
+931,201,le prix ne correspond pas à la qualité,accepteé,2020-10-05
+932,620,produit defectueux,remboursé,2020-11-06
+933,131,le prix ne correspond pas à la qualité,remboursé,2020-11-29
+934,117,le prix ne correspond pas à la qualité,remboursé,2020-12-05
+935,646,le prix ne correspond pas à la qualité,accepteé,2020-11-18
+936,442,je ne l'ai pas aimé,accepteé,2020-10-20
+937,369,produit defectueux,accepteé,2020-10-08
+938,698,je ne l'ai pas aimé,remboursé,2020-11-28
+939,566,le prix ne correspond pas à la qualité,remboursé,2020-11-24
+940,175,produit defectueux,remboursé,2020-11-22
+941,157,je ne l'ai pas aimé,accepteé,2020-12-19
+942,106,le prix ne correspond pas à la qualité,remboursé,2020-11-12
+943,97,le prix ne correspond pas à la qualité,accepteé,2020-10-22
+944,769,je ne l'ai pas aimé,accepteé,2020-10-19
+945,451,produit defectueux,remboursé,2020-11-21
+946,858,produit defectueux,accepteé,2020-12-18
+947,479,produit defectueux,accepteé,2020-12-14
+948,325,le prix ne correspond pas à la qualité,remboursé,2020-10-04
+949,884,je ne l'ai pas aimé,accepteé,2021-01-05
+950,312,je ne l'ai pas aimé,remboursé,2020-12-04
+951,93,produit defectueux,accepteé,2020-10-21
+952,517,produit defectueux,accepteé,2020-11-18
+953,761,je ne l'ai pas aimé,accepteé,2020-10-29
+954,56,le prix ne correspond pas à la qualité,remboursé,2020-12-23
+955,544,je ne l'ai pas aimé,remboursé,2020-12-03
+956,843,le prix ne correspond pas à la qualité,accepteé,2020-12-09
+957,726,produit defectueux,accepteé,2020-10-04
+958,518,je ne l'ai pas aimé,remboursé,2020-11-11
+959,806,produit defectueux,remboursé,2020-11-05
+960,604,le prix ne correspond pas à la qualité,accepteé,2020-11-09
+961,708,produit defectueux,accepteé,2020-10-17
+962,8,produit defectueux,remboursé,2020-11-21
+963,717,produit defectueux,remboursé,2020-10-17
+964,319,le prix ne correspond pas à la qualité,accepteé,2020-10-27
+965,253,produit defectueux,accepteé,2020-10-04
+966,458,je ne l'ai pas aimé,accepteé,2020-12-18
+967,282,produit defectueux,accepteé,2020-12-22
+968,343,je ne l'ai pas aimé,accepteé,2020-10-17
+969,997,produit defectueux,remboursé,2020-10-24
+970,803,je ne l'ai pas aimé,accepteé,2020-10-03
+971,625,le prix ne correspond pas à la qualité,accepteé,2021-01-01
+972,891,le prix ne correspond pas à la qualité,accepteé,2020-10-13
+973,962,je ne l'ai pas aimé,remboursé,2020-11-23
+974,838,le prix ne correspond pas à la qualité,remboursé,2020-10-07
+975,589,je ne l'ai pas aimé,remboursé,2020-11-01
+976,293,je ne l'ai pas aimé,accepteé,2020-10-25
+977,549,produit defectueux,remboursé,2020-11-15
+978,813,le prix ne correspond pas à la qualité,remboursé,2020-10-10
+979,465,produit defectueux,remboursé,2020-11-09
+980,308,produit defectueux,accepteé,2020-11-21
+981,129,produit defectueux,remboursé,2020-11-30
+982,184,je ne l'ai pas aimé,accepteé,2020-12-04
+983,467,je ne l'ai pas aimé,accepteé,2020-11-16
+984,378,produit defectueux,accepteé,2020-11-30
+985,84,je ne l'ai pas aimé,remboursé,2020-11-12
+986,713,je ne l'ai pas aimé,remboursé,2020-11-26
+987,980,je ne l'ai pas aimé,remboursé,2020-10-14
+988,676,je ne l'ai pas aimé,accepteé,2021-01-09
+989,407,produit defectueux,accepteé,2020-10-26
+990,947,le prix ne correspond pas à la qualité,remboursé,2020-10-04
+991,209,je ne l'ai pas aimé,remboursé,2020-10-26
+992,636,le prix ne correspond pas à la qualité,accepteé,2021-01-06
+993,937,je ne l'ai pas aimé,remboursé,2020-12-31
+994,531,produit defectueux,accepteé,2020-12-06
+995,63,je ne l'ai pas aimé,accepteé,2020-11-12
+996,295,le prix ne correspond pas à la qualité,remboursé,2020-11-19
+997,313,le prix ne correspond pas à la qualité,accepteé,2021-01-01
+998,788,produit defectueux,remboursé,2021-01-02
+999,848,le prix ne correspond pas à la qualité,accepteé,2021-01-09
+1000,153,je ne l'ai pas aimé,accepteé,2020-11-23

@@ -1,0 +1,1001 @@
+product_id,name,price,category,availability_status,quantity_in_stock,delievery_time
+1,Wine - Cousino Macul Antiguas,11,fruits,disponible sur commande,0,4
+2,Syrup - Monin - Blue Curacao,20,boissons,temporairement indisponible,0,0
+3,Steam Pan Full Lid,29,poisson,en stock,9,0
+4,Coconut Milk - Unsweetened,96,boissons,temporairement indisponible,0,0
+5,Seabream Whole Farmed,46,poisson,temporairement indisponible,0,0
+6,Shrimp - Black Tiger 8 - 12,19,poisson,temporairement indisponible,0,0
+7,Grand Baguette,50,viande,temporairement indisponible,0,0
+8,Cookies Oatmeal Raisin,100,boissons,temporairement indisponible,0,0
+9,Oil - Hazelnut,100,légumes,en stock,1,0
+10,"Gin - Gilbeys London Dry",79,boissons,disponible sur commande,0,4
+11,Rice - Wild,13,légumes,disponible sur commande,0,10
+12,Cake - Box Window 10x10x2.5,64,boissons,disponible sur commande,0,7
+13,Truffle - Whole Black Peeled,36,légumes,en stock,5,0
+14,Cranberry Foccacia,29,viande,temporairement indisponible,0,0
+15,Muffin Mix - Chocolate Chip,75,fruits,temporairement indisponible,0,0
+16,Wine - Barbera Alba Doc 2001,67,poisson,en stock,10,0
+17,Paper Cocktail Umberlla 80 - 180,71,fruits,en stock,4,0
+18,Bagelers - Cinn / Brown,98,poisson,temporairement indisponible,0,0
+19,Table Cloth 81x81 White,6,fruits,disponible sur commande,0,10
+20,Muffin Mix - Blueberry,61,légumes,temporairement indisponible,0,0
+21,Plastic Arrow Stir Stick,83,fruits,disponible sur commande,0,3
+22,Lamb - Whole Head Off,68,poisson,en stock,8,0
+23,"Fish - Scallops Cold Smoked",31,viande,temporairement indisponible,0,0
+24,"Crab - Dungeness Whole live",30,viande,en stock,4,0
+25,Petit Baguette,38,viande,temporairement indisponible,0,0
+26,Bowl 12 Oz - Showcase 92012,51,fruits,temporairement indisponible,0,0
+27,Sherry - Dry,81,boissons,temporairement indisponible,0,0
+28,Food Colouring - Blue,50,légumes,en stock,6,0
+29,Chicken Thigh - Bone Out,41,fruits,disponible sur commande,0,7
+30,Cheese - Cottage Cheese,31,fruits,temporairement indisponible,0,0
+31,"Pasta - Rotini Dry",32,boissons,disponible sur commande,0,2
+32,"Fish - Artic Char Cold Smoked",24,légumes,temporairement indisponible,0,0
+33,Cheese - Shred Cheddar / Mozza,95,poisson,temporairement indisponible,0,0
+34,Cookie Chocolate Chip With,63,fruits,en stock,10,0
+35,Truffle - Whole Black Peeled,47,viande,disponible sur commande,0,8
+36,"Glass - Wine Plastic Clear 5 Oz",19,viande,en stock,7,0
+37,Cheese - La Sauvagine,85,fruits,en stock,2,0
+38,"Wine - White Lindemans Bin 95",21,boissons,en stock,6,0
+39,Honey - Comb,6,fruits,en stock,7,0
+40,Appetizer - Seafood Assortment,89,boissons,disponible sur commande,0,1
+41,Wine - Delicato Merlot,37,légumes,temporairement indisponible,0,0
+42,Ice Cream Bar - Rolo Cone,94,boissons,en stock,5,0
+43,Paper Cocktail Umberlla 80 - 180,31,légumes,disponible sur commande,0,8
+44,Carbonated Water - Blackcherry,8,boissons,en stock,5,0
+45,Pepper - Cayenne,18,fruits,temporairement indisponible,0,0
+46,Crab Brie In Phyllo,15,légumes,disponible sur commande,0,3
+47,"Chilli Paste Sambal Oelek",32,légumes,disponible sur commande,0,1
+48,Icecream - Dstk Cml And Fdg,98,viande,temporairement indisponible,0,0
+49,Bread - Raisin Walnut Oval,26,légumes,temporairement indisponible,0,0
+50,Soup - Campbells Chili Veg,4,poisson,en stock,3,0
+51,Oven Mitts 17 Inch,70,viande,disponible sur commande,0,2
+52,Basil - Thai,49,légumes,temporairement indisponible,0,0
+53,"Bread - Roll Italian",36,fruits,temporairement indisponible,0,0
+54,Sesame Seed Black,78,légumes,temporairement indisponible,0,0
+55,Beer - Paulaner Hefeweisse,21,fruits,en stock,8,0
+56,Kaffir Lime Leaves,92,viande,temporairement indisponible,0,0
+57,Wiberg Super Cure,53,poisson,disponible sur commande,0,3
+58,Longos - Grilled Chicken With,32,légumes,temporairement indisponible,0,0
+59,Potatoes - Mini White 3 Oz,21,fruits,en stock,8,0
+60,Beer - Sleemans Cream Ale,63,viande,temporairement indisponible,0,0
+61,Cheese - Cheddar With Claret,87,boissons,temporairement indisponible,0,0
+62,Latex Rubber Gloves Size 9,47,boissons,temporairement indisponible,0,0
+63,"Pepsi - Diet 355 Ml",51,viande,temporairement indisponible,0,0
+64,"Chicken - Breast 5 - 7 Oz",74,fruits,en stock,10,0
+65,Muffins - Assorted,10,boissons,disponible sur commande,0,7
+66,Onion Powder,12,viande,en stock,3,0
+67,Tea - Green,23,boissons,disponible sur commande,0,7
+68,Wine - Gewurztraminer Pierre,20,légumes,disponible sur commande,0,6
+69,"Coffee - Beans Whole",71,poisson,temporairement indisponible,0,0
+70,Uniform Linen Charge,40,poisson,disponible sur commande,0,7
+71,Celery,78,légumes,en stock,8,0
+72,"Cheese - Brie Triple Creme",75,fruits,temporairement indisponible,0,0
+73,Compound - Mocha,54,poisson,disponible sur commande,0,3
+74,Puree - Strawberry,77,légumes,en stock,10,0
+75,Sugar - Palm,79,poisson,en stock,3,0
+76,"Juice - V8 Tomato",50,poisson,disponible sur commande,0,8
+77,Chocolate Eclairs,66,fruits,temporairement indisponible,0,0
+78,Melon - Watermelon Yellow,78,légumes,temporairement indisponible,0,0
+79,Pepper - Chilli Seeds Mild,37,fruits,en stock,7,0
+80,Mustard - Pommery,24,poisson,temporairement indisponible,0,0
+81,Ice Cream Bar - Hagen Daz,41,poisson,en stock,3,0
+82,Lid Tray - 12in Dome,46,boissons,en stock,7,0
+83,Island Oasis - Pina Colada,5,boissons,en stock,1,0
+84,Bread Cranberry Foccacia,45,fruits,temporairement indisponible,0,0
+85,Miso Paste White,4,viande,temporairement indisponible,0,0
+86,Muffin Batt - Blueberry Passion,20,fruits,temporairement indisponible,0,0
+87,Wine - White Cab Sauv.on,98,poisson,temporairement indisponible,0,0
+88,Gherkin,45,boissons,disponible sur commande,0,3
+89,"Pasta - Orzo Dry",18,poisson,en stock,9,0
+90,Pork - Backs - Boneless,87,légumes,temporairement indisponible,0,0
+91,Coffee - Hazelnut Cream,57,boissons,en stock,3,0
+92,Wine - Placido Pinot Grigo,24,fruits,temporairement indisponible,0,0
+93,Pastry - Chocolate Chip Muffin,33,boissons,en stock,5,0
+94,Juice - Apple 284ml,19,légumes,en stock,7,0
+95,Cheese - Swiss Sliced,99,fruits,en stock,8,0
+96,"Pasta - Fettuccine Egg Fresh",30,légumes,temporairement indisponible,0,0
+97,"Beef - Outside Round",34,viande,disponible sur commande,0,9
+98,Coriander - Seed,86, légumes,disponible sur commande,0,6
+99,Figs,74,boissons,en stock,7,0
+100,Salt - Seasoned,91,légumes,disponible sur commande,0,10
+101,Cookies Cereal Nut,97,fruits,en stock,1,0
+102,"Butter - Salted Micro",91,poisson,temporairement indisponible,0,0
+103,"Trout - Hot Smkd Dbl Fillet",93,légumes,disponible sur commande,0,3
+104,Everfresh Products,88,fruits,en stock,10,0
+105,Wine - Crozes Hermitage E.,25,légumes,en stock,9,0
+106,Table Cloth 144x90 White,5,poisson,temporairement indisponible,0,0
+107,Taro Root,98,légumes,en stock,6,0
+108,Danishes - Mini Cheese,31,poisson,en stock,8,0
+109,Whmis Spray Bottle Graduated,89,légumes,temporairement indisponible,0,0
+110,Remy Red,71,fruits,temporairement indisponible,0,0
+111,Bread - Petit Baguette,91,boissons,disponible sur commande,0,6
+112,Turkey Tenderloin Frozen,17,poisson,en stock,7,0
+113,"Lemonade - Strawberry 591 Ml",88,légumes,disponible sur commande,0,1
+114,Boogies,67,fruits,temporairement indisponible,0,0
+115,Stainless Steel Cleaner Vision,72,fruits,temporairement indisponible,0,0
+116,Scallops 60/80 Iqf,44,viande,disponible sur commande,0,7
+117,Bulgar,91,légumes,temporairement indisponible,0,0
+118,Mousse - Mango,28,légumes,en stock,5,0
+119,Wine - Rubyport,3,fruits,temporairement indisponible,0,0
+120,"Pasta - Lasagne Fresh",13,légumes,disponible sur commande,0,5
+121,"Mustard - Dry Powder",67,viande,en stock,9,0
+122,Latex Rubber Gloves Size 9,2,fruits,temporairement indisponible,0,0
+123,"Wine - White Pelee Island",50,viande,temporairement indisponible,0,0
+124,Chocolate Eclairs,28,légumes,disponible sur commande,0,2
+125,"Pork - Bacon Sliced",69,viande,temporairement indisponible,0,0
+126,Cake - Pancake,94,fruits,disponible sur commande,0,1
+127,Grapefruit - White,57,poisson,disponible sur commande,0,2
+128,Truffle Cups - Red,52,boissons,en stock,7,0
+129,Table Cloth 81x81 White,55,légumes,disponible sur commande,0,2
+130,Tequila Rose Cream Liquor,61,poisson,temporairement indisponible,0,0
+131,Bandage - Fexible 1x3,97,viande,en stock,4,0
+132,Russian Prince,89,légumes,en stock,7,0
+133,Bread Roll Foccacia,86,poisson,disponible sur commande,0,5
+134,"Juice - Tomato 48 Oz",79,boissons,temporairement indisponible,0,0
+135,Chicken - Whole Roasting,32,boissons,temporairement indisponible,0,0
+136,Turkey - Oven Roast Breast,28,poisson,disponible sur commande,0,10
+137,Wine - Hardys Bankside Shiraz,77,boissons,en stock,7,0
+138,Coffee - Cafe Moreno,34,fruits,disponible sur commande,0,8
+139,Seaweed Green Sheets,45,légumes,en stock,3,0
+140,Chocolate - Sugar Free Semi Choc,47,fruits,disponible sur commande,0,6
+141,"Cheese - Cheddar Medium",4,poisson,temporairement indisponible,0,0
+142,Lychee - Canned,42,viande,en stock,5,0
+143,Lemonade - Pineapple Passion,64,légumes,en stock,9,0
+144,"Wine - White Ej Gallo",6,boissons,temporairement indisponible,0,0
+145,"Pasta - Detalini White Fresh",53,légumes,disponible sur commande,0,9
+146,Pork - Caul Fat,34,boissons,en stock,3,0
+147,Gatorade - Cool Blue Raspberry,73,légumes,disponible sur commande,0,4
+148,Sauce - Fish 25 Ozf Bottle,4,légumes,disponible sur commande,0,1
+149,Alize Gold Passion,3,poisson,disponible sur commande,0,1
+150,"Bread - White Unsliced",61,poisson,en stock,4,0
+151,Muffin - Blueberry Individual,53,légumes,disponible sur commande,0,6
+152,Wine - Magnotta - Belpaese,17,fruits,disponible sur commande,0,2
+153,Pear - Asian,15,poisson,temporairement indisponible,0,0
+154,Artichokes - Jerusalem,26,viande,en stock,5,0
+155,Lamb - Shoulder,79,viande,temporairement indisponible,0,0
+156,Broccoli - Fresh,88,fruits,en stock,7,0
+157,Bread Base - Italian,36,poisson,en stock,8,0
+158,Cheese - Mascarpone,24,fruits,temporairement indisponible,0,0
+159,Cilantro / Coriander - Fresh,66,boissons,temporairement indisponible,0,0
+160,French Pastries,47,viande,en stock,6,0
+161,Soup - Campbells Pasta Fagioli,90,légumes,temporairement indisponible,0,0
+162,Cheese - Parmesan Grated,43,légumes,disponible sur commande,0,10
+163,Wine - Cabernet Sauvignon,40,viande,temporairement indisponible,0,0
+164,Goat - Whole Cut,99,poisson,temporairement indisponible,0,0
+165,Soup - Campbells Pasta Fagioli,26,poisson,temporairement indisponible,0,0
+166,"Pasta - Spaghetti Dry",11,légumes,en stock,7,0
+167,Cup - 4oz Translucent,66,poisson,temporairement indisponible,0,0
+168,Sugar Thermometer,42,viande,disponible sur commande,0,4
+169,Trout Rainbow Whole,33,poisson,en stock,5,0
+170,Veal - Osso Bucco,37,légumes,disponible sur commande,0,10
+171,Icecream - Dstk Super Cone,39,poisson,en stock,9,0
+172,Guinea Fowl,30,boissons,en stock,6,0
+173,Persimmons,58,viande,temporairement indisponible,0,0
+174,Pepper - Green,85,poisson,disponible sur commande,0,10
+175,Jack Daniels,98,légumes,en stock,8,0
+176,Fish - Bones,89,légumes,temporairement indisponible,0,0
+177,Sour Puss Raspberry,55,boissons,disponible sur commande,0,2
+178,Glycerine,67,boissons,en stock,4,0
+179,Butter - Salted,9,poisson,en stock,8,0
+180,Bread - Burger,61,poisson,temporairement indisponible,0,0
+181,Dried Cherries,69,boissons,temporairement indisponible,0,0
+182,Swordfish Loin Portions,92,viande,en stock,4,0
+183,"Crab - Blue Frozen",24,légumes,en stock,10,0
+184,"Artichoke - Bottom Canned",23,viande,temporairement indisponible,0,0
+185,Steampan - Half Size Shallow,25,fruits,en stock,10,0
+186,Juice - Happy Planet,39,fruits,temporairement indisponible,0,0
+187,Sauce - Marinara,82,légumes,temporairement indisponible,0,0
+188,Appetizer - Smoked Salmon / Dill,49,boissons,en stock,5,0
+189,Puree - Passion Fruit,15,légumes,en stock,10,0
+190,"Pork - Chop Frenched",61,fruits,disponible sur commande,0,1
+191,Bread - French Stick,60,poisson,disponible sur commande,0,6
+192,Eggplant Italian,83,boissons,temporairement indisponible,0,0
+193,Greens Mustard,19,viande,temporairement indisponible,0,0
+194,Munchies Honey Sweet Trail Mix,56,poisson,disponible sur commande,0,3
+195,Salmon - Fillets,48,fruits,en stock,9,0
+196,Beans - Butter Lrg Lima,79,légumes,temporairement indisponible,0,0
+197,Wine - Vovray Sec Domaine Huet,21,fruits,en stock,9,0
+198,Bread - Assorted Rolls,49,légumes,disponible sur commande,0,3
+199,Veal - Bones,41,légumes,disponible sur commande,0,2
+200,"Sauce - Soya Dark",77,légumes,temporairement indisponible,0,0
+201,Dish Towel,43,fruits,disponible sur commande,0,7
+202,Silicone Parch. 16.3x24.3,78,légumes,disponible sur commande,0,6
+203,"Chicken - Wings Tip Off",35,légumes,temporairement indisponible,0,0
+204,"Water - Spring Water 355 Ml",53,poisson,temporairement indisponible,0,0
+205,Wine - Muscadet Sur Lie,38,fruits,temporairement indisponible,0,0
+206,Langers - Cranberry Cocktail,56,fruits,disponible sur commande,0,5
+207,Lambcasing,54,viande,temporairement indisponible,0,0
+208,"Butter - Salted Micro",14,légumes,disponible sur commande,0,5
+209,Ham Black Forest,22,viande,en stock,9,0
+210,Wasabi Paste,100,fruits,temporairement indisponible,0,0
+211,Fish - Bones,94,viande,en stock,10,0
+212,Kellogs Raisan Bran Bars,29,légumes,temporairement indisponible,0,0
+213,Flounder - Fresh,60,boissons,temporairement indisponible,0,0
+214,"Brocolinni - Gaylan Chinese",20,viande,en stock,9,0
+215,Snails - Large Canned,32,poisson,temporairement indisponible,0,0
+216,"Wine - Red Cabernet Sauvignon",44,légumes,temporairement indisponible,0,0
+217,Tuna - Fresh,29,viande,disponible sur commande,0,10
+218,"Beef - Tongue Fresh",27,viande,disponible sur commande,0,10
+219,"Tortillas - Flour 10",31,poisson,temporairement indisponible,0,0
+220,Cherries - Frozen,65,viande,en stock,8,0
+221,Nescafe - Frothy French Vanilla,88,légumes,disponible sur commande,0,4
+222,"Chicken - Breast 5 - 7 Oz",96,légumes,disponible sur commande,0,7
+223,Rice - Sushi,98,boissons,en stock,7,0
+224,Remy Red,65,fruits,en stock,3,0
+225,Marzipan 50/50,59,légumes,disponible sur commande,0,3
+226,Beets - Pickled,55,boissons,en stock,7,0
+227,Tea - Vanilla Chai,63,boissons,temporairement indisponible,0,0
+228,Tea - Mint,97,légumes,temporairement indisponible,0,0
+229,Cheese - Parmesan Cubes,66,poisson,temporairement indisponible,0,0
+230,Pea - Snow,12,poisson,temporairement indisponible,0,0
+231,Wild Boar - Tenderloin,67,légumes,temporairement indisponible,0,0
+232,Fiddlehead - Frozen,47,viande,temporairement indisponible,0,0
+233,Bandage - Flexible Neon,72,fruits,disponible sur commande,0,1
+234,Wine - Rosso Del Veronese Igt,58,fruits,disponible sur commande,0,10
+235,Turnip - Wax,86,boissons,temporairement indisponible,0,0
+236,Wine - Casillero Del Diablo,21,fruits,en stock,3,0
+237,Beans - French,89,fruits,temporairement indisponible,0,0
+238,Calypso - Lemonade,13,boissons,temporairement indisponible,0,0
+239,Island Oasis - Sweet And Sour Mix,3,poisson,en stock,4,0
+240,Kiwi Gold Zespri,96,légumes,en stock,1,0
+241,Cake - Bande Of Fruit,29,légumes,disponible sur commande,0,2
+242,Pork - Back Ribs,63,légumes,temporairement indisponible,0,0
+243,Melon - Watermelon Yellow,49,légumes,disponible sur commande,0,3
+244,French Pastries,47,légumes,en stock,7,0
+245,"Pork - Loin Boneless",17,boissons,disponible sur commande,0,7
+246,Muffin Puck Ww Carrot,82,légumes,en stock,6,0
+247,"Wine - Red Concha Y Toro",65,boissons,en stock,2,0
+248,Yeast Dry - Fleischman,57,légumes,en stock,5,0
+249,Nantucket Cranberry Juice,14,boissons,en stock,7,0
+250,"Extract - Vanilla artificial",11,légumes,en stock,8,0
+251,Longos - Grilled Salmon With Bbq,38,légumes,en stock,6,0
+252,Dates,64,boissons,en stock,6,0
+253,Rye Special Old,96,boissons,en stock,4,0
+254,Appetizer - Seafood Assortment,49,viande,en stock,5,0
+255,Mix - Cappucino Cocktail,66,fruits,disponible sur commande,0,4
+256,Peppercorns - Green,9,poisson,temporairement indisponible,0,0
+257,Chinese Foods - Cantonese,63,poisson,disponible sur commande,0,5
+258,Juice - Ocean Spray Cranberry,80,viande,disponible sur commande,0,1
+259,Vol Au Vents,21,fruits,disponible sur commande,0,8
+260,Potatoes - Mini White 3 Oz,73,légumes,disponible sur commande,0,10
+261,Nacho Chips,26,poisson,en stock,3,0
+262,Lumpfish Black,20,fruits,disponible sur commande,0,3
+263,Lid - 3oz Med Rec,54,boissons,temporairement indisponible,0,0
+264,"Soup - Cream Of Broccoli Dry",55,boissons,en stock,10,0
+265,Compound - Raspberry,45,poisson,temporairement indisponible,0,0
+266,Jolt Cola,27,fruits,disponible sur commande,0,5
+267,Cheese - Mascarpone,88,légumes,temporairement indisponible,0,0
+268,Calypso - Pineapple Passion,15,fruits,en stock,7,0
+269,"Leeks - Baby White",49,légumes,temporairement indisponible,0,0
+270,Flour - Cake,78,poisson,disponible sur commande,0,4
+271,"Wine - White Cooking",30,boissons,temporairement indisponible,0,0
+272,Pizza Pizza Dough,88,viande,temporairement indisponible,0,0
+273,Bread - Frozen Basket Variety,95,légumes,temporairement indisponible,0,0
+274,Straw - Regular,99,fruits,en stock,1,0
+275,Bacardi Raspberry,14,fruits,disponible sur commande,0,10
+276,"Oregano - Dry Rubbed",7,boissons,disponible sur commande,0,1
+277,"Tart Shells - Savory 3",51,fruits,temporairement indisponible,0,0
+278,Jam - Raspberry,91,viande,disponible sur commande,0,9
+279,Lettuce - Red Leaf,86,viande,disponible sur commande,0,8
+280,"Chicken - Leg Boneless",7,légumes,temporairement indisponible,0,0
+281,Chicken - Ground,25,fruits,disponible sur commande,0,1
+282,Lotus Leaves,73,fruits,disponible sur commande,0,7
+283,Steam Pan - Half Size Deep,46,boissons,disponible sur commande,0,3
+284,Chicken - Livers,63,poisson,temporairement indisponible,0,0
+285,Scallops - In Shell,19,viande,en stock,8,0
+286,Bread - 10 Grain,67,poisson,en stock,8,0
+287,Straws - Cocktale,49,fruits,temporairement indisponible,0,0
+288,Chip - Potato Dill Pickle,45,fruits,temporairement indisponible,0,0
+289,Miso Paste White,63,viande,en stock,7,0
+290,Paste - Black Olive,46,viande,temporairement indisponible,0,0
+291,Bread Ww Cluster,25,boissons,en stock,1,0
+292,Iced Tea Concentrate,83,fruits,en stock,8,0
+293,Celery Root,9,poisson,en stock,10,0
+294,Cheese - Fontina,48,légumes,disponible sur commande,0,2
+295,"Tart Shells - Savory 3",25,viande,disponible sur commande,0,5
+296,Chives - Fresh,50,fruits,en stock,5,0
+297,"Pasta - Elbows Macaroni Dry",46,viande,en stock,10,0
+298,Crackers - Soda / Saltins,55,boissons,disponible sur commande,0,10
+299,Pear - Packum,17,boissons,en stock,6,0
+300,"Juice - Apple 500 Ml",2,légumes,disponible sur commande,0,5
+301,"Pork - Tenderloin Frozen",2,poisson,disponible sur commande,0,5
+302,Beets - Golden,12,fruits,en stock,9,0
+303,Extract - Almond,54,fruits,temporairement indisponible,0,0
+304,Cookies - Englishbay Oatmeal,71,viande,en stock,6,0
+305,Arizona - Plum Green Tea,5,viande,temporairement indisponible,0,0
+306,Longos - Burritos,5,fruits,disponible sur commande,0,7
+307,Hog / Sausage Casing - Pork,13,viande,en stock,4,0
+308,Mix Pina Colada,31,viande,en stock,5,0
+309,Nantucket Pine Orangebanana,44,fruits,temporairement indisponible,0,0
+310,Beef Ground Medium,66,légumes,en stock,4,0
+311,Bread - Italian Corn Meal Poly,23,boissons,temporairement indisponible,0,0
+312,Tia Maria,16,boissons,temporairement indisponible,0,0
+313,Herb Du Provence - Primerba,71,viande,disponible sur commande,0,6
+314,Sugar - Icing,95,poisson,en stock,8,0
+315,Truffle Cups - Red,22,fruits,disponible sur commande,0,9
+316,"Appetizer - Spring Roll Veg",49,poisson,disponible sur commande,0,4
+317,Soup - French Onion,99,boissons,temporairement indisponible,0,0
+318,Eggwhite Frozen,30,fruits,en stock,5,0
+319,Kaffir Lime Leaves,66,légumes,temporairement indisponible,0,0
+320,Ecolab - Ster Bac,18,viande,disponible sur commande,0,4
+321,Coffee Caramel Biscotti,12,légumes,temporairement indisponible,0,0
+322,Lamb - Bones,97,viande,en stock,4,0
+323,Nantucket - Pomegranate Pear,37,légumes,temporairement indisponible,0,0
+324,Ice Cream - Vanilla,47,poisson,en stock,10,0
+325,Pepper - Gypsy Pepper,73,fruits,disponible sur commande,0,2
+326,Beets - Golden,26,poisson,temporairement indisponible,0,0
+327,Vinegar - Balsamic,91,légumes,disponible sur commande,0,5
+328,Ice Cream Bar - Oreo Sandwich,82,légumes,disponible sur commande,0,1
+329,Cheese - Valancey,2,boissons,temporairement indisponible,0,0
+330,Glass Clear 7 Oz Xl,96,viande,disponible sur commande,0,8
+331,Pie Filling - Cherry,1,poisson,temporairement indisponible,0,0
+332,"Pepsi 355 Ml",71,viande,disponible sur commande,0,3
+333,"Thyme - Lemon Fresh",88,fruits,disponible sur commande,0,1
+334,"Wine - White Pinot Grigio",82,fruits,temporairement indisponible,0,0
+335,Crawfish,23,poisson,temporairement indisponible,0,0
+336,"Lentils - Red Dry",52,viande,disponible sur commande,0,9
+337,Sugar - Monocystal / Rock,14,boissons,temporairement indisponible,0,0
+338,Crab - Imitation Flakes,74,légumes,temporairement indisponible,0,0
+339,Noodles - Steamed Chow Mein,41,fruits,en stock,3,0
+340,Onions - Cippolini,51,légumes,disponible sur commande,0,2
+341,Wine - Casillero Del Diablo,71,poisson,en stock,7,0
+342,"Chocolate - Pistoles White",15,boissons,temporairement indisponible,0,0
+343,Beans - Fava Fresh,11,boissons,en stock,3,0
+344,Soup Campbells,71,boissons,temporairement indisponible,0,0
+345,Tomato - Green,88,poisson,disponible sur commande,0,1
+346,Garam Marsala,45,poisson,temporairement indisponible,0,0
+347,Muffin - Bran Ind Wrpd,13,boissons,en stock,2,0
+348,Salmon - Canned,35,viande,temporairement indisponible,0,0
+349,Pecan Raisin - Tarts,100,boissons,temporairement indisponible,0,0
+350,Nori Sea Weed,62,viande,en stock,6,0
+351,Appetizer - Shrimp Puff,5,boissons,en stock,1,0
+352,Curry Paste - Madras,4,viande,en stock,6,0
+353,Oven Mitt - 13 Inch,72,boissons,en stock,6,0
+354,Brandy Cherry - Mcguinness,80,viande,en stock,10,0
+355,Ecolab Silver Fusion,40,fruits,en stock,4,0
+356,Fudge - Chocolate Fudge,78,viande,en stock,10,0
+357,Almonds Ground Blanched,48,viande,disponible sur commande,0,4
+358,Grenadine,4,viande,en stock,9,0
+359,Foam Cup 6 Oz,42,légumes,disponible sur commande,0,8
+360,Cheese - Goat,72,poisson,temporairement indisponible,0,0
+361,"Bread - Bagels Mini",72,viande,temporairement indisponible,0,0
+362,V8 - Berry Blend,26,fruits,disponible sur commande,0,3
+363,Cabbage - Nappa,4,poisson,disponible sur commande,0,7
+364,"Apple - Delicious Golden",60,viande,en stock,6,0
+365,Apple - Macintosh,33,poisson,disponible sur commande,0,10
+366,Gatorade - Xfactor Berry,65,viande,temporairement indisponible,0,0
+367,Pepper - Orange,5,légumes,temporairement indisponible,0,0
+368,Truffle Cups - Brown,76,légumes,en stock,10,0
+369,"Juice - Tomato 48 Oz",66,fruits,disponible sur commande,0,1
+370,Pepper - Pablano,41,boissons,en stock,4,0
+371,Pork - Smoked Kassler,26,boissons,disponible sur commande,0,7
+372,"Beef - Bones Cut - Up",94,fruits,en stock,2,0
+373,Toamtoes 6x7 Select,92,viande,disponible sur commande,0,3
+374,Bread - Sour Batard,36,fruits,temporairement indisponible,0,0
+375,Cocoa Powder - Dutched,41,viande,disponible sur commande,0,4
+376,Cornstarch,94,légumes,temporairement indisponible,0,0
+377,"Chicken - Thigh Bone In",71,légumes,temporairement indisponible,0,0
+378,Skirt - 29 Foot,10,légumes,temporairement indisponible,0,0
+379,Mcgillicuddy Vanilla Schnap,1,fruits,en stock,10,0
+380,"Beef - Ox Tail Frozen",82,poisson,temporairement indisponible,0,0
+381,Juice - Apple Cider,6,fruits,en stock,10,0
+382,Sauce - Balsamic Viniagrette,24,fruits,temporairement indisponible,0,0
+383,Beer - Mill St Organic,77,boissons,en stock,6,0
+384,Sesame Seed Black,30,poisson,en stock,5,0
+385,Corn Syrup,42,viande,en stock,10,0
+386,Wine - Casablanca Valley,52,boissons,temporairement indisponible,0,0
+387,Energy Drink - Franks Original,41,fruits,disponible sur commande,0,6
+388,Mustard - Individual Pkg,49,viande,temporairement indisponible,0,0
+389,Mustard - Pommery,7,boissons,en stock,9,0
+390,Galliano,81,boissons,en stock,9,0
+391,Cheese - Parmigiano Reggiano,92,légumes,en stock,5,0
+392,Bagelers - Cinn / Brown Sugar,26,viande,temporairement indisponible,0,0
+393,"Oil - Shortening liqud Fry",3,fruits,temporairement indisponible,0,0
+394,Pie Shell - 5,99,fruits,temporairement indisponible,0,0
+395,Sweet Pea Sprouts,94,fruits,temporairement indisponible,0,0
+396,Muffin - Banana Nut Individual,77,viande,disponible sur commande,0,7
+397,Tamarillo,31,légumes,disponible sur commande,0,7
+398,Bread - 10 Grain Parisian,63,viande,en stock,8,0
+399,Muskox - French Rack,96,poisson,en stock,9,0
+400,Lamb - Shanks,41,boissons,disponible sur commande,0,6
+401,Cookie - Dough Variety,97,viande,disponible sur commande,0,6
+402,"Wine - Red Cabernet Sauvignon",21,poisson,temporairement indisponible,0,0
+403,Tomato Puree,2,poisson,disponible sur commande,0,7
+404,Pimento - Canned,80,fruits,temporairement indisponible,0,0
+405,Jack Daniels,63,légumes,en stock,1,0
+406,Sauce - Marinara,21,viande,temporairement indisponible,0,0
+407,"Juice - Clamato 341 Ml",71,poisson,temporairement indisponible,0,0
+408,Wine - Jaboulet Cotes Du Rhone,23,viande,en stock,6,0
+409,Soup - Campbells Tomato Ravioli,34,fruits,temporairement indisponible,0,0
+410,Pork - European Side Bacon,16,viande,en stock,3,0
+411,Towels - Paper / Kraft,53,poisson,disponible sur commande,0,3
+412,French Kiss Vanilla,73,poisson,disponible sur commande,0,2
+413,Coffee - Decaffeinato Coffee,38,fruits,disponible sur commande,0,4
+414,Wild Boar - Tenderloin,52,boissons,temporairement indisponible,0,0
+415,Ecolab Crystal Fusion,80,boissons,disponible sur commande,0,8
+416,Beer - Sleemans Honey Brown,51,viande,disponible sur commande,0,4
+417,Basil - Fresh,64,poisson,en stock,7,0
+418,Cheese - Brie,12,fruits,disponible sur commande,0,7
+419,Mushroom - King Eryingii,77,viande,disponible sur commande,0,5
+420,Burger Veggie,3,viande,temporairement indisponible,0,0
+421,Olives - Stuffed,28,boissons,temporairement indisponible,0,0
+422,"Mushroom - Enoki Dry",77,boissons,temporairement indisponible,0,0
+423,"Beef - Ground Extra Lean Fresh",2,poisson,en stock,7,0
+424,"Halibut - Whole Fresh",67,poisson,disponible sur commande,0,3
+425,Cheese - Asiago,35,poisson,en stock,3,0
+426,Ice Cream - Turtles Stick Bar,3,boissons,en stock,4,0
+427,Calypso - Lemonade,21,viande,en stock,7,0
+428,Cake - Pancake,25,viande,temporairement indisponible,0,0
+429,"Seedlings - Mix Organic",57,poisson,disponible sur commande,0,10
+430,Veal - Sweetbread,10,fruits,en stock,7,0
+431,Chocolate - Dark,13,boissons,temporairement indisponible,0,0
+432,Swiss Chard,84,poisson,en stock,1,0
+433,Kolrabi,71,poisson,disponible sur commande,0,3
+434,Sauce - Thousand Island,41,viande,disponible sur commande,0,10
+435,"Shrimp - Baby Cold Water",69,boissons,en stock,2,0
+436,Beer - Pilsner Urquell,40,légumes,en stock,9,0
+437,Towels - Paper / Kraft,64,légumes,disponible sur commande,0,8
+438,Sobe - Berry Energy,33,boissons,disponible sur commande,0,6
+439,Bread Country Roll,90,fruits,disponible sur commande,0,7
+440,"Lamb - Racks Frenched",41,fruits,en stock,4,0
+441,Water - Tonic,34,viande,en stock,4,0
+442,Wine - Cava Aria Estate Brut,90,poisson,en stock,7,0
+443,Muffin Mix - Carrot,78,poisson,disponible sur commande,0,3
+444,Glucose,50,poisson,disponible sur commande,0,5
+445,Foil - Round Foil,45,fruits,en stock,4,0
+446,Brandy Cherry - Mcguinness,85,fruits,temporairement indisponible,0,0
+447,Coffee - Almond Amaretto,42,poisson,disponible sur commande,0,6
+448,Pepper - Roasted Red,84,fruits,temporairement indisponible,0,0
+449,Extract - Lemon,67,fruits,temporairement indisponible,0,0
+450,Pork - Backfat,74,légumes,disponible sur commande,0,6
+451,Table Cloth 72x144 White,78,poisson,en stock,7,0
+452,Pork - Hock And Feet Attached,87,poisson,temporairement indisponible,0,0
+453,Ice Cream - Vanilla,36,boissons,temporairement indisponible,0,0
+454,Sauce - Hollandaise,40,boissons,en stock,8,0
+455,Sorrel - Fresh,47,légumes,temporairement indisponible,0,0
+456,Muffin - Mix - Creme Brule 15l,3,légumes,disponible sur commande,0,9
+457,Bread - Raisin,97,légumes,temporairement indisponible,0,0
+458,Sugar - Monocystal / Rock,15,fruits,en stock,4,0
+459,Flour - Teff,23,viande,en stock,5,0
+460,Sprouts - Alfalfa,29,légumes,disponible sur commande,0,5
+461,Couscous,5,viande,disponible sur commande,0,3
+462,"Pasta - Lasagna Noodle Frozen",32,fruits,temporairement indisponible,0,0
+463,"Bread - Roll Canadian Dinner",38,poisson,en stock,5,0
+464,V8 Splash Strawberry Kiwi,23,poisson,temporairement indisponible,0,0
+465,Bread - White Epi Baguette,4,boissons,disponible sur commande,0,4
+466,Beer - Original Organic Lager,92,fruits,disponible sur commande,0,10
+467,Pickles - Gherkins,34,viande,disponible sur commande,0,8
+468,Duck - Fat,11,boissons,en stock,5,0
+469,Iced Tea Concentrate,76,viande,en stock,6,0
+470,Mince Meat - Filling,44,boissons,disponible sur commande,0,6
+471,Figs,12,boissons,disponible sur commande,0,9
+472,"Oil - Food Lacquer Spray",45,poisson,temporairement indisponible,0,0
+473,Yokaline,96,poisson,temporairement indisponible,0,0
+474,Chef Hat 20cm,69,légumes,en stock,1,0
+475,Wine - Niagara Peninsula Vqa,45,poisson,disponible sur commande,0,10
+476,Bandage - Flexible Neon,23,poisson,en stock,9,0
+477,Wine - Vovray Sec Domaine Huet,26,boissons,disponible sur commande,0,2
+478,Sorrel - Fresh,10,boissons,en stock,2,0
+479,Prunes - Pitted,65,fruits,temporairement indisponible,0,0
+480,Chicken - Bones,50,boissons,en stock,10,0
+481,Chicken Thigh - Bone Out,64,poisson,disponible sur commande,0,1
+482,Banana Turning,70,fruits,disponible sur commande,0,3
+483,"Crab - Dungeness Whole live",41,légumes,disponible sur commande,0,7
+484,"Juice - Clamato 341 Ml",33,poisson,disponible sur commande,0,2
+485,Pasta - Canelloni,9,fruits,en stock,10,0
+486,Gherkin - Sour,34,poisson,en stock,7,0
+487,"Wine - Red Marechal Foch",4,fruits,disponible sur commande,0,10
+488,Cheese Cheddar Processed,80,viande,en stock,6,0
+489,"Lentils - Red Dry",99,fruits,en stock,5,0
+490,"Pasta - Tortellini Fresh",85,poisson,temporairement indisponible,0,0
+491,Egg - Salad Premix,83,viande,temporairement indisponible,0,0
+492,Sobe - Liz Blizz,66,fruits,temporairement indisponible,0,0
+493,"Pepsi - Diet 355 Ml",3,boissons,temporairement indisponible,0,0
+494,Plasticknivesblack,76,poisson,en stock,5,0
+495,Vinegar - White Wine,76,fruits,en stock,3,0
+496,Potatoes - Idaho 80 Count,72,viande,temporairement indisponible,0,0
+497,"Basil - Dry Rubbed",10,boissons,disponible sur commande,0,3
+498,Wine - Crozes Hermitage E.,79,légumes,en stock,9,0
+499,Soup - Base Broth Chix,29,viande,temporairement indisponible,0,0
+500,Lambcasing,58,viande,disponible sur commande,0,4
+501,Cheese Cloth No 60,40,boissons,temporairement indisponible,0,0
+502,"Wine - Bourgogne 2002 La",58,viande,disponible sur commande,0,3
+503,"Pepsi 355 Ml",91,viande,disponible sur commande,0,10
+504,Sobe - Orange Carrot,13,légumes,temporairement indisponible,0,0
+505,Wine - Chenin Blanc K.w.v.,57,poisson,temporairement indisponible,0,0
+506,Uniform Linen Charge,33,légumes,disponible sur commande,0,8
+507,"Soup - Knorr Country Bean",16,fruits,disponible sur commande,0,2
+508,Five Alive Citrus,44,viande,en stock,9,0
+509,Soup - Campbells - Tomato,89,poisson,en stock,7,0
+510,"Red Snapper - Fresh Whole",71,poisson,disponible sur commande,0,10
+511,Sauce - Hoisin,2,boissons,en stock,4,0
+512,Cheese - Ermite Bleu,42,légumes,disponible sur commande,0,9
+513,"Mop Head - Cotton 24 Oz",25,viande,temporairement indisponible,0,0
+514,Napkin - Beverage 1 Ply,63,fruits,en stock,4,0
+515,Chef Hat 20cm,38,viande,en stock,10,0
+516,Salt - Sea,86,boissons,en stock,1,0
+517,"Rum - Light Captain Morgan",31,boissons,disponible sur commande,0,8
+518,Zucchini - Green,37,fruits,disponible sur commande,0,2
+519,"Beef - Baby Liver",78,viande,temporairement indisponible,0,0
+520,Cheese - Mascarpone,42,légumes,temporairement indisponible,0,0
+521,Mints - Striped Red,71,viande,disponible sur commande,0,1
+522,"Chocolate - Milk Callets",14,boissons,en stock,1,0
+523,Energy Drink - Franks Pineapple,87,boissons,disponible sur commande,0,9
+524,"Iced Tea - Lemon 340ml",21,fruits,en stock,10,0
+525,Calaloo,18,boissons,temporairement indisponible,0,0
+526,Red Pepper Paste,74,viande,en stock,6,0
+527,Oil - Sunflower,18,poisson,temporairement indisponible,0,0
+528,Tahini Paste,78,légumes,temporairement indisponible,0,0
+529,Quinoa,95,viande,disponible sur commande,0,2
+530,Mushroom - Lg - Cello,51,boissons,temporairement indisponible,0,0
+531,Chicken - Bones,95,légumes,en stock,5,0
+532,Cream - 35%,9,viande,temporairement indisponible,0,0
+533,Cleaner - Bleach,18,légumes,en stock,6,0
+534,"Rum - Light Captain Morgan",71,viande,en stock,4,0
+535,"Sauce - Soya Dark",2,fruits,en stock,8,0
+536,Cake Sheet Combo Party Pack,14,fruits,en stock,5,0
+537,Fruit Mix - Light,2,boissons,disponible sur commande,0,2
+538,"Thyme - Lemon Fresh",79,boissons,en stock,2,0
+539,Loquat,64,boissons,disponible sur commande,0,6
+540,Potatoes - Parissienne,10,viande,temporairement indisponible,0,0
+541,Vinegar - Rice,24,fruits,en stock,5,0
+542,"Wine - White Riesling Henry Of",48,boissons,en stock,8,0
+543,Mustard - Pommery,37,boissons,en stock,5,0
+544,Beans - French,19,boissons,en stock,9,0
+545,Tomato - Peeled Italian Canned,75,poisson,temporairement indisponible,0,0
+546,Bread - Rosemary Focaccia,2,fruits,disponible sur commande,0,10
+547,Tea - Vanilla Chai,59,légumes,temporairement indisponible,0,0
+548,"Beans - Black Bean Preserved",59,viande,disponible sur commande,0,8
+549,Creamers - 10%,51,boissons,disponible sur commande,0,1
+550,Celery Root,30,légumes,temporairement indisponible,0,0
+551,Soup - Cream Of Potato / Leek,90,poisson,en stock,9,0
+552,"Shrimp - 16/20 Peeled Deviened",69,légumes,disponible sur commande,0,3
+553,Apples - Spartan,63,poisson,en stock,5,0
+554,Melon - Watermelon Yellow,46,légumes,en stock,7,0
+555,"Cup - 6oz Foam",85,fruits,disponible sur commande,0,8
+556,Shiro Miso,24,poisson,disponible sur commande,0,9
+557,Tuna - Yellowfin,95,légumes,disponible sur commande,0,5
+558,Soup Knorr Chili With Beans,74,fruits,en stock,4,0
+559,Jerusalem Artichoke,59,légumes,disponible sur commande,0,8
+560,Muffin Orange Individual,85,viande,disponible sur commande,0,8
+561,Napkin Colour,64,légumes,en stock,4,0
+562,Soup - Campbells Tomato Ravioli,29,boissons,en stock,5,0
+563,Wine - Red Oakridge Merlot,65,viande,en stock,10,0
+564,Scrubbie - Scotchbrite Hand Pad,14,boissons,disponible sur commande,0,1
+565,"Coke - Diet 355 Ml",11,viande,temporairement indisponible,0,0
+566,Beets - Golden,67,boissons,disponible sur commande,0,3
+567,"Chocolate - Pistoles White",30,viande,disponible sur commande,0,10
+568,Mushroom - Lg - Cello,64,légumes,temporairement indisponible,0,0
+569,Butter - Salted,82,légumes,en stock,2,0
+570,"Wine - Red Gamay Noir",35,poisson,temporairement indisponible,0,0
+571,Sunflower Seed Raw,100,poisson,disponible sur commande,0,1
+572,Sugar - Crumb,6,boissons,en stock,6,0
+573,"Lamb - Racks Frenched",89,fruits,temporairement indisponible,0,0
+574,"Sugar - Sweet N Low Individual",58,légumes,disponible sur commande,0,2
+575,Cheese - Oka,43,poisson,temporairement indisponible,0,0
+576,"Beets - Candy Cane Organic",59,fruits,disponible sur commande,0,10
+577,Wine - Touraine Azay - Le - Rideau,15,légumes,disponible sur commande,0,1
+578,Skirt - 24 Foot,72,fruits,temporairement indisponible,0,0
+579,Bar - Granola Trail Mix Fruit Nut,37,boissons,temporairement indisponible,0,0
+580,Beef Ground Medium,8,légumes,disponible sur commande,0,3
+581,Sauce - Soy Low Sodium - 3.87l,77,boissons,temporairement indisponible,0,0
+582,Country Roll,37,légumes,disponible sur commande,0,4
+583,Goldschalger,87,boissons,en stock,5,0
+584,Wanton Wrap,71,légumes,temporairement indisponible,0,0
+585,"Pepper - Black Crushed",51,poisson,disponible sur commande,0,7
+586,Bread - French Baquette,1,viande,en stock,4,0
+587,"Salt - Rock Course",74,poisson,en stock,4,0
+588,"Soda Water - Club Soda 355 Ml",37,viande,disponible sur commande,0,4
+589,Flour - Strong,58,légumes,en stock,9,0
+590,Bread Fig And Almond,76,poisson,temporairement indisponible,0,0
+591,Sauce - Ranch Dressing,48,boissons,temporairement indisponible,0,0
+592,Beer - Heinekin,99,poisson,en stock,6,0
+593,Onions - Cippolini,7,viande,en stock,7,0
+594,Cookie Dough - Double,98,boissons,temporairement indisponible,0,0
+595,Cabbage - Green,47,boissons,disponible sur commande,0,5
+596,Numi - Assorted Teas,66,boissons,en stock,9,0
+597,Huck Towels White,87,poisson,disponible sur commande,0,6
+598,Scotch - Queen Anne,23,légumes,disponible sur commande,0,7
+599,Broom - Corn,57,viande,disponible sur commande,0,3
+600,Maintenance Removal Charge,72,légumes,disponible sur commande,0,3
+601,Cookie - Dough Variety,20,fruits,en stock,5,0
+602,Chocolate - Chips Compound,28,boissons,disponible sur commande,0,6
+603,Truffle - Peelings,95,poisson,disponible sur commande,0,8
+604,Compound - Raspberry,56,fruits,temporairement indisponible,0,0
+605,Oxtail - Cut,36,viande,disponible sur commande,0,1
+606,Vodka - Smirnoff,71,poisson,temporairement indisponible,0,0
+607,Trueblue - Blueberry Cranberry,70,légumes,disponible sur commande,0,1
+608,"Wine - Mas Chicet Rose Vintage",12,poisson,en stock,7,0
+609,"Rice Pilaf Drypackage",67,légumes,disponible sur commande,0,9
+610,Crackers - Soda / Saltins,3,boissons,en stock,7,0
+611,Cups 10oz Trans,46,légumes,temporairement indisponible,0,0
+612,Mahi Mahi,70,légumes,temporairement indisponible,0,0
+613,Bread - Pumpernickel,24,fruits,temporairement indisponible,0,0
+614,Strawberries - California,76,poisson,temporairement indisponible,0,0
+615,"Artichoke - Bottom Canned",74,légumes,temporairement indisponible,0,0
+616,Wine - Cotes Du Rhone Parallele,98,légumes,temporairement indisponible,0,0
+617,Pepper - Red Bell,93,viande,en stock,9,0
+618,Waffle Stix,66,légumes,temporairement indisponible,0,0
+619,Oil - Margarine,34,viande,disponible sur commande,0,10
+620,Spice - Onion Powder Granulated,68,boissons,en stock,9,0
+621,Wine - Jaboulet Cotes Du Rhone,61,légumes,en stock,9,0
+622,Tomato - Tricolor Cherry,64,fruits,temporairement indisponible,0,0
+623,"Artichoke - Bottom Canned",6,légumes,temporairement indisponible,0,0
+624,"Pasta - Rotini Dry",41,légumes,temporairement indisponible,0,0
+625,Tomato - Tricolor Cherry,6,fruits,en stock,5,0
+626,Paste - Black Olive,96,fruits,disponible sur commande,0,3
+627,"Bread - Roll Canadian Dinner",51,viande,en stock,8,0
+628,Chinese Foods - Pepper Beef,50,poisson,temporairement indisponible,0,0
+629,Sterno - Chafing Dish Fuel,34,viande,disponible sur commande,0,7
+630,"Coconut - Creamed Pure",28,fruits,temporairement indisponible,0,0
+631,Onions - Green,23,poisson,disponible sur commande,0,1
+632,Lettuce - Romaine,93,fruits,disponible sur commande,0,9
+633,Celery,78,poisson,en stock,9,0
+634,Pineapple - Regular,56,poisson,disponible sur commande,0,8
+635,Wine - Chardonnay Mondavi,73,boissons,disponible sur commande,0,9
+636,Ginger - Fresh,25,fruits,temporairement indisponible,0,0
+637,Coffee - Almond Amaretto,86,boissons,en stock,6,0
+638,Kahlua,90,poisson,temporairement indisponible,0,0
+639,"Mustard - Dry Powder",17,viande,temporairement indisponible,0,0
+640,Beef - Ground Medium,84,légumes,disponible sur commande,0,3
+641,Ham - Proscuitto,86,légumes,disponible sur commande,0,5
+642,Chicken Giblets,74,fruits,disponible sur commande,0,4
+643,Pate - Peppercorn,93,poisson,temporairement indisponible,0,0
+644,Chips - Miss Vickies,34,viande,temporairement indisponible,0,0
+645,"Wine - White Concha Y Toro",94,fruits,temporairement indisponible,0,0
+646,"Bag - Bread White Plain",88,légumes,temporairement indisponible,0,0
+647,Bread - Pain Au Liat X12,3,poisson,disponible sur commande,0,7
+648,Sauce - Marinara,31,fruits,en stock,8,0
+649,Table Cloth 91x91 Colour,48,boissons,disponible sur commande,0,9
+650,Beer - Mcauslan Apricot,63,fruits,temporairement indisponible,0,0
+651,Carroway Seed,63,fruits,disponible sur commande,0,7
+652,Kellogs Cereal In A Cup,88,viande,en stock,5,0
+653,Triple Sec - Mcguinness,96,boissons,disponible sur commande,0,10
+654,Puree - Raspberry,84,fruits,en stock,1,0
+655,"Wine - Saint - Bris 2002 Sauv",56,viande,temporairement indisponible,0,0
+656,Coffee Beans - Chocolate,56,poisson,en stock,1,0
+657,Compound - Pear,52,légumes,en stock,3,0
+658,Bread - Kimel Stick Poly,74,boissons,disponible sur commande,0,2
+659,Milk - 2% 250 Ml,41,fruits,en stock,4,0
+660,Wine - Pinot Noir Stoneleigh,69,légumes,en stock,5,0
+661,"Cod - Salted Boneless",63,viande,disponible sur commande,0,3
+662,Sprite - 355 Ml,20,légumes,en stock,2,0
+663,Carbonated Water - Cherry,13,viande,disponible sur commande,0,3
+664,Salt - Kosher,53,légumes,temporairement indisponible,0,0
+665,Crackers - Soda / Saltins,90,boissons,disponible sur commande,0,3
+666,Onions - Cippolini,62,poisson,temporairement indisponible,0,0
+667,Hersey Shakes,44,boissons,temporairement indisponible,0,0
+668,Cookies - Englishbay Chochip,25,fruits,temporairement indisponible,0,0
+669,"Wine - Red Mosaic Zweigelt",86,légumes,en stock,4,0
+670,"Shrimp - 16/20 Iqf Shell On",38,fruits,disponible sur commande,0,2
+671,Southern Comfort,98,boissons,en stock,4,0
+672,Meldea Green Tea Liquor,77,fruits,disponible sur commande,0,9
+673,Wine - Rosso Del Veronese Igt,87,poisson,disponible sur commande,0,2
+674,"Bread - Pullman Sliced",45,poisson,en stock,3,0
+675,Lobster - Base,97,poisson,disponible sur commande,0,1
+676,Mushroom - Porcini Frozen,83,poisson,en stock,9,0
+677,Icecream Cone - Areo Chocolate,81,fruits,disponible sur commande,0,2
+678,Nori Sea Weed - Gold Label,99,poisson,disponible sur commande,0,8
+679,Pasta - Fusili Tri - Coloured,74,viande,temporairement indisponible,0,0
+680,Wine - Jaboulet Cotes Du Rhone,11,légumes,disponible sur commande,0,3
+681,"Beef - Rib Roast Capless",52,viande,en stock,4,0
+682,Veal - Knuckle,18,boissons,en stock,7,0
+683,"Bread - Bagels Plain",30,fruits,en stock,4,0
+684,Wine - Zonnebloem Pinotage,97,boissons,en stock,7,0
+685,Lemonade - Pineapple Passion,77,poisson,temporairement indisponible,0,0
+686,Quail Eggs - Canned,45,viande,en stock,9,0
+687,"Doilies - 8 Paper",100,boissons,en stock,6,0
+688,Sprouts - Pea,29,légumes,disponible sur commande,0,6
+689,Roe - White Fish,98,poisson,en stock,5,0
+690,Cheese - Gorgonzola,86,poisson,en stock,3,0
+691,Coffee - French Vanilla Frothy,93,fruits,disponible sur commande,0,4
+692,Flounder - Fresh,93,fruits,en stock,6,0
+693,Toamtoes 6x7 Select,20,poisson,temporairement indisponible,0,0
+694,Butcher Twine 4r,73,boissons,temporairement indisponible,0,0
+695,Bread - Raisin Walnut Oval,71,poisson,en stock,8,0
+696,Bar Mix - Lime,47,fruits,temporairement indisponible,0,0
+697,Wine - Tio Pepe Sherry Fino,98,fruits,temporairement indisponible,0,0
+698,"Cheese - Mozzarella Shredded",44,boissons,en stock,5,0
+699,Nori Sea Weed,85,fruits,en stock,10,0
+700,"Pasta - Fettuccine Egg Fresh",83,boissons,temporairement indisponible,0,0
+701,"Juice - Pineapple 48 Oz",89,boissons,en stock,1,0
+702,Bok Choy - Baby,59,viande,disponible sur commande,0,10
+703,"Wine - Cahors Ac 2000 Clos",33,viande,temporairement indisponible,0,0
+704,"Lamb - Loin Trimmed Boneless",44,boissons,en stock,3,0
+705,Compound - Rum,3,légumes,disponible sur commande,0,6
+706,Sweet Pea Sprouts,14,viande,disponible sur commande,0,9
+707,"Sauce - Black Current Dry Mix",52,poisson,en stock,1,0
+708,Flour - Strong,4,viande,en stock,2,0
+709,"Cup - 6oz Foam",97,viande,temporairement indisponible,0,0
+710,Sobe - Tropical Energy,74,boissons,disponible sur commande,0,4
+711,Gatorade - Cool Blue Raspberry,35,boissons,en stock,7,0
+712,Capers - Ox Eye Daisy,18,fruits,en stock,7,0
+713,Island Oasis - Sweet And Sour Mix,54,fruits,disponible sur commande,0,4
+714,Bagel - Ched Chs Presliced,22,boissons,temporairement indisponible,0,0
+715,"Lemonade - Island Tea 591 Ml",68,légumes,en stock,7,0
+716,Liquid Aminios Acid - Braggs,16,poisson,disponible sur commande,0,7
+717,Bread Base - Goodhearth,39,légumes,disponible sur commande,0,1
+718,Macaroons - Two Bite Choc,80,boissons,en stock,5,0
+719,Goat - Whole Cut,37,poisson,disponible sur commande,0,4
+720,Kellogs Special K Cereal,9,boissons,temporairement indisponible,0,0
+721,Bread - English Muffin,62,poisson,en stock,5,0
+722,Beets,55,boissons,disponible sur commande,0,3
+723,Soup - Base Broth Beef,95,poisson,en stock,1,0
+724,Pork - Shoulder,9,boissons,disponible sur commande,0,9
+725,Oyster - In Shell,91,fruits,en stock,7,0
+726,Carbonated Water - Peach,10,poisson,temporairement indisponible,0,0
+727,Pepper - Pablano,70,boissons,disponible sur commande,0,3
+728,"Cheese - Havarti Roasted Garlic",44,boissons,disponible sur commande,0,8
+729,Aromat Spice / Seasoning,35,viande,disponible sur commande,0,2
+730,Coffee - Ristretto Coffee Capsule,52,poisson,disponible sur commande,0,9
+731,"7up Diet 355 Ml",18,fruits,en stock,6,0
+732,Pastry - Trippleberry Muffin - Mini,37,viande,temporairement indisponible,0,0
+733,Quail - Jumbo Boneless,18,fruits,en stock,10,0
+734,Muffin Chocolate Individual Wrap,2,fruits,en stock,10,0
+735,Butter Balls Salted,89,légumes,temporairement indisponible,0,0
+736,Table Cloth 81x81 White,91,viande,disponible sur commande,0,6
+737,Cheese - Shred Cheddar / Mozza,75,boissons,disponible sur commande,0,5
+738,Bagel - 12 Grain Preslice,6,viande,disponible sur commande,0,2
+739,Apple - Fuji,67,viande,disponible sur commande,0,10
+740,Carbonated Water - Lemon Lime,50,poisson,temporairement indisponible,0,0
+741,Wine - Fontanafredda Barolo,30,poisson,en stock,8,0
+742,Clam - Cherrystone,43,boissons,disponible sur commande,0,1
+743,Dried Apple,55,boissons,temporairement indisponible,0,0
+744,Wine - Peller Estates Late,14,boissons,disponible sur commande,0,4
+745,Sauce - Hollandaise,46,boissons,en stock,9,0
+746,"Trout - Rainbow Frozen",10,poisson,en stock,10,0
+747,Flour - So Mix Cake White,31,fruits,en stock,1,0
+748,"Bread - Roll Whole Wheat",69,fruits,en stock,9,0
+749,Sugar - Invert,42,fruits,disponible sur commande,0,5
+750,Sage - Ground,63,poisson,disponible sur commande,0,10
+751,Wine - Guy Sage Touraine,56,viande,temporairement indisponible,0,0
+752,Icecream - Dibs,62,fruits,en stock,8,0
+753,Containter - 3oz Microwave Rect.,85,viande,en stock,1,0
+754,Chickhen - Chicken Phyllo,38,fruits,disponible sur commande,0,2
+755,Celery Root,57,viande,disponible sur commande,0,1
+756,Glove - Cutting,61,légumes,disponible sur commande,0,8
+757,Muffin Hinge 117n,40,boissons,en stock,6,0
+758,Sage - Rubbed,83,boissons,temporairement indisponible,0,0
+759,"Tart Shells - Savory 4",18,fruits,en stock,1,0
+760,Energy - Boo - Koo,43,boissons,en stock,1,0
+761,Saskatoon Berries - Frozen,93,légumes,disponible sur commande,0,5
+762,"Soup - Beef Base Mix",78,boissons,disponible sur commande,0,9
+763,Bread Foccacia Whole,66,viande,disponible sur commande,0,6
+764,"Cheese - Cheddar Medium",42,légumes,en stock,3,0
+765,Pork - Ham Hocks - Smoked,17,légumes,en stock,7,0
+766,Wine - Jafflin Bourgongone,22,légumes,disponible sur commande,0,9
+767,Magnotta - Bel Paese White,19,viande,disponible sur commande,0,4
+768,"Lamb - Leg Boneless",93,viande,disponible sur commande,0,3
+769,Cookie Dough - Double,66,fruits,disponible sur commande,0,8
+770,"Lemonade - Strawberry 591 Ml",65,boissons,disponible sur commande,0,8
+771,Dawn Professionl Pot And Pan,73,boissons,en stock,5,0
+772,Eggplant - Baby,18,boissons,disponible sur commande,0,5
+773,Pasta - Canelloni,45,viande,temporairement indisponible,0,0
+774,Tomatoes - Heirloom,29,poisson,disponible sur commande,0,5
+775,Chicken - Wieners,71,poisson,temporairement indisponible,0,0
+776,Wine - Malbec Trapiche Reserve,45,légumes,disponible sur commande,0,4
+777,Muffin - Mix - Mango Sour Cherry,25,légumes,en stock,9,0
+778,Godiva White Chocolate,12,fruits,disponible sur commande,0,1
+779,Lid - 0090 Clear,98,fruits,en stock,4,0
+780,Cookies Almond Hazelnut,31,boissons,en stock,6,0
+781,Wine - Maipo Valle Cabernet,27,légumes,en stock,5,0
+782,Wine - Fume Blanc Fetzer,32,viande,disponible sur commande,0,6
+783,Turnip - Mini,26,fruits,temporairement indisponible,0,0
+784,Cheese - Goat,88,légumes,disponible sur commande,0,3
+785,"Lettuce - Mini Greens Whole",36,boissons,temporairement indisponible,0,0
+786,"Vinegar - Balsamic White",30,viande,disponible sur commande,0,5
+787,"Wine - Magnotta - Red Baco",37,viande,en stock,5,0
+788,"Pepper - Black Crushed",41,boissons,disponible sur commande,0,3
+789,Tea - Lemon Scented,92,boissons,en stock,2,0
+790,Cheese - Augre Des Champs,33,viande,en stock,4,0
+791,"Mushroom - Morels Dry",83,légumes,temporairement indisponible,0,0
+792,Dasheen,86,poisson,disponible sur commande,0,3
+793,Cheese - Parmesan Grated,7,viande,temporairement indisponible,0,0
+794,Crab Brie In Phyllo,27,boissons,disponible sur commande,0,5
+795,Rabbit - Saddles,81,poisson,temporairement indisponible,0,0
+796,"Crush - Orange 355ml",96,viande,disponible sur commande,0,5
+797,"Sauce - Bernaise Mix",68,légumes,temporairement indisponible,0,0
+798,Soup - Campbells,85,fruits,disponible sur commande,0,7
+799,Tea - Vanilla Chai,74,légumes,disponible sur commande,0,2
+800,"Wine - Magnotta White",22,légumes,temporairement indisponible,0,0
+801,"Turkey - Whole Fresh",35,légumes,en stock,7,0
+802,Latex Rubber Gloves Size 9,49,boissons,en stock,3,0
+803,Amarula Cream,38,légumes,disponible sur commande,0,2
+804,Wine - Domaine Boyar Royal,89,légumes,temporairement indisponible,0,0
+805,Spice - Montreal Steak Spice,49,légumes,en stock,10,0
+806,Jameson Irish Whiskey,65,légumes,temporairement indisponible,0,0
+807,Veal - Kidney,74,fruits,disponible sur commande,0,6
+808,"Star Anise Whole",31,viande,disponible sur commande,0,1
+809,Onions - Cippolini,42,boissons,temporairement indisponible,0,0
+810,Cheese - La Sauvagine,52,légumes,disponible sur commande,0,2
+811,Chinese Foods - Plain Fried Rice,57,fruits,en stock,8,0
+812,Fruit Salad Deluxe,79,boissons,temporairement indisponible,0,0
+813,Dragon Fruit,61,viande,disponible sur commande,0,6
+814,"Iced Tea - Lemon 460 Ml",82,fruits,en stock,2,0
+815,Pastry - Banana Muffin - Mini,96,légumes,disponible sur commande,0,8
+816,Wine - Piper Heidsieck Brut,20,boissons,en stock,9,0
+817,"Yogurt - Blueberry 175 Gr",2,viande,temporairement indisponible,0,0
+818,"Pepper - Black Whole",23,légumes,disponible sur commande,0,5
+819,Steel Wool S.o.s,90,viande,temporairement indisponible,0,0
+820,Cheese - Ricotta,5,légumes,disponible sur commande,0,6
+821,Lemon Tarts,13,boissons,disponible sur commande,0,10
+822,Dried Cherries,26,viande,en stock,7,0
+823,Energy Drink - Franks Original,50,légumes,disponible sur commande,0,4
+824,Wine - Acient Coast Caberne,58,boissons,temporairement indisponible,0,0
+825,Pepper - Gypsy Pepper,89,légumes,disponible sur commande,0,1
+826,Pepper - Yellow Bell,4,légumes,en stock,6,0
+827,Daves Island Stinger,55,poisson,en stock,1,0
+828,Wine - Alicanca Vinho Verde,89,légumes,temporairement indisponible,0,0
+829,Sambuca - Ramazzotti,96,boissons,disponible sur commande,0,9
+830,"Salmon - Smoked Sliced",27,viande,en stock,10,0
+831,"Asparagus - White Canned",37,fruits,temporairement indisponible,0,0
+832,Marjoram - Fresh,6,légumes,disponible sur commande,0,9
+833,"Sauce - White Mix",67,fruits,en stock,8,0
+834,"Pepper - White Whole",10,fruits,temporairement indisponible,0,0
+835,Pop Shoppe Cream Soda,85,boissons,en stock,7,0
+836,Wine - Niagara Peninsula Vqa,55,légumes,en stock,5,0
+837,Foie Gras,99,boissons,en stock,1,0
+838,"7up Diet 355 Ml",51,poisson,en stock,9,0
+839,"Wine - Sherry Dry Sack William",40,boissons,disponible sur commande,0,5
+840,Coffee - French Vanilla Frothy,46,boissons,en stock,4,0
+841,Juice - Cranberry 284ml,94,poisson,disponible sur commande,0,3
+842,Flour - Whole Wheat,60,boissons,temporairement indisponible,0,0
+843,Chick Peas - Dried,51,boissons,temporairement indisponible,0,0
+844,Wine - Cabernet Sauvignon,3,fruits,en stock,6,0
+845,Pickles - Gherkins,5,boissons,disponible sur commande,0,9
+846,Lettuce - Lolla Rosa,31,viande,disponible sur commande,0,9
+847,"Mushroom - Trumpet Dry",48,viande,temporairement indisponible,0,0
+848,"Turkey - Breast Boneless Sk On",86,viande,en stock,10,0
+849,"Bag - Bread White Plain",91,poisson,temporairement indisponible,0,0
+850,Oil - Safflower,71,viande,en stock,6,0
+851,Table Cloth 81x81 Colour,81,viande,disponible sur commande,0,8
+852,Sword Pick Asst,82,poisson,temporairement indisponible,0,0
+853,"Tart Shells - Savory 4",22,fruits,en stock,5,0
+854,"Salmon - Atlantic Fresh Whole",19,fruits,temporairement indisponible,0,0
+855,Frangelico,41,boissons,en stock,1,0
+856,"Juice - Orange 341 Ml",60,viande,disponible sur commande,0,3
+857,Raspberries - Fresh,58,poisson,disponible sur commande,0,1
+858,"Yogurt - Strawberry 175 Gr",19,poisson,disponible sur commande,0,7
+859,"Lamb - Leg Boneless",74,boissons,temporairement indisponible,0,0
+860,Wine - Periguita Fonseca,27,fruits,temporairement indisponible,0,0
+861,Gherkin,8,boissons,en stock,9,0
+862,Lid - 3oz Med Rec,23,viande,temporairement indisponible,0,0
+863,"Wine - Red Gamay Noir",14,poisson,disponible sur commande,0,7
+864,Juice - V8 Splash,64,fruits,en stock,5,0
+865,Miso Paste White,98,fruits,disponible sur commande,0,2
+866,Wine - Hardys Bankside Shiraz,57,fruits,disponible sur commande,0,7
+867,Pate - Peppercorn,14,boissons,en stock,5,0
+868,"Pasta - Fettuccine Dry",98,poisson,disponible sur commande,0,5
+869,"Pasta - Linguini Dry",82,viande,temporairement indisponible,0,0
+870,"Stock - Chicken White",50,légumes,en stock,6,0
+871,Soup - Campbells Chili Veg,95,viande,disponible sur commande,0,10
+872,Salt - Seasoned,66,légumes,temporairement indisponible,0,0
+873,Beef - Prime Rib Aaa,88,fruits,disponible sur commande,0,8
+874,Sobe - Green Tea,25,boissons,disponible sur commande,0,8
+875,Coffee - Dark Roast,59,poisson,temporairement indisponible,0,0
+876,Fudge - Chocolate Fudge,58,boissons,en stock,5,0
+877,Pastry - Butterscotch Baked,93,boissons,temporairement indisponible,0,0
+878,Bag - Clear 7 Lb,42,poisson,disponible sur commande,0,8
+879,Tomatoes - Roma,53,fruits,temporairement indisponible,0,0
+880,Table Cloth 81x81 Colour,17,poisson,en stock,3,0
+881,Pomello,17,boissons,temporairement indisponible,0,0
+882,"Stock - Veal Brown",40,boissons,temporairement indisponible,0,0
+883,Syrup - Chocolate,97,fruits,disponible sur commande,0,8
+884,Cabbage - Red,16,boissons,en stock,1,0
+885,Butter Balls Salted,43,légumes,temporairement indisponible,0,0
+886,Muffin Carrot - Individual,13,poisson,temporairement indisponible,0,0
+887,Wine - Redchard Merritt,56,légumes,disponible sur commande,0,5
+888,Coffee Swiss Choc Almond,26,légumes,temporairement indisponible,0,0
+889,Alize Sunset,10,poisson,en stock,4,0
+890,"Sugar - Brown Individual",12,viande,disponible sur commande,0,3
+891,Cheese - Cheddarsliced,4,poisson,en stock,10,0
+892,Wine - Fontanafredda Barolo,50,poisson,temporairement indisponible,0,0
+893,Beef - Montreal Smoked Brisket,90,poisson,temporairement indisponible,0,0
+894,Wine - Chablis J Moreau Et Fils,50,légumes,disponible sur commande,0,10
+895,Snails - Large Canned,96,boissons,en stock,2,0
+896,Potatoes - Yukon Gold 5 Oz,34,poisson,disponible sur commande,0,8
+897,Bread Roll Foccacia,66,poisson,en stock,2,0
+898,Sambuca - Opal Nera,86,légumes,disponible sur commande,0,7
+899,Paste - Black Olive,17,légumes,disponible sur commande,0,5
+900,Wine - Magnotta - Cab Franc,52,boissons,disponible sur commande,0,2
+901,Salt - Sea,60,légumes,temporairement indisponible,0,0
+902,Goat - Whole Cut,85,viande,temporairement indisponible,0,0
+903,Nantucket - Kiwi Berry Cktl.,8,boissons,disponible sur commande,0,3
+904,Wine - Clavet Saint Emilion,27,fruits,en stock,8,0
+905,Isomalt,28,viande,disponible sur commande,0,10
+906,"Wine - White Riesling Semi - Dry",97,viande,temporairement indisponible,0,0
+907,Coffee - Espresso,1,légumes,en stock,8,0
+908,Cheese - Grana Padano,68,boissons,en stock,6,0
+909,Beans - Fava Fresh,14,boissons,disponible sur commande,0,9
+910,Rhubarb,34,fruits,en stock,1,0
+911,"Brocolinni - Gaylan Chinese",15,fruits,en stock,10,0
+912,Maintenance Removal Charge,100,viande,disponible sur commande,0,4
+913,Mushroom - Porcini Frozen,88,poisson,en stock,9,0
+914,Bread - Mini Hamburger Bun,45,fruits,en stock,8,0
+915,Noodles - Steamed Chow Mein,48,viande,temporairement indisponible,0,0
+916,"Pork - Loin Center Cut",90,poisson,disponible sur commande,0,10
+917,Sterno - Chafing Dish Fuel,56,légumes,disponible sur commande,0,1
+918,Mushroom - Lg - Cello,71,fruits,disponible sur commande,0,7
+919,"Doilies - 8 Paper",3,fruits,disponible sur commande,0,10
+920,Dc Hikiage Hira Huba,26,boissons,temporairement indisponible,0,0
+921,Cookies - Englishbay Chochip,48,poisson,temporairement indisponible,0,0
+922,Kiwi,19,poisson,temporairement indisponible,0,0
+923,"Turkey - Breast Double",74,boissons,temporairement indisponible,0,0
+924,Tea - Herbal I Love Lemon,91,boissons,disponible sur commande,0,4
+925,"Cake Circle Paprus",3,légumes,disponible sur commande,0,7
+926,Wine - Shiraz Wolf Blass Premium,61,poisson,temporairement indisponible,0,0
+927,"Wine - Red Mouton Cadet",53,poisson,temporairement indisponible,0,0
+928,Pork - European Side Bacon,84,viande,disponible sur commande,0,8
+929,Chevere Logs,24,fruits,temporairement indisponible,0,0
+930,"Quail - Eggs Fresh",79,poisson,disponible sur commande,0,8
+931,Soup - Cream Of Potato / Leek,62,poisson,en stock,10,0
+932,Mix - Cocktail Strawberry Daiquiri,23,poisson,disponible sur commande,0,3
+933,Bread - Granary Small Pull,12,poisson,en stock,7,0
+934,Samosa - Veg,93,fruits,disponible sur commande,0,2
+935,Sausage - Andouille,29,légumes,disponible sur commande,0,2
+936,Urban Zen Drinks,29,boissons,en stock,8,0
+937,"Potatoes - Purple Organic",4,boissons,disponible sur commande,0,8
+938,"Lettuce - Romaine Heart",89,boissons,en stock,10,0
+939,Spaghetti Squash,9,poisson,disponible sur commande,0,3
+940,Shrimp - 100 / 200 Cold Water,75,poisson,en stock,3,0
+941,Godiva White Chocolate,31,viande,en stock,6,0
+942,Lobster - Live,38,boissons,en stock,3,0
+943,Buttons,39,boissons,en stock,2,0
+944,"Lid - High Heat Super Clear",58,boissons,temporairement indisponible,0,0
+945,Bread Base - Toscano,3,viande,en stock,2,0
+946,Brandy Cherry - Mcguinness,90,poisson,en stock,4,0
+947,"Pasta - Lasagne Fresh",11,légumes,temporairement indisponible,0,0
+948,Black Currants,85,viande,temporairement indisponible,0,0
+949,"Chilli Paste Ginger Garlic",8,boissons,en stock,9,0
+950,Wine - Cave Springs Dry Riesling,85,viande,en stock,8,0
+951,"Pasta - Gnocchi Potato",42,viande,en stock,8,0
+952,Bag Clear 10 Lb,51,viande,disponible sur commande,0,5
+953,"Juice - Tomato 48 Oz",55,boissons,en stock,10,0
+954,"Pasta - Penne Lisce Dry",91,légumes,temporairement indisponible,0,0
+955,"Mushroom - Morels Dry",27,boissons,temporairement indisponible,0,0
+956,Pie Box - Cello Window 2.5,13,viande,temporairement indisponible,0,0
+957,"Lamb - Leg Diced",48,boissons,en stock,5,0
+958,Tomatoes - Yellow Hot House,94,fruits,disponible sur commande,0,7
+959,"Bread - Rolls Corn",34,boissons,temporairement indisponible,0,0
+960,Ecolab - Hobart Upr Prewash Arm,22,viande,en stock,1,0
+961,Wine - Touraine Azay - Le - Rideau,43,viande,disponible sur commande,0,8
+962,Fiddlehead - Frozen,16,légumes,en stock,7,0
+963,Cream - 10%,71,poisson,temporairement indisponible,0,0
+964,Artichokes - Jerusalem,89,légumes,en stock,8,0
+965,Chevril,26,légumes,en stock,7,0
+966,Crawfish,14,fruits,en stock,5,0
+967,"Spoon - Soup Plastic",93,poisson,en stock,1,0
+968,Squash - Acorn,34,boissons,disponible sur commande,0,7
+969,Energy - Boo - Koo,50,poisson,disponible sur commande,0,8
+970,Nectarines,90,légumes,disponible sur commande,0,9
+971,English Muffin,11,poisson,en stock,4,0
+972,Dates,1,boissons,en stock,2,0
+973,Melon - Watermelon Yellow,13,boissons,disponible sur commande,0,3
+974,Onions - Cippolini,76,viande,temporairement indisponible,0,0
+975,Yogurt - Assorted Pack,10,fruits,temporairement indisponible,0,0
+976,Wine - Casablanca Valley,42,légumes,en stock,3,0
+977,"Soup - Cream Of Broccoli Dry",51,boissons,en stock,10,0
+978,Pasta - Ravioli,51,fruits,en stock,8,0
+979,Food Colouring - Pink,32,poisson,temporairement indisponible,0,0
+980,Longos - Chicken Cordon Bleu,98,boissons,en stock,9,0
+981,Shallots,54,poisson,temporairement indisponible,0,0
+982,Country Roll,15,viande,temporairement indisponible,0,0
+983,"Wine - Red Antinori Santa",36,fruits,temporairement indisponible,0,0
+984,Flavouring - Raspberry,65,boissons,disponible sur commande,0,8
+985,Nantucket - Kiwi Berry Cktl.,24,viande,disponible sur commande,0,3
+986,Containter - 3oz Microwave Rect.,8,légumes,en stock,1,0
+987,Bar Nature Valley,53,poisson,en stock,9,0
+988,Onions - Pearl,26,fruits,disponible sur commande,0,8
+989,"Shrimp - Baby Warm Water",16,poisson,disponible sur commande,0,10
+990,"Soup - Campbells Classic Chix",67,fruits,temporairement indisponible,0,0
+991,Soho Lychee Liqueur,28,fruits,disponible sur commande,0,5
+992,Bonito Flakes - Toku Katsuo,44,poisson,temporairement indisponible,0,0
+993,"Lemonade - Kiwi 591 Ml",18,fruits,temporairement indisponible,0,0
+994,"Soup - Campbells Chix Gumbo",23,boissons,disponible sur commande,0,8
+995,Plums - Red,42,poisson,en stock,5,0
+996,"Pasta - Fettuccine Egg Fresh",6,boissons,disponible sur commande,0,6
+997,Spice - Paprika,80,fruits,en stock,9,0
+998,Tomatoes,45,fruits,temporairement indisponible,0,0
+999,Beans - Fava Fresh,18,boissons,temporairement indisponible,0,0
+1000,Gooseberry,10,légumes,en stock,5,0
