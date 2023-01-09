@@ -20,7 +20,7 @@ Les clients peuvent déposer des avis et des notes (sur les produits), qui sont 
 
 II) Peuplement des tables
 
-Les tables sont alimentées à partir de fichiers csv générés par vous-même à l'aide du site. 
+Les tables sont alimentées à partir de fichiers csv générés par moi-même à l'aide du site https://www.mockaroo.com/. 
 
 III) Les requêtes
 
